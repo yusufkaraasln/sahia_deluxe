@@ -10,7 +10,6 @@ const SideBar = () => {
         {/* Logo */}
         <div className="cappa-logo">
           <a href="index.html">
-            {/* <img src="img/logo.png" class="logo-img" alt=""> */}
             <img class="logo-img" src="img/logo/logo.png" alt="" />
           </a>
         </div>
@@ -21,23 +20,8 @@ const SideBar = () => {
               <a href="#">Anasayfa</a>
             </li>
 
-            <li className="cappa-sub">
-              <a href="#">
-                {" "}
-                Odalar <i className="ti-angle-down" />
-              </a>
-              <ul>
-                <li>
-                  <a href="rooms.html">Odalar</a>
-                </li>
-
-                <li>
-                  <a href="room-details.html">Oda 1</a>
-                </li>
-                <li>
-                  <a href="room-details.html">Oda 1</a>
-                </li>
-              </ul>
+            <li>
+              <a href="gallery.html">Odalar</a>
             </li>
             <li>
               <a href="gallery.html">Galeri</a>
@@ -45,7 +29,21 @@ const SideBar = () => {
             <li>
               <a href="restaurant.html">Restoran</a>
             </li>
+            <li className="cappa-sub">
+              <a href="#">
+                {" "}
+                Kurumsal <i className="ti-angle-down" />
+              </a>
+              <ul>
+                <li>
+                  <a href="rooms.html">Hakkımızda</a>
+                </li>
 
+                <li>
+                  <a href="room-details.html">İK Kariyer</a>
+                </li>
+              </ul>
+            </li>
             <li>
               <a href="contact.html">İletişim</a>
             </li>
