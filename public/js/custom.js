@@ -3,36 +3,35 @@
 [ Custom settings ]
 
 01. ScrollIt
-02. Navbar scrolling background
-03. Close navbar-collapse when a  clicked
-04. Sections background image from data background 
-05. Animations
-06. YouTubePopUp
-07. Testimonials owlCarousel
-08. Rooms 1 owlCarousel
-09. Rooms Page owlCarousel
-10. Pricing owlCarousel
-11. News owlCarousel
-12. Team owlCarousel
-13. Clients owlCarousel
-14. Restaurant Menu owlCarousel
-15. Restaurant Menu Tabs
-16. Accordion Box (for Faqs)
-17. MagnificPopup Gallery
-18. Smooth Scrolling
-19. Scroll back to top
-20. Select2
-21. Datapicker
-22. Slider
-23. Preloader
-24. Contact Form
-25. Slider Grid Background
+02. Sections background image from data background 
+03. Animations
+04. YouTubePopUp
+05. Testimonials owlCarousel
+06. Rooms 1 owlCarousel
+07. Rooms 2 owlCarousel
+08. Rooms Page owlCarousel
+09. Pricing owlCarousel
+10. News owlCarousel
+11. Team owlCarousel
+12. Clients owlCarousel
+13. Restaurant Menu owlCarousel
+14. Restaurant Menu Tabs
+15. Accordion Box (for Faqs)
+16. MagnificPopup Gallery
+17. Smooth Scrolling
+18. Select2
+19. Datapicker
+20. Slider
+21. Preloader
+22. Contact Form
+23. Slider Grid Background
+24. Scroll back to top
 
 ------------------------------------------------------- */
+
 $(function () {
     "use strict";
     var wind = $(window);
-    
     
     // ScrollIt
     $.scrollIt({
@@ -45,28 +44,67 @@ $(function () {
         topOffset: -70 // offste (in px) for fixed top navigation
     });
     
+     // Burger Menu 
+    var burgerMenu = function () {
+        $('.js-cappa-nav-toggle').on('click', function (event) {
+            event.preventDefault();
+            var $this = $(this);
+            if ($('body').hasClass('offcanvason')) {
+                $this.removeClass('active');
+                $('body').removeClass('offcanvason');
+            }
+            else {
+                $this.addClass('active');
+                $('body').addClass('offcanvason');
+            }
+        });
+    };
     
-    // Navbar scrolling background
-    wind.on("scroll", function () {
-        var bodyScroll = wind.scrollTop(),
-            navbar = $(".navbar"),
-            logo = $(".navbar .logo> img");
-        if (bodyScroll > 100) {
-            navbar.addClass("nav-scroll");
-            logo.attr('src', 'img/logo.png');
-        } else {
-            navbar.removeClass("nav-scroll");
-            logo.attr('src', 'img/logo.png');
+    // Click outside of offcanvason
+    var mobileMenuOutsideClick = function () {
+        $(document).click(function (e) {
+            var container = $("#cappa-aside, .js-cappa-nav-toggle");
+            if (!container.is(e.target) && container.has(e.target).length === 0) {
+                if ($('body').hasClass('offcanvason')) {
+                    $('body').removeClass('offcanvason');
+                    $('.js-cappa-nav-toggle').removeClass('active');
+                }
+            }
+        });
+        $(window).scroll(function () {
+            if ($('body').hasClass('offcanvason')) {
+                $('body').removeClass('offcanvason');
+                $('.js-cappa-nav-toggle').removeClass('active');
+            }
+        });
+    };
+    
+    // Sub Menu 
+    $('.cappa-main-menu li.cappa-sub>a').on('click', function () {
+        $(this).removeAttr('href');
+        var element = $(this).parent('li');
+        if (element.hasClass('open')) {
+            element.removeClass('open');
+            element.find('li').removeClass('open');
+            element.find('ul').slideUp();
+        }
+        else {
+            element.addClass('open');
+            element.children('ul').slideDown();
+            element.siblings('li').children('ul').slideUp();
+            element.siblings('li').removeClass('open');
+            element.siblings('li').find('li').removeClass('open');
+            element.siblings('li').find('ul').slideUp();
         }
     });
+    $('.cappa-main-menu>ul>li.cappa-sub>a').append('<span class="holder"></span>');
     
-    
-    // Close navbar-collapse when a  clicked
-    $(".navbar-nav .dropdown-item a").on('click', function () {
-        $(".navbar-collapse").removeClass("show");
+    // Document on load.
+    $(function () {
+        burgerMenu();
+        mobileMenuOutsideClick();
     });
-    
-    
+
     // Sections background image from data background
     var pageSection = $(".bg-img, section");
     pageSection.each(function (indx) {
@@ -74,7 +112,6 @@ $(function () {
             $(this).css("background-image", "url(" + $(this).data("background") + ")");
         }
     });
-
     
     // Animations
     var contentWayPoint = function () {
@@ -110,10 +147,8 @@ $(function () {
         contentWayPoint();
     });
     
-    
     // YouTubePopUp
     $("a.vid").YouTubePopUp();
-    
     
     // Testimonials owlCarousel *
     $('.testimonials .owl-carousel').owlCarousel({
@@ -139,7 +174,31 @@ $(function () {
         }
     });
     
-    // Rooms 1 owlCarousel *
+    // Rooms owlCarousel *
+    $('.room .owl-carousel').owlCarousel({
+        loop: true,
+        margin: 30,
+        mouseDrag: true,
+        autoplay: false,
+        dots: true,
+        autoplayHoverPause: true,
+        nav: false,
+        navText: ["<span class='lnr ti-angle-left'></span>","<span class='lnr ti-angle-right'></span>"],
+        responsiveClass: true,
+        responsive: {
+            0: {
+                items: 1,
+            },
+            600: {
+                items: 1
+            },
+            1000: {
+                items: 1
+            }
+        }
+    });
+    
+    // Rooms 2 owlCarousel *
     $('.rooms2 .owl-carousel').owlCarousel({
         loop: true,
         margin: 30,
@@ -163,7 +222,7 @@ $(function () {
         }
     });
     
-    // Rooms 2 owlCarousel *
+    // Services owlCarousel *
     $('.services .owl-carousel').owlCarousel({
         loop: true,
         margin: 30,
@@ -183,30 +242,6 @@ $(function () {
             },
             1000: {
                 items: 1
-            }
-        }
-    });
-    
-    // Rooms 3 owlCarousel *
-    $('.rooms1 .owl-carousel').owlCarousel({
-        loop: true,
-        margin: 30,
-        mouseDrag: true,
-        autoplay: false,
-        dots: true,
-        autoplayHoverPause: true,
-        nav: false,
-        navText: ["<span class='lnr ti-angle-left'></span>","<span class='lnr ti-angle-right'></span>"],
-        responsiveClass: true,
-        responsive: {
-            0: {
-                items: 1,
-            },
-            600: {
-                items: 2
-            },
-            1000: {
-                items: 3
             }
         }
     });
@@ -264,23 +299,19 @@ $(function () {
         margin: 30,
         mouseDrag: true,
         autoplay: false,
-        dots: false,
-        nav: true,
+        dots: true,
+        nav: false,
         navText: ["<span class='lnr ti-angle-left'></span>","<span class='lnr ti-angle-right'></span>"],
         responsiveClass: true,
         responsive: {
             0: {
-                items: 1,
-                dots: true,
-                nav: false
+                items: 1
             },
             600: {
-                items: 2,
-                dots: true,
-                nav: false
+                items: 1
             },
             1000: {
-                items: 3
+                items: 2
             }
         }
     });
@@ -368,8 +399,6 @@ $(function () {
         $(this).addClass("actived").siblings().removeClass("actived");
     });
     
-    
-    
     // Accordion Box (for Faqs)
     if ($(".accordion-box").length) {
         $(".accordion-box").on("click", ".acc-btn", function () {
@@ -390,7 +419,6 @@ $(function () {
             }
         });
     }
-    
     
     // MagnificPopup Gallery
     $('.gallery').magnificPopup({
@@ -417,8 +445,7 @@ $(function () {
         removalDelay: 300,
         preloader: false,
         fixedContentPos: false
-    });
-    
+    }); 
 
     // Smooth Scrolling
     $('a[href*="#"]')
@@ -451,45 +478,10 @@ $(function () {
         }
     });
     
-    //  Scroll back to top
-    var progressPath = document.querySelector('.progress-wrap path');
-    var pathLength = progressPath.getTotalLength();
-    progressPath.style.transition = progressPath.style.WebkitTransition = 'none';
-    progressPath.style.strokeDasharray = pathLength + ' ' + pathLength;
-    progressPath.style.strokeDashoffset = pathLength;
-    progressPath.getBoundingClientRect();
-    progressPath.style.transition = progressPath.style.WebkitTransition = 'stroke-dashoffset 10ms linear';
-    var updateProgress = function () {
-        var scroll = $(window).scrollTop();
-        var height = $(document).height() - $(window).height();
-        var progress = pathLength - (scroll * pathLength / height);
-        progressPath.style.strokeDashoffset = progress;
-    }
-    updateProgress();
-    $(window).scroll(updateProgress);
-    var offset = 150;
-    var duration = 550;
-    jQuery(window).on('scroll', function () {
-        if (jQuery(this).scrollTop() > offset) {
-            jQuery('.progress-wrap').addClass('active-progress');
-        } else {
-            jQuery('.progress-wrap').removeClass('active-progress');
-        }
-    });
-    jQuery('.progress-wrap').on('click', function (event) {
-        event.preventDefault();
-        jQuery('html, body').animate({
-            scrollTop: 0
-        }, duration);
-        return false;
-    })
-    
-    
     // Select2
     $('.select2').select2({
         minimumResultsForSearch: Infinity,
     });
-    
     
     // Datapicker
     $(".datepicker").datepicker({
@@ -498,11 +490,9 @@ $(function () {
      
 });
 
-
 // Slider  
 $(document).ready(function () {
     var owl = $('.header .owl-carousel');
-    
     // Slider owlCarousel - (Inner Page Slider)
     $('.slider .owl-carousel').owlCarousel({
         items: 1,
@@ -526,7 +516,6 @@ $(document).ready(function () {
             }
         }
     });
-    
     // Slider owlCarousel (Homepage Slider)
     $('.slider-fade .owl-carousel').owlCarousel({
         items: 1,
@@ -568,12 +557,10 @@ $(document).ready(function () {
     });
 });
 
-
 // Preloader
 $("#preloader").fadeOut(700);
 	$(".preloader-bg").delay(700).fadeOut(700);
 	var wind = $(window);
-
 
 // Contact Form
 var form = $('.contact__form'),
@@ -605,3 +592,36 @@ var form = $('.contact__form'),
             data: form_data
         }).done(done_func).fail(fail_func);
     });
+
+//  Scroll back to top
+    var progressPath = document.querySelector('.progress-wrap path');
+    var pathLength = progressPath.getTotalLength();
+    progressPath.style.transition = progressPath.style.WebkitTransition = 'none';
+    progressPath.style.strokeDasharray = pathLength + ' ' + pathLength;
+    progressPath.style.strokeDashoffset = pathLength;
+    progressPath.getBoundingClientRect();
+    progressPath.style.transition = progressPath.style.WebkitTransition = 'stroke-dashoffset 10ms linear';
+    var updateProgress = function () {
+        var scroll = $(window).scrollTop();
+        var height = $(document).height() - $(window).height();
+        var progress = pathLength - (scroll * pathLength / height);
+        progressPath.style.strokeDashoffset = progress;
+    }
+    updateProgress();
+    $(window).scroll(updateProgress);
+    var offset = 150;
+    var duration = 550;
+    jQuery(window).on('scroll', function () {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.progress-wrap').addClass('active-progress');
+        } else {
+            jQuery('.progress-wrap').removeClass('active-progress');
+        }
+    });
+    jQuery('.progress-wrap').on('click', function (event) {
+        event.preventDefault();
+        jQuery('html, body').animate({
+            scrollTop: 0
+        }, duration);
+        return false;
+    })
