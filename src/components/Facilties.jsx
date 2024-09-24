@@ -1,13 +1,13 @@
 import React from "react";
 
-const Facilties = () => {
+const Facilities = () => {
   return (
-    <section className="facilties section-padding">
+    <section className="facilities section-padding">
       <div className="container">
         <div className="row">
           <div className="col-md-12 text-center mb-30">
-            <div className="section-subtitle">Amenities</div>
-            <div className="section-title">Make Your Stay Memorable</div>
+            <div className="section-subtitle">Olanaklar</div>
+            <div className="section-title">Konaklamanızı Unutulmaz Kılın</div>
           </div>
         </div>
         <div className="row">
@@ -16,16 +16,13 @@ const Facilties = () => {
               className="single-facility animate-box"
               data-animate-effect="fadeInUp"
             >
-              {" "}
               <span className="flaticon-world" />
-              <h5>Pick Up &amp; Drop</h5>
+              <h5>Transfer Hizmeti</h5>
               <p>
-                We’ll pick up from airport while you comfy on your ride mus
-                habitan.
+                Havaalanından transfer hizmeti ile konforlu bir yolculuk yapın.
               </p>
               <div className="facility-shape">
-                {" "}
-                <span className="flaticon-world" />{" "}
+                <span className="flaticon-world" />
               </div>
             </div>
           </div>
@@ -34,16 +31,13 @@ const Facilties = () => {
               className="single-facility animate-box"
               data-animate-effect="fadeInUp"
             >
-              {" "}
               <span className="flaticon-car" />
-              <h5>Parking Space</h5>
+              <h5>Otopark Alanı</h5>
               <p>
-                Fusce tincidunt nis ace park norttito sit amet space nellentes
-                habitan.
+                Güvenli otopark alanımızda aracınızı rahatça park edebilirsiniz.
               </p>
               <div className="facility-shape">
-                {" "}
-                <span className="flaticon-car" />{" "}
+                <span className="flaticon-car" />
               </div>
             </div>
           </div>
@@ -52,16 +46,13 @@ const Facilties = () => {
               className="single-facility animate-box"
               data-animate-effect="fadeInUp"
             >
-              {" "}
               <span className="flaticon-bed" />
-              <h5>Room Service</h5>
+              <h5>Oda Servisi</h5>
               <p>
-                Room tincidunt nis ace park norttito sit amet space nellentes
-                habitan.
+                Oda servisi ile konforlu bir deneyim yaşayın, lezzetli yemekler kapınıza gelsin.
               </p>
               <div className="facility-shape">
-                {" "}
-                <span className="flaticon-bed" />{" "}
+                <span className="flaticon-bed" />
               </div>
             </div>
           </div>
@@ -70,16 +61,13 @@ const Facilties = () => {
               className="single-facility animate-box"
               data-animate-effect="fadeInUp"
             >
-              {" "}
               <span className="flaticon-swimming" />
-              <h5>Swimming Pool</h5>
+              <h5>Yüzme Havuzu</h5>
               <p>
-                Swimming pool tincidunt nise ace park norttito sit space
-                nellentes.
+                Özel havuzunuzda serinleyin ve Sapanca'nın doğal güzelliklerinin tadını çıkarın.
               </p>
               <div className="facility-shape">
-                {" "}
-                <span className="flaticon-swimming" />{" "}
+                <span className="flaticon-swimming" />
               </div>
             </div>
           </div>
@@ -88,16 +76,13 @@ const Facilties = () => {
               className="single-facility animate-box"
               data-animate-effect="fadeInUp"
             >
-              {" "}
               <span className="flaticon-wifi" />
-              <h5>Fibre Internet</h5>
+              <h5>Fiber İnternet</h5>
               <p>
-                Wifi tincidunt nis ace park norttito sit amet space nellentes
-                habitan.
+                Tüm alanlarda hızlı fiber internet erişimi ile bağlantıda kalın.
               </p>
               <div className="facility-shape">
-                {" "}
-                <span className="flaticon-wifi" />{" "}
+                <span className="flaticon-wifi" />
               </div>
             </div>
           </div>
@@ -106,16 +91,13 @@ const Facilties = () => {
               className="single-facility animate-box"
               data-animate-effect="fadeInUp"
             >
-              {" "}
               <span className="flaticon-breakfast" />
-              <h5>Breakfast</h5>
+              <h5>Kahvaltı</h5>
               <p>
-                Eat tincidunt nisa ace park norttito sit amet space nellentes
-                habitan.
+                Taze ve lezzetli kahvaltımız ile güne enerjik başlayın.
               </p>
               <div className="facility-shape">
-                {" "}
-                <span className="flaticon-breakfast" />{" "}
+                <span className="flaticon-breakfast" />
               </div>
             </div>
           </div>
@@ -125,4 +107,4 @@ const Facilties = () => {
   );
 };
 
-export default Facilties;
+export default Facilities;

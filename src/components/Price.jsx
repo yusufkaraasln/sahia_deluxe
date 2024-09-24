@@ -7,21 +7,20 @@ const Price = () => {
         <div className="row">
           <div className="col-lg-5 col-md-12 p-0">
             <div className="img left">
-              {" "}
-              <img src="img/price.jpg" alt="" />{" "}
+              <img src="img/price.jpg" alt="Fiyatlandırma" />
             </div>
           </div>
           <div className="col-lg-7 col-md-12 p-0 valign">
             <div className="wrapper">
               <div className="mb-30">
-                <div className="section-subtitle">Pricing Plan</div>
-                <div className="section-title">Extra Services</div>
+                <div className="section-subtitle">Fiyatlandırma Planı</div>
+                <div className="section-title">Ekstra Hizmetler</div>
               </div>
               <div className="list">
                 <div className="item">
                   <div className="flex">
-                    <div className="title">Room Cleaning</div>
-                    <div className="money">$50</div>
+                    <div className="title">Oda Temizliği</div>
+                    <div className="money">₺500</div>
                   </div>
                   <div className="dots" />
                 </div>
@@ -29,8 +28,8 @@ const Price = () => {
               <div className="list">
                 <div className="item">
                   <div className="flex">
-                    <div className="title">Dring Included</div>
-                    <div className="money">$35</div>
+                    <div className="title">İçecek Dahil</div>
+                    <div className="money">₺350</div>
                   </div>
                   <div className="dots" />
                 </div>
@@ -38,8 +37,8 @@ const Price = () => {
               <div className="list">
                 <div className="item">
                   <div className="flex">
-                    <div className="title">Room Breakfast</div>
-                    <div className="money">$30</div>
+                    <div className="title">Oda Kahvaltı</div>
+                    <div className="money">₺300</div>
                   </div>
                   <div className="dots" />
                 </div>
@@ -47,8 +46,8 @@ const Price = () => {
               <div className="list">
                 <div className="item">
                   <div className="flex">
-                    <div className="title">Safe &amp; Secure</div>
-                    <div className="money">$25</div>
+                    <div className="title">Güvenli &amp; Emniyetli</div>
+                    <div className="money">₺250</div>
                   </div>
                   <div className="dots" />
                 </div>

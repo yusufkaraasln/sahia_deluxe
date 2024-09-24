@@ -13,44 +13,44 @@ const ReservationForm = () => {
             <div className="col-lg-7 col-md-12">
               <div className="booking-box">
                 <div className="head-box">
-                  <h4>Booking Form</h4>
+                  <h4>Rezervasyon Formu</h4>
                 </div>
                 <div className="booking-inner clearfix">
                   <form action="services.html" className="form1 clearfix">
                     <div className="row">
                       <div className="col-lg-6 col-md-12">
                         <div className="input1_wrapper">
-                          <label>Check in</label>
+                          <label>Giriş Tarihi</label>
                           <div className="input1_inner">
                             <input
                               type="text"
                               className="form-control input datepicker"
-                              placeholder="Check in"
+                              placeholder="Giriş Tarihi"
                             />
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-6 col-md-12">
                         <div className="input1_wrapper">
-                          <label>Check out</label>
+                          <label>Çıkış Tarihi</label>
                           <div className="input1_inner">
                             <input
                               type="text"
                               className="form-control input datepicker"
-                              placeholder="Check out"
+                              placeholder="Çıkış Tarihi"
                             />
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-6 col-md-12">
                         <div className="select1_wrapper">
-                          <label>Adults</label>
+                          <label>Yetişkinler</label>
                           <div className="select1_inner">
                             <select
                               className="select2 select"
                               style={{ width: "100%" }}
                             >
-                              <option value={0}>Adults</option>
+                              <option value={0}>Yetişkinler</option>
                               <option value={1}>1</option>
                               <option value={2}>2</option>
                               <option value={3}>3</option>
@@ -61,13 +61,13 @@ const ReservationForm = () => {
                       </div>
                       <div className="col-lg-6 col-md-12">
                         <div className="select1_wrapper">
-                          <label>Children</label>
+                          <label>Çocuklar</label>
                           <div className="select1_inner">
                             <select
                               className="select2 select"
                               style={{ width: "100%" }}
                             >
-                              <option value={0}>Children</option>
+                              <option value={0}>Çocuklar</option>
                               <option value={1}>1</option>
                               <option value={2}>2</option>
                               <option value={3}>3</option>
@@ -81,7 +81,7 @@ const ReservationForm = () => {
                           type="submit"
                           className="btn-form1-submit mt-15"
                         >
-                          Check Availability
+                          Müsaitliği Kontrol Et
                         </button>
                       </div>
                     </div>

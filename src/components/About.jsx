@@ -9,40 +9,38 @@ const About = () => {
             className="col-lg-6 col-md-12 mb-30 animate-box"
             data-animate-effect="fadeInUp"
           >
-            <div className="section-subtitle">About Us</div>
+            <div className="section-subtitle">Hakkımızda</div>
             <div className="section-title">
-              Apart Hotel In The Heart Of The Mid Town
+              Sapanca Gölü Manzaralı Eşsiz Konaklama
             </div>
             <p>
-              Welcome to the best five-star deluxe hotel in New York. Hotel
-              elementum suen theaucan vestibulum aliquam justo in sapien.
+              Sahia Deluxe Sapanca'ya hoş geldiniz! Sapanca'nın doğal
+              güzellikleriyle çevrili bu beş yıldızlı otel, huzurlu bir tatil
+              deneyimi sunmak için tasarlandı.
             </p>
             <p>
-              Hotel ut nisl quam nestibulum ac quam nec odio elementum sceisue
-              the aucan ligulation. Orci varius natoque penatibus et magnis dis
-              parturient monte naete ridiculus mus nellentesque habitant
-              morbine.
+              Her odada özel havuzunuzla, göl manzarası eşliğinde konforu ve
+              lüksü bir arada yaşayacaksınız. Misafirlerimize sunduğumuz
+              kaliteli hizmetle, unutulmaz anılar biriktirmenizi sağlamak için
+              buradayız.
             </p>
             <div className="butn-dark mt-30">
-              {" "}
               <a href="about.html">
-                <span>Read More</span>
-              </a>{" "}
+                <span>Daha Fazla Bilgi</span>
+              </a>
             </div>
           </div>
           <div
             className="col col-lg-3 col-md-6 animate-box"
             data-animate-effect="fadeInUp"
           >
-            {" "}
-            <img src="img/about.jpg" alt="" className="mt-90 mb-30" />{" "}
+            <img src="img/about.jpg" alt="" className="mt-90 mb-30" />
           </div>
           <div
             className="col col-lg-3 col-md-6 animate-box"
             data-animate-effect="fadeInUp"
           >
-            {" "}
-            <img src="img/about2.jpg" alt="" />{" "}
+            <img src="img/about2.jpg" alt="" />
           </div>
         </div>
       </div>

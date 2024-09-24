@@ -7,9 +7,9 @@ const Services = () => {
         <div className="row">
           <div className="col-md-12 mb-30 text-center">
             <div className="section-subtitle">
-              <span>What We Do</span>
+              <span>Ne Yapıyoruz</span>
             </div>
-            <div className="section-title">Our Services</div>
+            <div className="section-title">Hizmetlerimiz</div>
           </div>
         </div>
         <div className="row mb-30">
@@ -19,7 +19,7 @@ const Services = () => {
           >
             <div className="img left">
               <a href="services-page.html">
-                <img src="img/restaurant/3.jpg" alt="" />
+                <img src="img/restaurant/3.jpg" alt="Restoran ve Bar" />
               </a>
             </div>
           </div>
@@ -32,18 +32,17 @@ const Services = () => {
                 <h1>01</h1>
               </div>
               <div className="cont">
-                <h5>Restaurant &amp; Bar</h5>
+                <h5>Restoran &amp; Bar</h5>
                 <p>
-                  Lorem arena nuam enim polen obortise esen the drana accumsan
-                  golden alsuame amet aucto miss done vitae vehicula risus duise
-                  nun drana sapien.
+                  Konuklarımıza özel hazırlanmış menülerimizle, keyifli bir
+                  yemek deneyimi sunuyoruz. Barımızda ise çeşitli içecek
+                  seçenekleri ile güzel vakit geçirmenizi sağlıyoruz.
                 </p>
-                <div className="butn-dark">
-                  {" "}
+                {/* <div className="butn-dark">
                   <a href="#">
-                    <span>Discover</span>
-                  </a>{" "}
-                </div>
+                    <span>Keşfet</span>
+                  </a>
+                </div> */}
               </div>
             </div>
           </div>
@@ -58,18 +57,17 @@ const Services = () => {
                 <h1>02</h1>
               </div>
               <div className="cont">
-                <h5>Spa &amp; Wellness</h5>
+                <h5>SPA &amp; Wellness</h5>
                 <p>
-                  Lorem arena nuam enim polen obortise esen the drana accumsan
-                  golden alsuame amet aucto miss done vitae vehicula risus duise
-                  nun drana sapien.
+                  Rahatlatıcı masajlar ve wellness hizmetlerimizle ruhunuzu ve
+                  bedeninizi tazeliyoruz. Kendinize bir mola vermek için
+                  mükemmel bir yer.
                 </p>
-                <div className="butn-dark">
-                  {" "}
+                {/* <div className="butn-dark">
                   <a href="#">
-                    <span>Discover</span>
-                  </a>{" "}
-                </div>
+                    <span>Keşfet</span>
+                  </a>
+                </div> */}
               </div>
             </div>
           </div>
@@ -79,7 +77,7 @@ const Services = () => {
           >
             <div className="img left">
               <a href="spa-wellness.html">
-                <img src="img/spa/2.jpg" alt="" />
+                <img src="img/spa/2.jpg" alt="Spa ve Wellness" />
               </a>
             </div>
           </div>
@@ -91,7 +89,7 @@ const Services = () => {
           >
             <div className="img left">
               <a href="spa-wellness.html">
-                <img src="img/spa/4.jpg" alt="" />
+                <img src="img/spa/4.jpg" alt="Fitness ve Yoga" />
               </a>
             </div>
           </div>
@@ -104,18 +102,17 @@ const Services = () => {
                 <h1>03</h1>
               </div>
               <div className="cont">
-                <h5>Fitness &amp; Yoga Services</h5>
+                <h5>Fitness &amp; Yoga Hizmetleri</h5>
                 <p>
-                  Lorem arena nuam enim polen obortise esen the drana accumsan
-                  golden alsuame amet aucto miss done vitae vehicula risus duise
-                  nun drana sapien.
+                  Profesyonel eğitmenler eşliğinde sunulan fitness ve yoga
+                  dersleri ile hem fiziksel sağlığınızı koruyun hem de zihninizi
+                  dinlendirin.
                 </p>
-                <div className="butn-dark">
-                  {" "}
+                {/* <div className="butn-dark">
                   <a href="#">
-                    <span>Discover</span>
-                  </a>{" "}
-                </div>
+                    <span>Keşfet</span>
+                  </a>
+                </div> */}
               </div>
             </div>
           </div>

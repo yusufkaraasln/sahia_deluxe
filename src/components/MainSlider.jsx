@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const MainSlider = () => {
@@ -12,13 +13,13 @@ const MainSlider = () => {
           <div className="container">
             <div className="row h-100 justify-content-center">
               <div className="col-lg-10 col-md-12">
-                <h4>Welcome to New York</h4>
-                <h1>The Best Three-Star Apartment Hotel</h1>
+                <h4>Sahia Deluxe Sapanca'ya Hoşgeldiniz</h4>
+                <h1>Sapanca'nın Doğal Güzellikleriyle Parlayan Yıldız</h1>
                 <div className="butn-dark">
                   {" "}
-                  <a href="rooms.html">
-                    <span>Discover Rooms</span>
-                  </a>{" "}
+                  <Link target="_self" href="/rooms">
+                    <span>Odaları Keşfet</span>
+                  </Link>{" "}
                 </div>
               </div>
             </div>

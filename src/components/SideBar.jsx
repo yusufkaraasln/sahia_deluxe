@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const SideBar = () => {
@@ -9,25 +10,33 @@ const SideBar = () => {
       <aside id="cappa-aside">
         {/* Logo */}
         <div className="cappa-logo">
-          <a href="index.html">
+          <Link href="/" target="_parent">
             <img class="logo-img" src="img/logo/logo.png" alt="" />
-          </a>
+          </Link>
         </div>
         {/* Menu */}
         <nav className="cappa-main-menu">
           <ul>
-            <li className="cappa-sub">
-              <a href="#">Anasayfa</a>
+            <li>
+              <Link href="/" target="_parent">
+                Anasayfa
+              </Link>
             </li>
 
             <li>
-              <a href="gallery.html">Odalar</a>
+              <Link target="_parent" href="/rooms">
+                Odalar
+              </Link>
             </li>
             <li>
-              <a href="gallery.html">Galeri</a>
+              <Link target="_parent" href="/gallery">
+                Galeri
+              </Link>
             </li>
             <li>
-              <a href="restaurant.html">Restoran</a>
+              <Link target="_parent" href="/restaurant">
+                Restoran
+              </Link>
             </li>
             <li className="cappa-sub">
               <a href="#">
@@ -36,16 +45,22 @@ const SideBar = () => {
               </a>
               <ul>
                 <li>
-                  <a href="rooms.html">Hakkımızda</a>
+                  <Link target="_parent" href="/aboutus">
+                    Hakkımızda
+                  </Link>
                 </li>
 
                 <li>
-                  <a href="room-details.html">İK Kariyer</a>
+                  <Link target="_parent" href="/career">
+                    İK Kariyer
+                  </Link>
                 </li>
               </ul>
             </li>
             <li>
-              <a href="contact.html">İletişim</a>
+              <Link target="_parent" href="/contact">
+                İletişim
+              </Link>
             </li>
           </ul>
         </nav>

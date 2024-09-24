@@ -1,6 +1,6 @@
 import React from "react";
-import SideBar from "../../../components/SideBar";
-import Footer from "../../../components/Footer";
+import SideBar from "../../components/SideBar";
+import Footer from "../../components/Footer";
 
 const page = () => {
   return (

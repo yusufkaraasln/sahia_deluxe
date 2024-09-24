@@ -6,8 +6,8 @@ const Rooms = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-12 mb-30">
-            <div className="section-subtitle">Rooms &amp; Suites</div>
-            <div className="section-title">Best Apartments</div>
+            <div className="section-subtitle">Odalar &amp; Süitler</div>
+            <div className="section-title">En İyi Daireler</div>
           </div>
         </div>
         <div className="row">
@@ -19,40 +19,39 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <a href="room-details.html">Junior Suite</a>
+                    <a href="room-details.html">Junior Süit</a>
                   </h4>
                   <p>
-                    Spacious, bright guestrooms with tasteful furnishing, wooden
-                    floor.
+                    Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
                   </p>
                   <div className="row room-facilities">
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-group" /> 1-2 Persons
+                          <i className="flaticon-group" /> 1-2 Kişi
                         </li>
                         <li>
-                          <i className="flaticon-wifi" /> Free Wifi
-                        </li>
-                      </ul>
-                    </div>
-                    <div className="col-md-4">
-                      <ul>
-                        <li>
-                          <i className="flaticon-bed" /> Twin Bed
-                        </li>
-                        <li>
-                          <i className="flaticon-breakfast" /> Breakfast
+                          <i className="flaticon-wifi" /> Ücretsiz Wifi
                         </li>
                       </ul>
                     </div>
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-clock-1" /> 200 sqft room
+                          <i className="flaticon-bed" /> İkiz Yatak
                         </li>
                         <li>
-                          <i className="flaticon-swimming" /> Swimming Pool
+                          <i className="flaticon-breakfast" /> Kahvaltı
+                        </li>
+                      </ul>
+                    </div>
+                    <div className="col-md-4">
+                      <ul>
+                        <li>
+                          <i className="flaticon-clock-1" /> 200 sqft oda
+                        </li>
+                        <li>
+                          <i className="flaticon-swimming" /> Yüzme Havuzu
                         </li>
                       </ul>
                     </div>
@@ -60,13 +59,12 @@ const Rooms = () => {
                   <hr className="border-2" />
                   <div className="info-wrapper">
                     <div className="price">
-                      150$ <span>/ Night</span>
+                      150$ <span>/ Gece</span>
                     </div>
                     <div className="butn-dark">
-                      {" "}
                       <a href="room-details.html">
-                        <span>Details</span>
-                      </a>{" "}
+                        <span>Detaylar</span>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -77,40 +75,39 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <a href="room-details.html">Family Room</a>
+                    <a href="room-details.html">Aile Odası</a>
                   </h4>
                   <p>
-                    Spacious, bright guestrooms with tasteful furnishing, wooden
-                    floor.
+                    Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
                   </p>
                   <div className="row room-facilities">
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-group" /> 1-2 Persons
+                          <i className="flaticon-group" /> 1-2 Kişi
                         </li>
                         <li>
-                          <i className="flaticon-wifi" /> Free Wifi
-                        </li>
-                      </ul>
-                    </div>
-                    <div className="col-md-4">
-                      <ul>
-                        <li>
-                          <i className="flaticon-bed" /> Twin Bed
-                        </li>
-                        <li>
-                          <i className="flaticon-breakfast" /> Breakfast
+                          <i className="flaticon-wifi" /> Ücretsiz Wifi
                         </li>
                       </ul>
                     </div>
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-clock-1" /> 200 sqft Room
+                          <i className="flaticon-bed" /> İkiz Yatak
                         </li>
                         <li>
-                          <i className="flaticon-swimming" /> Swimming Pool
+                          <i className="flaticon-breakfast" /> Kahvaltı
+                        </li>
+                      </ul>
+                    </div>
+                    <div className="col-md-4">
+                      <ul>
+                        <li>
+                          <i className="flaticon-clock-1" /> 200 sqft oda
+                        </li>
+                        <li>
+                          <i className="flaticon-swimming" /> Yüzme Havuzu
                         </li>
                       </ul>
                     </div>
@@ -118,13 +115,12 @@ const Rooms = () => {
                   <hr className="border-2" />
                   <div className="info-wrapper">
                     <div className="price">
-                      200$ <span>/ Night</span>
+                      200$ <span>/ Gece</span>
                     </div>
                     <div className="butn-dark">
-                      {" "}
                       <a href="room-details.html">
-                        <span>Details</span>
-                      </a>{" "}
+                        <span>Detaylar</span>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -135,40 +131,39 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <a href="room-details.html">Double Room</a>
+                    <a href="room-details.html">Çift Kişilik Oda</a>
                   </h4>
                   <p>
-                    Spacious, bright guestrooms with tasteful furnishing, wooden
-                    floor.
+                    Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
                   </p>
                   <div className="row room-facilities">
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-group" /> 2-3 Persons
+                          <i className="flaticon-group" /> 2-3 Kişi
                         </li>
                         <li>
-                          <i className="flaticon-wifi" /> Free Wifi
-                        </li>
-                      </ul>
-                    </div>
-                    <div className="col-md-4">
-                      <ul>
-                        <li>
-                          <i className="flaticon-bed" /> Twin Bed
-                        </li>
-                        <li>
-                          <i className="flaticon-breakfast" /> Breakfast
+                          <i className="flaticon-wifi" /> Ücretsiz Wifi
                         </li>
                       </ul>
                     </div>
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-clock-1" /> 200 sqft room
+                          <i className="flaticon-bed" /> İkiz Yatak
                         </li>
                         <li>
-                          <i className="flaticon-swimming" /> Swimming Pool
+                          <i className="flaticon-breakfast" /> Kahvaltı
+                        </li>
+                      </ul>
+                    </div>
+                    <div className="col-md-4">
+                      <ul>
+                        <li>
+                          <i className="flaticon-clock-1" /> 200 sqft oda
+                        </li>
+                        <li>
+                          <i className="flaticon-swimming" /> Yüzme Havuzu
                         </li>
                       </ul>
                     </div>
@@ -176,13 +171,12 @@ const Rooms = () => {
                   <hr className="border-2" />
                   <div className="info-wrapper">
                     <div className="price">
-                      250$ <span>/ Night</span>
+                      250$ <span>/ Gece</span>
                     </div>
                     <div className="butn-dark">
-                      {" "}
                       <a href="room-details.html">
-                        <span>Details</span>
-                      </a>{" "}
+                        <span>Detaylar</span>
+                      </a>
                     </div>
                   </div>
                 </div>
@@ -193,40 +187,39 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <a href="room-details.html">Deluxe Room</a>
+                    <a href="room-details.html">Delüks Oda</a>
                   </h4>
                   <p>
-                    Spacious, bright guestrooms with tasteful furnishing, wooden
-                    floor.
+                    Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
                   </p>
                   <div className="row room-facilities">
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-group" /> 2-4 Persons
+                          <i className="flaticon-group" /> 2-4 Kişi
                         </li>
                         <li>
-                          <i className="flaticon-wifi" /> Free Wifi
-                        </li>
-                      </ul>
-                    </div>
-                    <div className="col-md-4">
-                      <ul>
-                        <li>
-                          <i className="flaticon-bed" /> Twin Bed
-                        </li>
-                        <li>
-                          <i className="flaticon-breakfast" /> Breakfast
+                          <i className="flaticon-wifi" /> Ücretsiz Wifi
                         </li>
                       </ul>
                     </div>
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-clock-1" /> 200 sqft Room
+                          <i className="flaticon-bed" /> İkiz Yatak
                         </li>
                         <li>
-                          <i className="flaticon-swimming" /> Swimming Pool
+                          <i className="flaticon-breakfast" /> Kahvaltı
+                        </li>
+                      </ul>
+                    </div>
+                    <div className="col-md-4">
+                      <ul>
+                        <li>
+                          <i className="flaticon-clock-1" /> 200 sqft oda
+                        </li>
+                        <li>
+                          <i className="flaticon-swimming" /> Yüzme Havuzu
                         </li>
                       </ul>
                     </div>
@@ -234,13 +227,12 @@ const Rooms = () => {
                   <hr className="border-2" />
                   <div className="info-wrapper">
                     <div className="price">
-                      300$ <span>/ Night</span>
+                      300$ <span>/ Gece</span>
                     </div>
                     <div className="butn-dark">
-                      {" "}
                       <a href="room-details.html">
-                        <span>Details</span>
-                      </a>{" "}
+                        <span>Detaylar</span>
+                      </a>
                     </div>
                   </div>
                 </div>

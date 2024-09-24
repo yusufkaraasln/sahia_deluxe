@@ -1,6 +1,6 @@
 import React from "react";
-import Footer from "../../../components/Footer";
-import SideBar from "../../../components/SideBar";
+import Footer from "../components/Footer";
+import SideBar from "../components/SideBar";
 
 const restaurant = () => {
   return (
