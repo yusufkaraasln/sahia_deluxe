@@ -1,16 +1,15 @@
 import React from "react";
-import Footer from "../components/Footer";
-import SideBar from "../components/SideBar";
+import Footer from "../../components/Footer";
+import SideBar from "../../components/SideBar";
 
 const restaurant = () => {
   return (
     <>
       <SideBar></SideBar>
       <div id="cappa-main">
-        {/* Restaurant Slider */}
+        {/* Restoran Kaydırıcı */}
         <header className="header slider">
           <div className="owl-carousel owl-theme">
-            {/* The opacity on the image is made with "data-overlay-dark="number". You can change it using the numbers 0-9. */}
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
@@ -33,12 +32,11 @@ const restaurant = () => {
             />
           </div>
         </header>
-        {/* Restaurant Content */}
+        {/* Restoran İçeriği */}
         <section className="rooms-page section-padding" data-scroll-index={1}>
           <div className="container">
             <div className="row justify-content-center">
               <div className="col-lg-11 col-md-12 text-center">
-                {" "}
                 <span>
                   <i className="star-rating" />
                   <i className="star-rating" />
@@ -46,48 +44,35 @@ const restaurant = () => {
                   <i className="star-rating" />
                   <i className="star-rating" />
                 </span>
-                <div className="section-subtitle">
-                  An Experience for the Senses
-                </div>
-                <div className="section-title">The Restaurant &amp; Bar</div>
+                <div className="section-subtitle">Duyular için Bir Deneyim</div>
+                <div className="section-title">Restoran ve Bar</div>
                 <p className="mb-30">
-                  Led by Chef de Micheal Martin, The Restaurant is celebrated
-                  for its excellent cuisine and unique ambience. The gorgeous
-                  dining room features three open studio kitchens, allowing you
-                  to enjoy the sights and sounds of the culinary artistry on
-                  display. The menu showcases both Asian and European
-                  influences, with a tempting selection of classic favorites and
-                  creative dishes for you to sample. Cheese connoisseurs will be
-                  drawn to the The Wine and Cheese Cellar, housed in
-                  five-meter-high glass walls, where our knowledgeable staff can
-                  introduce you to some of New York's greatest culinary
-                  treasures.
+                  Sahia Deluxe Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile
+                  öne çıkmaktadır. Geniş yemek odası, mutfak sanatlarının
+                  sergilendiği açık stüdyo mutfağı ile donatılmıştır; bu sayede
+                  hem görsel hem de işitsel bir deneyim yaşarsınız. Menü, klasik
+                  Türk lezzetlerinin yanı sıra, Asya ve Avrupa mutfaklarından
+                  esinlenerek hazırlanmış yaratıcı yemekleri de içermektedir.
                 </p>
-                <h6>Hours</h6>
+                <h6>Açılış Saatleri</h6>
                 <div className="text-center">
-                  <p>Breakfast: 7.00 am – 11.00 am (daily)</p>
-                  <p>Lunch: 12.00 noon – 2.00 pm (daily)</p>
-                  <p>
-                    Dinner: open from 6.30 pm, last order at 10.00 pm (daily)
-                  </p>
+                  <p>Kahvaltı: 07.00 - 11.00 (her gün)</p>
+                  <p>Öğle: 12.00 - 14.00 (her gün)</p>
+                  <p>Akşam: 18.30'dan itibaren, son sipariş 22.00 (her gün)</p>
                 </div>
-                <h6>Dress Code</h6>
-                <p>Smart casual (no shorts, hats, or sandals permitted)</p>
-                <h6>Terrace</h6>
-                <p>Open for drinks only</p>
               </div>
             </div>
           </div>
         </section>
-        {/* Restaurant Menu */}
+        {/* Restoran Menüsü */}
         <section id="menu" className="restaurant-menu menu section-padding">
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
                 <div className="section-subtitle">
-                  <span>Apartments</span>
+                  <span>Daireler</span>
                 </div>
-                <div className="section-title">Restaurant Menu</div>
+                <div className="section-title">Restoran Menüsü</div>
               </div>
             </div>
             <div className="row">
@@ -96,27 +81,25 @@ const restaurant = () => {
                   <div className="tabs-icon col-md-10 offset-md-1 text-center">
                     <div className="owl-carousel owl-theme">
                       <div id="tab-1" className="active item">
-                        <h6>Starters</h6>
+                        <h6>Başlangıçlar</h6>
                       </div>
                       <div id="tab-2" className="item">
-                        <h6>Mains</h6>
+                        <h6>Ana Yemekler</h6>
                       </div>
                       <div id="tab-3" className="item">
-                        <h6>Salads</h6>
+                        <h6>Salatalar</h6>
                       </div>
-                      <div id="tab-4" className="item">
-                        <h6>Wine</h6>
-                      </div>
+
                       <div id="tab-5" className="item">
-                        <h6>Breakfast</h6>
+                        <h6>Kahvaltı</h6>
                       </div>
                       <div id="tab-6" className="item">
-                        <h6>Dessert</h6>
+                        <h6>Tatlılar</h6>
                       </div>
                     </div>
                   </div>
                   <div className="restaurant-menu-content col-md-12">
-                    {/* Starters */}
+                    {/* Başlangıçlar */}
                     <div id="tab-1-content" className="cont active">
                       <div className="row">
                         <div className="col-md-5">
@@ -125,29 +108,31 @@ const restaurant = () => {
                               Mozzarella Dippers{" "}
                               <span className="price">27$</span>
                             </h5>
-                            <p>Fried mozzarella sticks, marinara sauce</p>
+                            <p>Kızarmış mozzarella çubukları, marinara sosu</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Onion Rings <span className="price">32$</span>
+                              Soğan Halkası <span className="price">32$</span>
                             </h5>
-                            <p>Fried onion rings, smoked aioli</p>
+                            <p>Kızarmış soğan halkaları, tütsülenmiş aioli</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Fried Jalapeno <span className="price">52$</span>
+                              Kızarmış Jalapeno{" "}
+                              <span className="price">52$</span>
                             </h5>
-                            <p>Fried jalapeno pickles, cheddar sauce</p>
+                            <p>Kızarmış jalapeno turşuları, cheddar sosu</p>
                           </div>
                         </div>
                         <div className="col-md-5 offset-md-2">
                           <div className="menu-info">
                             <h5>
-                              Buffalo Wings <span className="price">37$</span>
+                              Buffalo Kanatları{" "}
+                              <span className="price">37$</span>
                             </h5>
                             <p>
-                              Spicy chicken wings, blue cheese sauce, carrot,
-                              celery
+                              Baharatlı tavuk kanatları, mavi peynir sosu,
+                              havuç, kereviz
                             </p>
                           </div>
                           <div className="menu-info">
@@ -155,309 +140,228 @@ const restaurant = () => {
                               Chilli Con Carne{" "}
                               <span className="price">32$</span>
                             </h5>
-                            <p>Spicy ground beef, bacon, kidney beans</p>
+                            <p>Baharatlı kıyma, bacon, böbrek fasulyesi</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Potato Skins <span className="price">42$</span>
+                              Patates Kabuğu <span className="price">42$</span>
                             </h5>
                             <p>
-                              Crispy potato skins; bacon &amp; cheddar or
-                              vegetables
+                              Kızarmış patates kabukları; bacon &amp; cheddar
+                              veya sebzeler
                             </p>
                           </div>
                         </div>
                       </div>
                     </div>
-                    {/* Mains */}
+                    {/* Ana Yemekler */}
                     <div id="tab-2-content" className="cont">
                       <div className="row">
                         <div className="col-md-5">
                           <div className="menu-info">
                             <h5>
-                              Rusty’s Burger <span className="price">27$</span>
+                              Rusty’nin Burgeri{" "}
+                              <span className="price">27$</span>
                             </h5>
                             <p>
-                              Smoked pulled beef ribs, bbq sauce, cheddar,
-                              crispy onion
+                              Tütsülenmiş pulled beef ribs, BBQ sos, cheddar,
+                              kıtır soğan
                             </p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Cajun Fish Steak{" "}
+                              Cajun Balık Steak{" "}
                               <span className="price">32$</span>
                             </h5>
                             <p>
-                              Cajun spicied seabass, deep fried baby potatoes,
-                              side salad
+                              Cajun baharatlı seabass, kızarmış bebek
+                              patatesler, yan salata
                             </p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Southern Fried Chicken{" "}
+                              Güney Kızartması Tavuk{" "}
                               <span className="price">52$</span>
                             </h5>
                             <p>
-                              Cajun coated chicken breast, fries and honey
-                              mustard
+                              Cajun kaplamalı tavuk göğsü, patates kızartması ve
+                              balzamik sos
                             </p>
                           </div>
                         </div>
                         <div className="col-md-5 offset-md-2">
                           <div className="menu-info">
                             <h5>
-                              Crab Cake <span className="price">37$</span>
+                              Yengeç Köftesi <span className="price">37$</span>
                             </h5>
                             <p>
-                              Breaded crab cakes, tartar sauce, apple and fennel
-                              salad
+                              Pane yapılmış yengeç köfteleri, tartar sosu, elma
+                              ve fenel salatası
                             </p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Baby Back Ribs <span className="price">32$</span>
+                              Bebek Sırt Kaburga{" "}
+                              <span className="price">32$</span>
                             </h5>
-                            <p>Bbq glazed baby pork ribs, coleslaw, fries</p>
+                            <p>
+                              Bbq soslu bebek domuz kaburgaları, coleslaw,
+                              patates kızartması
+                            </p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Smokehouse Combo{" "}
+                              Smokehouse Kombinasyonu{" "}
                               <span className="price">42$</span>
                             </h5>
                             <p>
-                              Smoked beef brisket, rib and sausage, coleslaw,
-                              cornbread
+                              Sucuk, kaburga, kızarmış tavuk, BBQ sosu, coleslaw
                             </p>
                           </div>
                         </div>
                       </div>
                     </div>
-                    {/* Salads */}
+                    {/* Salatalar */}
                     <div id="tab-3-content" className="cont">
                       <div className="row">
                         <div className="col-md-5">
                           <div className="menu-info">
                             <h5>
-                              Ceaser Salad <span className="price">47$</span>
+                              Caesar Salatası <span className="price">27$</span>
                             </h5>
-                            <p>
-                              Romaine lettuce, croutons, parmigiano, Ceaser
-                              dressing.
-                            </p>
+                            <p>Klasik Caesar salatası, parmesan, kruton</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Waldorf Salad <span className="price">52$</span>
+                              Yengeç Salatası <span className="price">32$</span>
                             </h5>
-                            <p>
-                              Lettuce, celery, apple, grape, walnut, waldorf
-                              sauce
-                            </p>
+                            <p>Taze yengeç, salatalık, avokado ve limon</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Quinoa &amp; Avocado Salad{" "}
-                              <span className="price">52$</span>
+                              Tavuklu Salata <span className="price">52$</span>
                             </h5>
-                            <p>
-                              Quinoa, avocado, mixed greens. Nuts, dried and
-                              fresh fruits
-                            </p>
+                            <p>Izgara tavuk, yeşil marul, domates, salatalık</p>
                           </div>
                         </div>
                         <div className="col-md-5 offset-md-2">
                           <div className="menu-info">
                             <h5>
-                              Grilled Salmon Salad{" "}
-                              <span className="price">37$</span>
+                              Kinoa Salatası <span className="price">37$</span>
                             </h5>
-                            <p>
-                              Grilled salmon, mixed greens, capers, orange
-                              slices
-                            </p>
+                            <p>Kinoa, sebzeler, nar, fındık ve limon sosu</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Chicken Cobb Salad{" "}
+                              Akdeniz Salatası{" "}
                               <span className="price">32$</span>
                             </h5>
                             <p>
-                              Iceberg lettuce, cherry tomatoes, blue cheese,
-                              avocado, bacon
+                              Feta peyniri, zeytin, domates, salatalık, soğan
                             </p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Salad Chicken <span className="price">42$</span>
+                              Tavuklu Cevizli Salata{" "}
+                              <span className="price">42$</span>
                             </h5>
-                            <p>
-                              {" "}
-                              Ceaser dressing. Optional grilled chicken breast
-                            </p>
+                            <p>Tavuk, ceviz, yeşil elma, sos</p>
                           </div>
                         </div>
                       </div>
                     </div>
-                    {/* Wine */}
-                    <div id="tab-4-content" className="cont">
-                      <div className="row">
-                        <div className="col-md-5">
-                          <div className="menu-info">
-                            <h5>
-                              Château d'Yquem 2011{" "}
-                              <span className="price">400$</span>
-                            </h5>
-                            <p>Dessert Wine, Bordeaux, Graves, Sauternes</p>
-                          </div>
-                          <div className="menu-info">
-                            <h5>
-                              Alvear Cream NV <span className="price">30$</span>
-                            </h5>
-                            <p>Dessert, Fortified Wine, Andalucia</p>
-                          </div>
-                          <div className="menu-info">
-                            <h5>
-                              Chateau D'yquem 1990{" "}
-                              <span className="price">900$</span>
-                            </h5>
-                            <p>Dessert Wine, Bordeaux, Graves, Sauternes</p>
-                          </div>
-                        </div>
-                        <div className="col-md-5 offset-md-2">
-                          <div className="menu-info">
-                            <h5>
-                              La Grande Année 2007{" "}
-                              <span className="price">400$</span>
-                            </h5>
-                            <p>Rosé, Champagne</p>
-                          </div>
-                          <div className="menu-info">
-                            <h5>
-                              Sine Qua Non 2012{" "}
-                              <span className="price">520$</span>
-                            </h5>
-                            <p>Syrah, Shiraz &amp; Blends, California</p>
-                          </div>
-                          <div className="menu-info">
-                            <h5>
-                              W.S. Keyes Winery 2006{" "}
-                              <span className="price">240$</span>
-                            </h5>
-                            <p>Merlot, California, Napa, Howell Mountain</p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    {/* Breakfast */}
+                    {/* Şarap */}
+                    <div id="tab-4-content" className="cont"></div>
+                    {/* Kahvaltı */}
                     <div id="tab-5-content" className="cont">
                       <div className="row">
                         <div className="col-md-5">
                           <div className="menu-info">
                             <h5>
-                              Egg Benedict <span className="price">60$</span>
+                              Omlet <span className="price">27$</span>
+                            </h5>
+                            <p>Taze sebzeler ve peynir ile yapılmış omlet</p>
+                          </div>
+                          <div className="menu-info">
+                            <h5>
+                              Kızarmış Ekmek Tabağı{" "}
+                              <span className="price">32$</span>
                             </h5>
                             <p>
-                              English muffin, beef, hollandaise sauce, poached
-                              egg.
+                              Taze meyve, tereyağı ve reçel ile kızarmış ekmek
                             </p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Texas Benedict <span className="price">30$</span>
+                              Pancake <span className="price">52$</span>
                             </h5>
-                            <p>
-                              English muffin, short ribs, bbq sauce, poached
-                              egg.
-                            </p>
-                          </div>
-                          <div className="menu-info">
-                            <h5>
-                              Rusty’s Omlette <span className="price">22$</span>
-                            </h5>
-                            <p>
-                              Mozzarella, cheddar, caramelized onion, black
-                              beans.
-                            </p>
+                            <p>Taze meyve ve akçaağaç şurubu ile pancake</p>
                           </div>
                         </div>
                         <div className="col-md-5 offset-md-2">
                           <div className="menu-info">
                             <h5>
-                              Salmon Bagel <span className="price">30$</span>
+                              Yumurta Benedict{" "}
+                              <span className="price">37$</span>
                             </h5>
-                            <p>
-                              Smoked salmon, cream cheese, dill, rocket, red
-                              onion.
-                            </p>
+                            <p>Poşe yumurta, hindi bacon, hollandaise sos</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Breakfast Bagel <span className="price">33$</span>
+                              Granola <span className="price">32$</span>
                             </h5>
-                            <p>Chocolate, marshmallow, biscuit bar</p>
+                            <p>Taze meyve, yoğurt ve granola karışımı</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Rusty’s Pancake <span className="price">40$</span>
+                              Müsli <span className="price">42$</span>
                             </h5>
-                            <p>
-                              Strawberry, white chocolate, dark chocolate,
-                              crispearls
-                            </p>
+                            <p>Taze meyve, süt ve bal ile müsli</p>
                           </div>
                         </div>
                       </div>
                     </div>
-                    {/* Dessert */}
+                    {/* Tatlılar */}
                     <div id="tab-6-content" className="cont">
                       <div className="row">
                         <div className="col-md-5">
                           <div className="menu-info">
                             <h5>
-                              Bourbon Pecan Pie{" "}
-                              <span className="price">67$</span>
+                              Cheesecake <span className="price">27$</span>
                             </h5>
-                            <p>Bourbon pecan stuffed pie, vanilla ice-cream</p>
+                            <p>Kremalı peynirli tatlı, meyve sosu ile</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              New York Cheesecake{" "}
-                              <span className="price">50$</span>
+                              Çikolatalı Kek <span className="price">32$</span>
                             </h5>
-                            <p>Cheesecake, strawberry &amp; lime salad</p>
+                            <p>Sıcak çikolatalı kek, dondurma ile</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Rusty’s ice-cream{" "}
-                              <span className="price">32$</span>
+                              Tiramisu <span className="price">52$</span>
                             </h5>
-                            <p>Vanilla, bourbon, cookie, chocolate ice-cream</p>
+                            <p>İtalyan kahve tatlısı, kakao ile</p>
                           </div>
                         </div>
                         <div className="col-md-5 offset-md-2">
                           <div className="menu-info">
                             <h5>
-                              S’mores <span className="price">40$</span>
+                              Dondurma <span className="price">37$</span>
                             </h5>
-                            <p>
-                              Chocolate chip cookies, marshmallow, chocolate
-                            </p>
+                            <p>Taze meyve ile çeşitli dondurmalar</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Rocky Road <span className="price">42$</span>
+                              Sütlaç <span className="price">32$</span>
                             </h5>
-                            <p>Chocolate, marshmallow, biscuit bar</p>
+                            <p>Taze sütle yapılmış Türk tatlısı</p>
                           </div>
                           <div className="menu-info">
                             <h5>
-                              Apple &amp; Pear Crumble{" "}
-                              <span className="price">42$</span>
+                              Fırın Sütlaç <span className="price">42$</span>
                             </h5>
-                            <p>
-                              Caramelized pear and apple, oat crumble, vanilla
-                              ice-cream
-                            </p>
+                            <p>Fırında pişirilmiş, üzeri kızarmış sütlaç</p>
                           </div>
                         </div>
                       </div>
@@ -468,108 +372,7 @@ const restaurant = () => {
             </div>
           </div>
         </section>
-        {/* Testiominals */}
-        <section
-          className="background bg-img bg-fixed section-padding pb-0"
-          data-background="img/slider/1.jpg"
-          data-overlay-dark={5}
-        >
-          <div className="container">
-            <div className="row justify-content-center">
-              <div className="col-lg-8 col-md-12 text-center">
-                <div className="testimonials">
-                  <div className="testimonials-box">
-                    <div className="owl-carousel owl-theme">
-                      <div className="item">
-                        {" "}
-                        <span>
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                        </span>
-                        <h5>Highly recommended!</h5>
-                        <p>
-                          Lorem dapibus asue metus the nec feusiate eraten miss
-                          hendreri net ve ante the lemon sanleo nectan feugiat
-                          erat hendrerit necuis ve ante viventa miss sapien
-                          silver on the duiman lorem ipsum amet silver miss rana
-                          duru at finibus viverra neca the sene on satien.
-                        </p>
-                        <div className="info">
-                          <div className="author-img">
-                            {" "}
-                            <img src="img/team/1.jpg" alt="" />{" "}
-                          </div>
-                          <div className="cont">
-                            <h6>Andreas Brown</h6> <span>Customer review</span>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="item">
-                        {" "}
-                        <span>
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                        </span>
-                        <h5>A Unique Apartment Hotel!</h5>
-                        <p>
-                          Lorem dapibus asue metus the nec feusiate eraten miss
-                          hendreri net ve ante the lemon sanleo nectan feugiat
-                          erat hendrerit necuis ve ante viventa miss sapien
-                          silver on the duiman lorem ipsum amet silver miss rana
-                          duru at finibus viverra neca the sene on satien.
-                        </p>
-                        <div className="info">
-                          <div className="author-img">
-                            {" "}
-                            <img src="img/team/2.jpg" alt="" />{" "}
-                          </div>
-                          <div className="cont">
-                            <h6>Emily White</h6> <span>Customer review</span>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="item">
-                        {" "}
-                        <span>
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                          <i className="star-rating" />
-                        </span>
-                        <h5>Highly recommended!</h5>
-                        <p>
-                          Lorem dapibus asue metus the nec feusiate eraten miss
-                          hendreri net ve ante the lemon sanleo nectan feugiat
-                          erat hendrerit necuis ve ante viventa miss sapien
-                          silver on the duiman lorem ipsum amet silver miss rana
-                          duru at finibus viverra neca the sene on satien.
-                        </p>
-                        <div className="info">
-                          <div className="author-img">
-                            {" "}
-                            <img src="img/team/3.jpg" alt="" />{" "}
-                          </div>
-                          <div className="cont">
-                            <h6>Daniel Martin</h6> <span>Customer review</span>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        {/* Footer */}
-        <Footer></Footer>
+        <Footer />
       </div>
     </>
   );

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Rooms = () => {
@@ -19,7 +20,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <a href="room-details.html">Junior Süit</a>
+                    <Link target="_parent" href="/rooms/deluxe">Junior Süit</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -62,9 +63,9 @@ const Rooms = () => {
                       150$ <span>/ Gece</span>
                     </div>
                     <div className="butn-dark">
-                      <a href="room-details.html">
+                      <Link target="_parent" href="/rooms/deluxe">
                         <span>Detaylar</span>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>
@@ -75,7 +76,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <a href="room-details.html">Aile Odası</a>
+                    <Link target="_parent" href="/rooms/deluxe">Aile Odası</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -118,9 +119,9 @@ const Rooms = () => {
                       200$ <span>/ Gece</span>
                     </div>
                     <div className="butn-dark">
-                      <a href="room-details.html">
+                      <Link target="_parent" href="/rooms/deluxe">
                         <span>Detaylar</span>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>
@@ -131,7 +132,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <a href="room-details.html">Çift Kişilik Oda</a>
+                    <Link target="_parent" href="/rooms/deluxe">Çift Kişilik Oda</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -174,9 +175,9 @@ const Rooms = () => {
                       250$ <span>/ Gece</span>
                     </div>
                     <div className="butn-dark">
-                      <a href="room-details.html">
+                      <Link target="_parent" href="/rooms/deluxe">
                         <span>Detaylar</span>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>
@@ -187,7 +188,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <a href="room-details.html">Delüks Oda</a>
+                    <Link target="_parent" href="/rooms/deluxe">Delüks Oda</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -230,9 +231,9 @@ const Rooms = () => {
                       300$ <span>/ Gece</span>
                     </div>
                     <div className="butn-dark">
-                      <a href="room-details.html">
+                      <Link target="_parent" href="/rooms/deluxe">
                         <span>Detaylar</span>
-                      </a>
+                      </Link>
                     </div>
                   </div>
                 </div>

@@ -21,22 +21,23 @@ const page = () => {
             </div>
           </div>
         </div>
-        {/* Contact */}
+        {/* İletişim */}
         <section className="contact section-padding">
           <div className="container">
             <div className="row mb-90">
               <div className="col-lg-5 col-md-12 mb-60">
-                <h3>The Cappa Apartments</h3>
+                <h3>Sahia Deluxe Sapanca</h3>
                 <p>
-                  Hotel ut nisl quam nestibulum ac quam nec odio elementum miss
-                  the aucan varius natoque penatibus et magnis morbine.
+                  Sapanca'nın huzur dolu ortamında konforlu bir tatil deneyimi
+                  sunuyoruz. Konuklarımız için her zaman en iyi hizmeti
+                  sağlamak için ekibimize katılabilirsiniz!
                 </p>
                 <div className="reservations mb-30">
                   <div className="icon">
                     <span className="flaticon-call" />
                   </div>
                   <div className="text">
-                    <p>Reservation</p>{" "}
+                    <p>Rezervasyon</p>{" "}
                     <a href="tel:855-100-4444">855 100 4444</a>
                   </div>
                 </div>
@@ -45,8 +46,10 @@ const page = () => {
                     <span className="flaticon-envelope" />
                   </div>
                   <div className="text">
-                    <p>Email Info</p>{" "}
-                    <a href="mailto:info@apartments.com">info@apartments.com</a>
+                    <p>Email Bilgisi</p>{" "}
+                    <a href="mailto:info@sahiadeluxe.com">
+                      info@sahiadeluxe.com
+                    </a>
                   </div>
                 </div>
                 <div className="reservations">
@@ -54,14 +57,14 @@ const page = () => {
                     <span className="flaticon-location-pin" />
                   </div>
                   <div className="text">
-                    <p>Address</p> 1616 Broadway NY, New York 10001
+                    <p>Adres</p> Sapanca, Sakarya, Türkiye
                     <br />
-                    United States of America
+                    Sahia Deluxe Sapanca
                   </div>
                 </div>
               </div>
               <div className="col-lg-6 offset-lg-1 col-md-12 mb-30">
-                <h3>Get in touch</h3>
+                <h3>İletişime Geçin</h3>
                 <form method="post" className="contact__form" action="mail.php">
                   {/* form message */}
                   <div className="row">
@@ -72,7 +75,7 @@ const page = () => {
                         role="alert"
                       >
                         {" "}
-                        Your message was sent successfully.{" "}
+                        Mesajınız başarıyla gönderildi.{" "}
                       </div>
                     </div>
                   </div>
@@ -82,7 +85,7 @@ const page = () => {
                       <input
                         name="name"
                         type="text"
-                        placeholder="Your Name *"
+                        placeholder="Adınız *"
                         required=""
                       />
                     </div>
@@ -90,7 +93,7 @@ const page = () => {
                       <input
                         name="email"
                         type="email"
-                        placeholder="Your Email *"
+                        placeholder="E-posta Adresiniz *"
                         required=""
                       />
                     </div>
@@ -98,7 +101,7 @@ const page = () => {
                       <input
                         name="phone"
                         type="text"
-                        placeholder="Your Number *"
+                        placeholder="Telefon Numaranız *"
                         required=""
                       />
                     </div>
@@ -106,7 +109,7 @@ const page = () => {
                       <input
                         name="subject"
                         type="text"
-                        placeholder="Subject *"
+                        placeholder="Konu *"
                         required=""
                       />
                     </div>
@@ -116,28 +119,28 @@ const page = () => {
                         id="message"
                         cols={30}
                         rows={4}
-                        placeholder="Message *"
+                        placeholder="Mesajınız *"
                         required=""
                         defaultValue={""}
                       />
                     </div>
                     <div className="col-md-12">
                       <button type="submit" className="butn-dark2">
-                        <span>Send Message</span>
+                        <span>Mesaj Gönder</span>
                       </button>
                     </div>
                   </div>
                 </form>
               </div>
             </div>
-            {/* Map Section */}
+            {/* Harita Bölümü */}
             <div className="row">
               <div
                 className="col-md-12 map animate-box"
                 data-animate-effect="fadeInUp"
               >
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1573147.7480448114!2d-74.84628175962355!3d41.04009641088412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25856139b3d33%3A0xb2739f33610a08ee!2s1616%20Broadway%2C%20New%20York%2C%20NY%2010019%2C%20Amerika%20Birle%C5%9Fik%20Devletleri!5e0!3m2!1str!2str!4v1646760525018!5m2!1str!2str"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1573147.7480448114!2d30.1022!3d40.7542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caca0d68c2d2a7%3A0x91d4b7d949d85c4d!2zU2FwYW5jYSwgU2FrYXJ5YSwgVHVya2V5!5e0!3m2!1str!2str!4v1646760525018!5m2!1str!2str"
                   width="100%"
                   height={600}
                   style={{ border: 0 }}

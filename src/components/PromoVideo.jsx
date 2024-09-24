@@ -5,12 +5,11 @@ const PromoVideo = () => {
     <section
       className="video-wrapper video section-padding bg-img bg-fixed"
       data-overlay-dark={5}
-      data-background="img/slider/1.jpg"
+      data-background="/img/slider/1.jpg"
     >
       <div className="container">
         <div className="row">
           <div className="col-md-8 offset-md-2 text-center">
-            {" "}
             <span>
               <i className="star-rating" />
               <i className="star-rating" />
@@ -19,10 +18,10 @@ const PromoVideo = () => {
               <i className="star-rating" />
             </span>
             <div className="section-subtitle">
-              <span>Apartment Hotel</span>
+              <span>Sahia Deluxe Sapanca</span>
             </div>
             <div className="section-title">
-              <span>Promotional Video</span>
+              <span>Tanıtım Videosu</span>
             </div>
           </div>
         </div>
@@ -30,10 +29,9 @@ const PromoVideo = () => {
           <div className="text-center col-md-12">
             <a className="vid" href="https://youtu.be/er2-6hpDWV0">
               <div className="vid-butn">
-                {" "}
                 <span className="icon">
                   <i className="ti-control-play" />
-                </span>{" "}
+                </span>
               </div>
             </a>
           </div>

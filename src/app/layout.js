@@ -17,33 +17,33 @@ export default function RootLayout({ children }) {
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed&family=Gilda+Display&display=swap"
         />
-        <link rel="stylesheet" href="css/plugins.css" />
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="/css/plugins.css" />
+        <link rel="stylesheet" href="/css/style.css" />
       </head>
       <body>{children}</body>
 
       <Script
         strategy="beforeInteractive"
-        src="js/jquery-3.6.3.min.js"
+        src="/js/jquery-3.6.3.min.js"
       ></Script>
-      <Script src="js/jquery-migrate-3.0.0.min.js"></Script>
-      <Script src="js/modernizr-2.6.2.min.js"></Script>
-      <Script src="js/imagesloaded.pkgd.min.js"></Script>
-      <Script src="js/jquery.isotope.v3.0.2.js"></Script>
-      <Script src="js/pace.js"></Script>
-      <Script src="js/popper.min.js"></Script>
-      <Script src="js/bootstrap.min.js"></Script>
-      <Script src="js/scrollIt.min.js"></Script>
-      <Script src="js/jquery.waypoints.min.js"></Script>
-      <Script src="js/owl.carousel.min.js"></Script>
-      <Script src="js/jquery.stellar.min.js"></Script>
-      <Script src="js/jquery.magnific-popup.js"></Script>
-      <Script src="js/YouTubePopUp.js"></Script>
-      <Script src="js/select2.js"></Script>
-      <Script src="js/datepicker.js"></Script>
-      <Script src="js/smooth-scroll.min.js"></Script>
-      <Script src="js/vegas.slider.min.js"></Script>
-      <Script src="js/custom.js"></Script>
+      <Script src="/js/jquery-migrate-3.0.0.min.js"></Script>
+      <Script src="/js/modernizr-2.6.2.min.js"></Script>
+      <Script src="/js/imagesloaded.pkgd.min.js"></Script>
+      <Script src="/js/jquery.isotope.v3.0.2.js"></Script>
+      <Script src="/js/pace.js"></Script>
+      <Script src="/js/popper.min.js"></Script>
+      <Script src="/js/bootstrap.min.js"></Script>
+      <Script src="/js/scrollIt.min.js"></Script>
+      <Script src="/js/jquery.waypoints.min.js"></Script>
+      <Script src="/js/owl.carousel.min.js"></Script>
+      <Script src="/js/jquery.stellar.min.js"></Script>
+      <Script src="/js/jquery.magnific-popup.js"></Script>
+      <Script src="/js/YouTubePopUp.js"></Script>
+      <Script src="/js/select2.js"></Script>
+      <Script src="/js/datepicker.js"></Script>
+      <Script src="/js/smooth-scroll.min.js"></Script>
+      <Script src="/js/vegas.slider.min.js"></Script>
+      <Script src="/js/custom.js"></Script>
       <Script>
         {`  
         $(document).ready(function() {

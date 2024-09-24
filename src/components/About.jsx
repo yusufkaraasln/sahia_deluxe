@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const About = () => {
@@ -25,9 +26,9 @@ const About = () => {
               buradayız.
             </p>
             <div className="butn-dark mt-30">
-              <a href="about.html">
+              <Link target="_parent" href="/aboutus">
                 <span>Daha Fazla Bilgi</span>
-              </a>
+              </Link>
             </div>
           </div>
           <div

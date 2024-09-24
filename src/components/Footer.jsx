@@ -1,3 +1,4 @@
+import Link from "next/link";
 import React from "react";
 
 const Footer = () => {
@@ -20,22 +21,30 @@ const Footer = () => {
                 <h3 className="footer-title">Keşfet</h3>
                 <ul className="footer-explore-list list-unstyled">
                   <li>
-                    <a href="index.html">Anasayfa</a>
+                    <Link target="_parent" href="/">
+                      Anasayfa
+                    </Link>
                   </li>
                   <li>
-                    <a href="rooms.html">Odalar &amp; Süitler</a>
+                    <Link target="_parent" href="rooms">
+                      Odalar &amp; Süitler
+                    </Link>
                   </li>
                   <li>
-                    <a href="restaurant.html">Restoran</a>
+                    <Link target="_parent" href="restaurant">
+                      Restoran
+                    </Link>
+                  </li>
+
+                  <li>
+                    <Link target="_parent" href="/aboutus">
+                      Otel Hakkında
+                    </Link>
                   </li>
                   <li>
-                    <a href="spa-wellness.html">Spa &amp; Wellness</a>
-                  </li>
-                  <li>
-                    <a href="about.html">Otel Hakkında</a>
-                  </li>
-                  <li>
-                    <a href="contact.html">İletişim</a>
+                    <Link target="_parent" href="contact">
+                      İletişim
+                    </Link>
                   </li>
                 </ul>
               </div>
@@ -57,21 +66,15 @@ const Footer = () => {
                   </p>
                 </div>
                 <div className="footer-about-social-list">
-                  <a href="#">
+                  <Link href="#">
                     <i className="ti-instagram" />
-                  </a>
-                  <a href="#">
-                    <i className="ti-twitter" />
-                  </a>
-                  <a href="#">
-                    <i className="ti-youtube" />
-                  </a>
-                  <a href="#">
+                  </Link>
+                  <Link href="#">
                     <i className="ti-facebook" />
-                  </a>
-                  <a href="#">
-                    <i className="ti-pinterest" />
-                  </a>
+                  </Link>
+                  <Link href="#">
+                    <i className="ti-linkedin" />
+                  </Link>
                 </div>
               </div>
             </div>

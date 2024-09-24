@@ -11,7 +11,7 @@ const SideBar = () => {
         {/* Logo */}
         <div className="cappa-logo">
           <Link href="/" target="_parent">
-            <img class="logo-img" src="img/logo/logo.png" alt="" />
+            <img class="logo-img" src="/img/logo/logo.png" alt="" />
           </Link>
         </div>
         {/* Menu */}
@@ -72,7 +72,7 @@ const SideBar = () => {
             <a href="tel:8551004444">
               <span className="flaticon-call" />
             </a>{" "}
-            <a href="mailto:info@apartments.com">
+            <a href="mailto:info@sahiadeluxe.com">
               <span className="flaticon-envelope" />
             </a>{" "}
             <a href="https://www.google.com/maps" target="_blank">

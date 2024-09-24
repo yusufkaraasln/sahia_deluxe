@@ -18,7 +18,7 @@ const Services = () => {
             data-animate-effect="fadeInLeft"
           >
             <div className="img left">
-              <a href="services-page.html">
+              <a href="#">
                 <img src="img/restaurant/3.jpg" alt="Restoran ve Bar" />
               </a>
             </div>
@@ -69,6 +69,9 @@ const Services = () => {
                   </a>
                 </div> */}
               </div>
+
+
+              
             </div>
           </div>
           <div
@@ -76,7 +79,7 @@ const Services = () => {
             data-animate-effect="fadeInRight"
           >
             <div className="img left">
-              <a href="spa-wellness.html">
+              <a href="#">
                 <img src="img/spa/2.jpg" alt="Spa ve Wellness" />
               </a>
             </div>
@@ -88,7 +91,7 @@ const Services = () => {
             data-animate-effect="fadeInLeft"
           >
             <div className="img left">
-              <a href="spa-wellness.html">
+              <a href="#">
                 <img src="img/spa/4.jpg" alt="Fitness ve Yoga" />
               </a>
             </div>
