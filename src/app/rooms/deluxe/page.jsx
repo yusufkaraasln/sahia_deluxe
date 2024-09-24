@@ -57,7 +57,7 @@ const page = () => {
                 </p>
                 <p className="mb-30">
                   Konuklar, keyifli bir tatil geçirmek için ihtiyaç duyacakları
-                  tüm olanaklara sahiptir. Bizimle konaklayarak Sapanca'nın
+                  tüm olanaklara sahiptir. Bizimle konaklayarak Sapanca&apos;nın
                   doğal güzelliklerinin tadını çıkarabilirsiniz.
                 </p>
                 <div className="row">

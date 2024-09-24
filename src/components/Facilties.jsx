@@ -64,7 +64,7 @@ const Facilities = () => {
               <span className="flaticon-swimming" />
               <h5>Yüzme Havuzu</h5>
               <p>
-                Özel havuzunuzda serinleyin ve Sapanca'nın doğal güzelliklerinin tadını çıkarın.
+                Özel havuzunuzda serinleyin ve Sapanca&apos;nın doğal güzelliklerinin tadını çıkarın.
               </p>
               <div className="facility-shape">
                 <span className="flaticon-swimming" />

@@ -62,7 +62,7 @@ const restaurant = () => {
                 <div className="text-center">
                   <p>Kahvaltı: 07.00 - 11.00 (her gün)</p>
                   <p>Öğle: 12.00 - 14.00 (her gün)</p>
-                  <p>Akşam: 18.30'dan itibaren, son sipariş 22.00 (her gün)</p>
+                  <p>Akşam: 18.30&apos;dan itibaren, son sipariş 22.00 (her gün)</p>
                 </div>
               </div>
             </div>

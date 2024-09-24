@@ -13,8 +13,8 @@ const MainSlider = () => {
           <div className="container">
             <div className="row h-100 justify-content-center">
               <div className="col-lg-10 col-md-12">
-                <h4>Sahia Deluxe Sapanca'ya Hoşgeldiniz</h4>
-                <h1>Sapanca'nın Doğal Güzellikleriyle Parlayan Yıldız</h1>
+                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h1>Sapanca&apos;nın Doğal Güzellikleriyle Parlayan Yıldız</h1>
                 <div className="butn-dark">
                   {" "}
                   <Link target="_self" href="/rooms">

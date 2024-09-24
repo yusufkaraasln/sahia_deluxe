@@ -97,7 +97,7 @@ const page = () => {
               >
                 <div className="content">
                   <div className="cont text-left">
-                    <h6>2007'den Beri</h6>
+                    <h6>Sapanca Manzarası</h6>
                     <h4>Butik Otelimizin Hikayesi</h4>
                     <p>
                       Sahia Deluxe Sapanca, doğayla iç içe bir deneyim sunmak

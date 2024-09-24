@@ -32,7 +32,7 @@ const page = () => {
               <div className="col-lg-5 col-md-12 mb-60">
                 <h3>Sahia Deluxe Sapanca</h3>
                 <p>
-                  Sapanca'nın huzur dolu ortamında konforlu bir tatil deneyimi
+                  Sapanca&apos;nın huzur dolu ortamında konforlu bir tatil deneyimi
                   sunuyoruz. Konuklarımız için her zaman en iyi hizmeti
                   sağlamak için ekibimize katılabilirsiniz!
                 </p>

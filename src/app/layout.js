@@ -44,7 +44,7 @@ export default function RootLayout({ children }) {
       <Script src="/js/smooth-scroll.min.js"></Script>
       <Script src="/js/vegas.slider.min.js"></Script>
       <Script src="/js/custom.js"></Script>
-      <Script>
+      <Script id="slider_Container">
         {`  
         $(document).ready(function() {
             $('#kenburnsSliderContainer').vegas({

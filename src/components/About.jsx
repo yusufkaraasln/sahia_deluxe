@@ -15,7 +15,7 @@ const About = () => {
               Sapanca Gölü Manzaralı Eşsiz Konaklama
             </div>
             <p>
-              Sahia Deluxe Sapanca'ya hoş geldiniz! Sapanca'nın doğal
+              Sahia Deluxe Sapanca&apos;ya hoş geldiniz! Sapanca&apos;nın doğal
               güzellikleriyle çevrili bu beş yıldızlı otel, huzurlu bir tatil
               deneyimi sunmak için tasarlandı.
             </p>
