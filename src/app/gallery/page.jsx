@@ -1,10 +1,14 @@
 import React from "react";
 import SideBar from "../../components/SideBar";
 import Footer from "@/components/Footer";
+import PreLoader from "@/components/PreLoader";
+import ScrollToTop from "@/components/ScrollToTop";
 
 const page = () => {
   return (
     <>
+      <PreLoader></PreLoader>
+      <ScrollToTop></ScrollToTop>
       <SideBar></SideBar>
       <div id="cappa-main">
         {/* Header Banner */}

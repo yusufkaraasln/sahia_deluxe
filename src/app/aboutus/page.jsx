@@ -2,10 +2,14 @@ import React from "react";
 import SideBar from "../../components/SideBar";
 import Footer from "@/components/Footer";
 import PromoVideo from "@/components/PromoVideo";
+import PreLoader from "@/components/PreLoader";
+import ScrollToTop from "@/components/ScrollToTop";
 
 const page = () => {
   return (
     <>
+      <PreLoader></PreLoader>
+      <ScrollToTop></ScrollToTop>
       <SideBar></SideBar>
       <div id="cappa-main">
         {/* Header Banner */}
@@ -165,11 +169,11 @@ const page = () => {
                 >
                   <span className="flaticon-world" />
                   <h5>Karşılama &amp; Ulaşım</h5>
-                    <p>
-                      Misafirlerimize sunduğumuz karşılama hizmeti ile otelimize
-                      adım attığınız andan itibaren kendinizi özel
-                      hissedeceksiniz.
-                    </p>
+                  <p>
+                    Misafirlerimize sunduğumuz karşılama hizmeti ile otelimize
+                    adım attığınız andan itibaren kendinizi özel
+                    hissedeceksiniz.
+                  </p>
                   <div className="facility-shape">
                     <span className="flaticon-world" />
                   </div>
@@ -215,8 +219,9 @@ const page = () => {
                   <span className="flaticon-swimming" />
                   <h5>Açık Yüzme Havuzu</h5>
                   <p>
-                    Güneşin ve göl manzasının tadını çıkarırken serinlemek için havuzumuza
-                    davetlisiniz. Dinlendirici bir gün için ideal bir alan!
+                    Güneşin ve göl manzasının tadını çıkarırken serinlemek için
+                    havuzumuza davetlisiniz. Dinlendirici bir gün için ideal bir
+                    alan!
                   </p>
                   <div className="facility-shape">
                     <span className="flaticon-swimming" />

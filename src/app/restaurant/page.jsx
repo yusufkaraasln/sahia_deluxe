@@ -1,10 +1,14 @@
 import React from "react";
 import Footer from "../../components/Footer";
 import SideBar from "../../components/SideBar";
+import PreLoader from "@/components/PreLoader";
+import ScrollToTop from "@/components/ScrollToTop";
 
 const restaurant = () => {
   return (
     <>
+      <PreLoader></PreLoader>
+      <ScrollToTop></ScrollToTop>
       <SideBar></SideBar>
       <div id="cappa-main">
         {/* Restoran Kaydırıcı */}

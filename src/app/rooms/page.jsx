@@ -1,11 +1,17 @@
 import React from "react";
 import SideBar from "../../components/SideBar";
 import Footer from "@/components/Footer";
+import Link from "next/link";
+
+import PreLoader from "@/components/PreLoader";
+import ScrollToTop from "@/components/ScrollToTop";
 
 const page = () => {
   return (
     <>
-      <SideBar></SideBar>
+      <PreLoader></PreLoader>
+      <ScrollToTop></ScrollToTop>
+       <SideBar></SideBar>
       <div id="cappa-main">
         {/* Header Banner */}
         <div
@@ -40,7 +46,9 @@ const page = () => {
                   </figure>
                   <div className="caption">
                     <h4>
-                      <a href="room-details.html">Junior Süit</a>
+                      <Link target="_parent" href="/rooms/deluxe">
+                        Junior Süit
+                      </Link>
                     </h4>
                     <p>
                       Geniş, ferah odalar, şık dekorasyon ve ahşap zemin ile
@@ -85,9 +93,9 @@ const page = () => {
                       </div>
                       <div className="butn-dark">
                         {" "}
-                        <a href="room-details.html">
+                        <Link target="_parent" href="/rooms/deluxe">
                           <span>Detaylar</span>
-                        </a>{" "}
+                        </Link>{" "}
                       </div>
                     </div>
                   </div>
@@ -100,7 +108,9 @@ const page = () => {
                   </figure>
                   <div className="caption">
                     <h4>
-                      <a href="room-details.html">Aile Odası</a>
+                      <Link target="_parent" href="/rooms/deluxe">
+                        Aile Odası
+                      </Link>
                     </h4>
                     <p>
                       Ailenizle keyifli vakit geçirebileceğiniz, geniş ve ferah
@@ -145,9 +155,9 @@ const page = () => {
                       </div>
                       <div className="butn-dark">
                         {" "}
-                        <a href="room-details.html">
+                        <Link target="_parent" href="/rooms/deluxe">
                           <span>Detaylar</span>
-                        </a>{" "}
+                        </Link>{" "}
                       </div>
                     </div>
                   </div>
@@ -160,7 +170,9 @@ const page = () => {
                   </figure>
                   <div className="caption">
                     <h4>
-                      <a href="room-details.html">Çift Kişilik Oda</a>
+                      <Link target="_parent" href="/rooms/deluxe">
+                        Çift Kişilik Oda
+                      </Link>
                     </h4>
                     <p>
                       Geniş ve ferah, modern tasarımıyla keyifli bir konaklama
@@ -205,9 +217,9 @@ const page = () => {
                       </div>
                       <div className="butn-dark">
                         {" "}
-                        <a href="room-details.html">
+                        <Link target="_parent" href="/rooms/deluxe">
                           <span>Detaylar</span>
-                        </a>{" "}
+                        </Link>{" "}
                       </div>
                     </div>
                   </div>
@@ -220,7 +232,9 @@ const page = () => {
                   </figure>
                   <div className="caption">
                     <h4>
-                      <a href="room-details.html">Deluxe Oda</a>
+                      <Link target="_parent" href="/rooms/deluxe">
+                        Deluxe Oda
+                      </Link>
                     </h4>
                     <p>
                       Lüks ve konforun buluştuğu, Sapanca Gölü manzaralı odalar.
@@ -264,9 +278,9 @@ const page = () => {
                       </div>
                       <div className="butn-dark">
                         {" "}
-                        <a href="room-details.html">
+                        <Link target="_parent" href="/rooms/deluxe">
                           <span>Detaylar</span>
-                        </a>{" "}
+                        </Link>{" "}
                       </div>
                     </div>
                   </div>

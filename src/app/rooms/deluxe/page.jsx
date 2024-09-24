@@ -1,11 +1,15 @@
 import Footer from "@/components/Footer";
 import PromoVideo from "@/components/PromoVideo";
 import SideBar from "@/components/SideBar";
+import PreLoader from "@/components/PreLoader";
+import ScrollToTop from "@/components/ScrollToTop";
 import React from "react";
 
 const page = () => {
   return (
     <>
+      <PreLoader></PreLoader>
+      <ScrollToTop></ScrollToTop>
       <SideBar></SideBar>
       <div id="cappa-main">
         {/* Room Page Slider */}
