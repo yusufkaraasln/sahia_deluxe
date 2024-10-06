@@ -32,13 +32,13 @@ export default function Home() {
         {/* Promo Video */}
         <PromoVideo></PromoVideo>
         {/* Services */}
-        <Services></Services>
+        {/* <Services></Services> */}
         {/* Testiominals */}
         {/* <Testiominals></Testiominals> */}
         {/* Facilties */}
         <Facilties></Facilties>
         {/* Price */}
-        <Price></Price>
+        {/* <Price></Price> */}
         {/* News */}
         {/* <News></News> */}
         {/* Reservation & Booking Form */}

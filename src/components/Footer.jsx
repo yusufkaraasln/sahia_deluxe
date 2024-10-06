@@ -53,28 +53,24 @@ const Footer = () => {
               <div className="footer-column footer-contact">
                 <h3 className="footer-title">İletişim</h3>
                 <p className="footer-contact-text">
-                  Sapanca Gölü, Sahia Deluxe Sapanca
+                İlmiye, kahraman 1 sokak A Blok No : 57/1, 54600
                   <br />
-                  Sapanca, Türkiye
+                  Sapanca/Sakarya
                 </p>
                 <div className="footer-contact-info">
                   <p className="footer-contact-phone">
-                    <span className="flaticon-call" /> 0850 100 4444
+                    <span className="flaticon-call" /> 0850 450 9654
                   </p>
                   <p className="footer-contact-mail">
-                    info@sahiadeluxesapanca.com
+                    info@sahiadeluxe.com
                   </p>
                 </div>
                 <div className="footer-about-social-list">
-                  <Link href="#">
+                  <Link href="https://instagram.com/sahiadeluxesapanca">
                     <i className="ti-instagram" />
                   </Link>
-                  <Link href="#">
-                    <i className="ti-facebook" />
-                  </Link>
-                  <Link href="#">
-                    <i className="ti-linkedin" />
-                  </Link>
+                  
+                  
                 </div>
               </div>
             </div>

@@ -144,13 +144,15 @@ const page = () => {
                 data-animate-effect="fadeInUp"
               >
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1573147.7480448114!2d30.1022!3d40.7542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caca0d68c2d2a7%3A0x91d4b7d949d85c4d!2zU2FwYW5jYSwgU2FrYXJ5YSwgVHVya2V5!5e0!3m2!1str!2str!4v1646760525018!5m2!1str!2str"
-                  width="100%"
-                  height={600}
-                  style={{ border: 0 }}
-                  allowFullScreen=""
-                  loading="lazy"
-                />
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.9442155612537!2d30.28352487578933!3d40.67519807139914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ccaf5aa9e78523%3A0xc9690426f5529184!2sSahia%20Deluxe%20Sapanca!5e0!3m2!1str!2str!4v1728231079743!5m2!1str!2str"
+  width="100%"
+  height={450}
+  style={{ border: 0 }}
+  allowFullScreen=""
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+/>
+
               </div>
             </div>
           </div>

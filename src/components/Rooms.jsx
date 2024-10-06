@@ -8,7 +8,7 @@ const Rooms = () => {
         <div className="row">
           <div className="col-md-12 mb-30">
             <div className="section-subtitle">Odalar &amp; Süitler</div>
-            <div className="section-title">En İyi Daireler</div>
+            <div className="section-title">En İyi Deneyim İçin</div>
           </div>
         </div>
         <div className="row">
@@ -20,7 +20,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/deluxe">Junior Süit</Link>
+                    <Link target="_parent" href="/rooms/deluxe">1&#43;1 Evler</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -29,7 +29,7 @@ const Rooms = () => {
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-group" /> 1-2 Kişi
+                          <i className="flaticon-group" /> 1&#43;1
                         </li>
                         <li>
                           <i className="flaticon-wifi" /> Ücretsiz Wifi
@@ -59,9 +59,7 @@ const Rooms = () => {
                   </div>
                   <hr className="border-2" />
                   <div className="info-wrapper">
-                    <div className="price">
-                      150$ <span>/ Gece</span>
-                    </div>
+                    
                     <div className="butn-dark">
                       <Link target="_parent" href="/rooms/deluxe">
                         <span>Detaylar</span>
@@ -76,7 +74,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/deluxe">Aile Odası</Link>
+                    <Link target="_parent" href="/rooms/deluxe">2&#43;1 Evler</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -85,7 +83,7 @@ const Rooms = () => {
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-group" /> 1-2 Kişi
+                          <i className="flaticon-group" /> 2&#43;1
                         </li>
                         <li>
                           <i className="flaticon-wifi" /> Ücretsiz Wifi
@@ -115,9 +113,7 @@ const Rooms = () => {
                   </div>
                   <hr className="border-2" />
                   <div className="info-wrapper">
-                    <div className="price">
-                      200$ <span>/ Gece</span>
-                    </div>
+                   
                     <div className="butn-dark">
                       <Link target="_parent" href="/rooms/deluxe">
                         <span>Detaylar</span>
@@ -132,7 +128,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/deluxe">Çift Kişilik Oda</Link>
+                    <Link target="_parent" href="/rooms/deluxe">3&#43;1 Evler</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -141,7 +137,7 @@ const Rooms = () => {
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-group" /> 2-3 Kişi
+                          <i className="flaticon-group" /> 3&#43;1
                         </li>
                         <li>
                           <i className="flaticon-wifi" /> Ücretsiz Wifi
@@ -171,9 +167,7 @@ const Rooms = () => {
                   </div>
                   <hr className="border-2" />
                   <div className="info-wrapper">
-                    <div className="price">
-                      250$ <span>/ Gece</span>
-                    </div>
+                    
                     <div className="butn-dark">
                       <Link target="_parent" href="/rooms/deluxe">
                         <span>Detaylar</span>
@@ -182,62 +176,7 @@ const Rooms = () => {
                   </div>
                 </div>
               </div>
-              <div className="rooms left">
-                <figure>
-                  <img src="img/slider/4.jpg" alt="" className="img-fluid" />
-                </figure>
-                <div className="caption">
-                  <h4>
-                    <Link target="_parent" href="/rooms/deluxe">Delüks Oda</Link>
-                  </h4>
-                  <p>
-                    Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
-                  </p>
-                  <div className="row room-facilities">
-                    <div className="col-md-4">
-                      <ul>
-                        <li>
-                          <i className="flaticon-group" /> 2-4 Kişi
-                        </li>
-                        <li>
-                          <i className="flaticon-wifi" /> Ücretsiz Wifi
-                        </li>
-                      </ul>
-                    </div>
-                    <div className="col-md-4">
-                      <ul>
-                        <li>
-                          <i className="flaticon-bed" /> İkiz Yatak
-                        </li>
-                        <li>
-                          <i className="flaticon-breakfast" /> Kahvaltı
-                        </li>
-                      </ul>
-                    </div>
-                    <div className="col-md-4">
-                      <ul>
-                        <li>
-                          <i className="flaticon-clock-1" /> 200 sqft oda
-                        </li>
-                        <li>
-                          <i className="flaticon-swimming" /> Yüzme Havuzu
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  <hr className="border-2" />
-                  <div className="info-wrapper">
-                    <div className="price">
-                      300$ <span>/ Gece</span>
-                    </div>
-                    <div className="butn-dark">
-                      <Link target="_parent" href="/rooms/deluxe">
-                        <span>Detaylar</span>
-                      </Link>
-                    </div>
-                  </div>
-                </div>
-              </div>
+            
             </div>
           </div>
         </div>
