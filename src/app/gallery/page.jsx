@@ -50,12 +50,12 @@ const page = () => {
                 </a>
               </div>
               <div className="col-md-4 gallery-item">
-                <a href="img/spa/2.jpg" title="" className="img-zoom">
+                <a href="img/restaurant/5.jpg" title="" className="img-zoom">
                   <div className="gallery-box">
                     <div className="gallery-img">
                       {" "}
                       <img
-                        src="img/spa/2.jpg"
+                        src="img/restaurant/5.jpg"
                         className="img-fluid mx-auto d-block"
                         alt="work-img"
                       />{" "}
@@ -106,18 +106,269 @@ const page = () => {
                   </div>
                 </a>
               </div>
+              <div className="col-md-3 gallery-item">
+                <a href="img/gallery/1.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/1.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div className="col-md-3 gallery-item">
+                <a href="img/gallery/2.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/2.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div className="col-md-3 gallery-item">
+                <a href="img/gallery/3.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/3.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div className="col-md-3 gallery-item">
+                <a href="img/galler/4.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/4.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+
+
+
+
+
+              <div className="col-md-4 gallery-item">
+                <a href="img/gallery/5.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/5.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div className="col-md-4 gallery-item">
+                <a href="img/gallery/6.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/6.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div className="col-md-4 gallery-item">
+                <a href="img/galler/7.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/7.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+
+
+
+
+              <div className="col-md-6 gallery-item">
+                <a href="img/gallery/8.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/8.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div className="col-md-6 gallery-item">
+                <a href="img/gallery/9.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/9.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+
+
+              <div className="col-md-12 gallery-item">
+                <a href="img/gallery/10.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/10.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+
+
+              <div className="col-md-3 gallery-item">
+                <a href="img/gallery/11.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/11.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div> 
+               <div className="col-md-3 gallery-item">
+                <a href="img/gallery/12.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/12.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div className="col-md-3 gallery-item">
+                <a href="img/gallery/13.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/13.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div> 
+               <div className="col-md-3 gallery-item">
+                <a href="img/gallery/14.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/14.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+              <div className="col-md-6 gallery-item">
+                <a href="img/gallery/15.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/15.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div> 
+               <div className="col-md-6 gallery-item">
+                <a href="img/gallery/16.jpg" title="" className="img-zoom">
+                  <div className="gallery-box">
+                    <div className="gallery-img">
+                      {" "}
+                      <img
+                        src="img/gallery/16.jpg"
+                        className="img-fluid mx-auto d-block"
+                        alt="work-img"
+                      />{" "}
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+              
+             
+
+
+
+
+
+
             </div>
           </div>
         </section>
         {/* Video Gallery */}
-        <section className="section-padding">
+        {/* <section className="section-padding">
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center mb-30">
                 <div className="section-subtitle">Videolar</div>
                 <div className="section-title">Video Galerisi</div>
               </div>
-              {/* 2 columns */}
+            
               <div className="col-md-6">
                 <div className="vid-area mb-30">
                   <div className="vid-icon">
@@ -154,7 +405,7 @@ const page = () => {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         {/* Footer */}
         <Footer></Footer>
       </div>

@@ -20,7 +20,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/deluxe">1&#43;1 Evler</Link>
+                    <Link target="_parent" href="/rooms/1-plus-1">1&#43;1 Evler</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -61,7 +61,7 @@ const Rooms = () => {
                   <div className="info-wrapper">
                     
                     <div className="butn-dark">
-                      <Link target="_parent" href="/rooms/deluxe">
+                      <Link target="_parent" href="/rooms/1-plus-1">
                         <span>Detaylar</span>
                       </Link>
                     </div>
@@ -74,7 +74,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/deluxe">2&#43;1 Evler</Link>
+                    <Link target="_parent" href="/rooms/2-plus-1">2&#43;1 Evler</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -115,7 +115,7 @@ const Rooms = () => {
                   <div className="info-wrapper">
                    
                     <div className="butn-dark">
-                      <Link target="_parent" href="/rooms/deluxe">
+                      <Link target="_parent" href="/rooms/2-plus-1">
                         <span>Detaylar</span>
                       </Link>
                     </div>
@@ -128,7 +128,7 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/deluxe">3&#43;1 Evler</Link>
+                    <Link target="_parent" href="/rooms/3-plus-1">3&#43;1 Evler</Link>
                   </h4>
                   <p>
                     Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
@@ -169,7 +169,7 @@ const Rooms = () => {
                   <div className="info-wrapper">
                     
                     <div className="butn-dark">
-                      <Link target="_parent" href="/rooms/deluxe">
+                      <Link target="_parent" href="/rooms/3-plus-1">
                         <span>Detaylar</span>
                       </Link>
                     </div>

@@ -46,7 +46,7 @@ const page = () => {
                   </figure>
                   <div className="caption">
                     <h4>
-                      <Link target="_parent" href="/rooms/deluxe">
+                      <Link target="_parent" href="/rooms/1-plus-1">
                         1&#43;1 Evler
                       </Link>
                     </h4>
@@ -91,7 +91,7 @@ const page = () => {
                      
                       <div className="butn-dark">
                         {" "}
-                        <Link target="_parent" href="/rooms/deluxe">
+                        <Link target="_parent" href="/rooms/1-plus-1">
                           <span>Detaylar</span>
                         </Link>{" "}
                       </div>
@@ -106,7 +106,7 @@ const page = () => {
                   </figure>
                   <div className="caption">
                     <h4>
-                      <Link target="_parent" href="/rooms/deluxe">
+                      <Link target="_parent" href="/rooms/2-plus-1">
                       2&#43;1 Evler
                       </Link>
                     </h4>
@@ -151,7 +151,7 @@ const page = () => {
                      
                       <div className="butn-dark">
                         {" "}
-                        <Link target="_parent" href="/rooms/deluxe">
+                        <Link target="_parent" href="/rooms/2-plus-1">
                           <span>Detaylar</span>
                         </Link>{" "}
                       </div>
@@ -166,7 +166,7 @@ const page = () => {
                   </figure>
                   <div className="caption">
                     <h4>
-                      <Link target="_parent" href="/rooms/deluxe">
+                      <Link target="_parent" href="/rooms/3-plus-1">
                       3&#43;1 Evler
                       </Link>
                     </h4>
@@ -211,7 +211,7 @@ const page = () => {
                      
                       <div className="butn-dark">
                         {" "}
-                        <Link target="_parent" href="/rooms/deluxe">
+                        <Link target="_parent" href="/rooms/3-plus-1">
                           <span>Detaylar</span>
                         </Link>{" "}
                       </div>

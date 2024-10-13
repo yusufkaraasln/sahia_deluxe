@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
           content="width=device-width, initial-scale=1, maximum-scale=1"
         />
         <title>Sahia Deluxe Sapanca</title>
-        <link rel="shortcut icon" href="img/favicon.png" />
+        <link rel="shortcut icon" href="img/favicon.ico" />
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed&family=Gilda+Display&display=swap"

@@ -34,6 +34,26 @@ const restaurant = () => {
               data-overlay-dark={3}
               data-background="img/restaurant/4.jpg"
             />
+            <div
+              className="text-center item bg-img"
+              data-overlay-dark={3}
+              data-background="img/restaurant/5.jpg"
+            />
+            <div
+              className="text-center item bg-img"
+              data-overlay-dark={3}
+              data-background="img/restaurant/6.jpg"
+            />
+            <div
+              className="text-center item bg-img"
+              data-overlay-dark={3}
+              data-background="img/restaurant/7.jpg"
+            />
+            <div
+              className="text-center item bg-img"
+              data-overlay-dark={3}
+              data-background="img/restaurant/8.jpg"
+            />
           </div>
         </header>
         {/* Restoran İçeriği */}
@@ -69,7 +89,7 @@ const restaurant = () => {
           </div>
         </section>
         {/* Restoran Menüsü */}
-        <section id="menu" className="restaurant-menu menu section-padding">
+        {/* <section id="menu" className="restaurant-menu menu section-padding">
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
@@ -103,7 +123,6 @@ const restaurant = () => {
                     </div>
                   </div>
                   <div className="restaurant-menu-content col-md-12">
-                    {/* Başlangıçlar */}
                     <div id="tab-1-content" className="cont active">
                       <div className="row">
                         <div className="col-md-5">
@@ -158,7 +177,6 @@ const restaurant = () => {
                         </div>
                       </div>
                     </div>
-                    {/* Ana Yemekler */}
                     <div id="tab-2-content" className="cont">
                       <div className="row">
                         <div className="col-md-5">
@@ -225,7 +243,6 @@ const restaurant = () => {
                         </div>
                       </div>
                     </div>
-                    {/* Salatalar */}
                     <div id="tab-3-content" className="cont">
                       <div className="row">
                         <div className="col-md-5">
@@ -274,9 +291,7 @@ const restaurant = () => {
                         </div>
                       </div>
                     </div>
-                    {/* Şarap */}
                     <div id="tab-4-content" className="cont"></div>
-                    {/* Kahvaltı */}
                     <div id="tab-5-content" className="cont">
                       <div className="row">
                         <div className="col-md-5">
@@ -325,7 +340,6 @@ const restaurant = () => {
                         </div>
                       </div>
                     </div>
-                    {/* Tatlılar */}
                     <div id="tab-6-content" className="cont">
                       <div className="row">
                         <div className="col-md-5">
@@ -375,7 +389,7 @@ const restaurant = () => {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         <Footer />
       </div>
     </>
