@@ -48,7 +48,7 @@ const page = () => {
                   <i className="star-rating" />
                 </span>
                 <div className="section-subtitle">Sahia Deluxe Sapanca</div>
-                <div className="section-title">1&#43;3</div>
+                <div className="section-title">1&#43;3 Evler</div>
               </div>
               <div className="col-lg-8 col-md-12">
                 <p className="mb-30">
