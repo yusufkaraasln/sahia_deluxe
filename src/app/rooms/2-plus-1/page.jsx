@@ -20,17 +20,32 @@ const page = () => {
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
-              data-background="/img/slider/1.jpg"
+              data-background="/img/rooms/1.jpg"
             />
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
-              data-background="/img/slider/2.jpg"
+              data-background="/img/rooms/2.jpg"
             />
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
-              data-background="/img/slider/3.jpg"
+              data-background="/img/rooms/3.jpg"
+            />
+            <div
+              className="text-center item bg-img"
+              data-overlay-dark={3}
+              data-background="/img/rooms/4.jpg"
+            />
+            <div
+              className="text-center item bg-img"
+              data-overlay-dark={3}
+              data-background="/img/rooms/5.jpg"
+            />
+            <div
+              className="text-center item bg-img"
+              data-overlay-dark={3}
+              data-background="/img/rooms/6.jpg"
             />
           </div>
         </header>
@@ -71,18 +86,11 @@ const page = () => {
                         </div>
                         <div className="page-list-text">
                           <p>
-                            Giriş işlemi 09:00 - istediğiniz zaman yapılabilir
+                            Giriş işlemi 11.00
                           </p>
                         </div>
                       </li>
-                      <li>
-                        <div className="page-list-icon">
-                          <span className="ti-check" />
-                        </div>
-                        <div className="page-list-text">
-                          <p>Erken giriş, müsaitliğe bağlıdır</p>
-                        </div>
-                      </li>
+                 
                     </ul>
                   </div>
                   <div className="col-md-6">
@@ -93,40 +101,21 @@ const page = () => {
                           <span className="ti-check" />
                         </div>
                         <div className="page-list-text">
-                          <p>Çıkış işlemi öğleye kadar yapılmalıdır</p>
+                          <p>Çıkış işlemi 14.00</p>
                         </div>
                       </li>
-                      <li>
-                        <div className="page-list-icon">
-                          <span className="ti-check" />
-                        </div>
-                        <div className="page-list-text">
-                          <p>Hızlı çıkış imkanı bulunmaktadır</p>
-                        </div>
-                      </li>
+                    
                     </ul>
                   </div>
-                  <div className="col-md-12">
-                    <h6>Özel Giriş Talimatları</h6>
-                    <p>
-                      Misafirler, varışlarından 5 gün önce giriş talimatlarını
-                      içeren bir e-posta alacaklardır; resepsiyon personeli,
-                      varışta misafirleri karşılayacaktır. Daha fazla bilgi
-                      için, lütfen rezervasyon onayındaki iletişim bilgilerini
-                      kullanarak mülk ile irtibata geçin.
-                    </p>
-                  </div>
+               
                   <div className="col-md-12">
                     <h6>Evcil Hayvanlar</h6>
-                    <p>Evcil hayvanlar kabul edilmemektedir.</p>
+                    <p>Evcil hayvan yalnızca ev ve bahçe alanlarında kabul edilmekte olup, restoran alanına alınmamaktadır.</p>
                   </div>
                   <div className="col-md-12">
-                    <h6>Çocuklar ve Ekstra Yataklar</h6>
+                    <h6>Çocuk Misafir Politikamız</h6>
                     <p>
-                      Çocuklar hoş karşılanmaktadır. Çocuklar, mevcut yatakları
-                      kullanarak ücretsiz konaklayabilir; çocuklar ücretsiz
-                      kahvaltı almayabilir. Katlanır/ekstra yataklar günde 10 $
-                      karşılığında temin edilmektedir.
+                      0-12 yaş 1 çocuk ücretsiz konaklayabilir. 2. çocuk için ekstra ücretlendirme yapılacaktır. Detaylı bilgi için rezervasyon bölümü ile iletişim kurulmalıdır.
                     </p>
                   </div>
                 </div>
@@ -135,44 +124,79 @@ const page = () => {
                 <h6>Amenities (Olanaklar)</h6>
                 <ul className="list-unstyled page-list mb-30">
                   <li>
-                    <div className="page-list-icon">
-                      <span className="flaticon-group" />
-                    </div>
+
                     <div className="page-list-text">
-                      <p>3-4 Kişi</p>
+                      <p>1-2 Kişi</p>
                     </div>
                   </li>
                   <li>
-                    <div className="page-list-icon">
-                      <span className="flaticon-wifi" />
-                    </div>
+
                     <div className="page-list-text">
                       <p>Ücretsiz Wifi</p>
                     </div>
                   </li>
-                 
+
                   <li>
-                    <div className="page-list-icon">
-                      <span className="flaticon-breakfast" />
-                    </div>
+
                     <div className="page-list-text">
                       <p>Kahvaltı</p>
                     </div>
                   </li>
                   <li>
-                    <div className="page-list-icon">
-                      <span className="flaticon-towel" />
-                    </div>
+
                     <div className="page-list-text">
                       <p>Havlular</p>
                     </div>
                   </li>
                   <li>
-                    <div className="page-list-icon">
-                      <span className="flaticon-swimming" />
-                    </div>
+
                     <div className="page-list-text">
                       <p>Yüzme Havuzu</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>85 m2 kapalı alan, yarı korumalı 50-100 m2 bahçe alanı  </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>Isıtmalı açık havuz</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>Jakuzi</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>Split klima, TV, Kettle Set-up</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>Salon oturma grubu, yemek masası</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>Veranda oturma grubu, bahçe şezlongları</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>Çift kişilik yatak odası</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>Şömine</p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="page-list-text">
+                      <p>1 adet iki ayrı yataklı oda</p>
                     </div>
                   </li>
                 </ul>

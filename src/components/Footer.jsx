@@ -11,8 +11,10 @@ const Footer = () => {
               <div className="footer-column footer-about">
                 <h3 className="footer-title">Hakkında</h3>
                 <p className="footer-about-text">
-                  Sahia Deluxe Sapanca, Sapanca Gölü’nün eşsiz manzarasında
-                  huzurlu bir konaklama deneyimi sunmaktadır.
+                Sahia Deluxe Sapanca'ya hoş geldiniz! Sapanca'nın doğal güzellikleriyle çevrili bu 5 yıldızlı hizmet, huzurlu bir tatil deneyimi sunmak için tasarlandı.
+                <br />
+                <br />
+                Bahçenizde kendinize ait, özel ısıtmalı havuzunuz ile göl ve doğa manzarası eşliğinde konforu ve lüksü bir arada yaşayacaksınız. Misafirlerimize sunduğumuz kaliteli hizmetle, unutulmaz anılar biriktirmenizi sağlamak için buradayız.
                 </p>
               </div>
             </div>
@@ -53,17 +55,25 @@ const Footer = () => {
               <div className="footer-column footer-contact">
                 <h3 className="footer-title">İletişim</h3>
                 <p className="footer-contact-text">
-                İlmiye, kahraman 1 sokak A Blok No : 57/1, 54600
-                  <br />
-                  Sapanca/Sakarya
+                Sahia Deluxe Sapanca
+                Kahraman 1 sokak No:57/1  İlmiye/Sapanca SAKARYA
                 </p>
                 <div className="footer-contact-info">
                   <p className="footer-contact-phone">
                     <span className="flaticon-call" /> 0850 450 9654
                   </p>
+                  <p className="footer-contact-phone">
+                    <span className="flaticon-call" /> 0532 277 5754
+                  </p>
+             
                   <p className="footer-contact-mail">
                     info@sahiadeluxe.com
                   </p>
+                  <br />
+                  <p className="footer-contact-mail">
+                  rezervasyon@sahiadeluxe.com
+                  </p>
+                
                 </div>
                 <div className="footer-about-social-list">
                   <Link href="https://instagram.com/sahiadeluxesapanca">

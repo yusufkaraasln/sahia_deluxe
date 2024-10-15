@@ -32,7 +32,7 @@ const Services = () => {
                 <h1>01</h1>
               </div>
               <div className="cont">
-                <h5>Restoran &amp; Bar</h5>
+                <h5>Restoran</h5>
                 <p>
                   Konuklarımıza özel hazırlanmış menülerimizle, keyifli bir
                   yemek deneyimi sunuyoruz. Barımızda ise çeşitli içecek

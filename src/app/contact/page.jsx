@@ -25,24 +25,21 @@ const page = () => {
             </div>
           </div>
         </div>
+        
         {/* İletişim */}
         <section className="contact section-padding">
           <div className="container">
             <div className="row mb-90">
               <div className="col-lg-5 col-md-12 mb-60">
-                <h3>Sahia Deluxe Sapanca</h3>
-                <p>
-                  Sapanca&apos;nın huzur dolu ortamında konforlu bir tatil deneyimi
-                  sunuyoruz. Konuklarımız için her zaman en iyi hizmeti
-                  sağlamayı hedefliyoruz.
-                </p>
+               
                 <div className="reservations mb-30">
                   <div className="icon">
                     <span className="flaticon-call" />
                   </div>
                   <div className="text">
                     <p>Rezervasyon</p>{" "}
-                    <a href="tel:0855-450-9654">0850 450 9654</a>
+                    <a href="tel:855-100-4444">855 100 4444</a>
+                    <br /><a href="tel:05322775754">0532 277 5754</a>
                   </div>
                 </div>
                 <div className="reservations mb-30">
@@ -54,6 +51,10 @@ const page = () => {
                     <a href="mailto:info@sahiadeluxe.com">
                       info@sahiadeluxe.com
                     </a>
+                    <br />
+                    <a href="mailto:info@sahiadeluxe.com">
+                      rezervasyon@sahiadeluxe.com
+                    </a>
                   </div>
                 </div>
                 <div className="reservations">
@@ -61,9 +62,8 @@ const page = () => {
                     <span className="flaticon-location-pin" />
                   </div>
                   <div className="text">
-                    <p>Adres</p> İlmiye, kahraman 1 sokak A Blok No : 57/1, 54600 
-                    <br />
-                    Sapanca/Sakarya
+                    <p>Adres</p> Sahia Deluxe Sapanca
+                    Kahraman 1 sokak No:57/1  İlmiye/Sapanca SAKARYA
                   </div>
                 </div>
               </div>

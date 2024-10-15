@@ -9,7 +9,6 @@ const SimiliarRoom = () => {
           <div className="section-subtitle">
             <span>Sahia Deluxe Sapanca</span>
           </div>
-          <div className="section-title">Benzer Odalar</div>
         </div>
       </div>
       <div className="row">
@@ -93,9 +92,7 @@ const SimiliarRoom = () => {
               <div className="position-re o-hidden">
                 <img src="/img/rooms/3.jpg" alt="Double Room" />
               </div>
-              <span className="category">
-                <a href="services.html">Rezervasyon Yap</a>
-              </span>
+             
               <div className="con">
                
                 <h5>

@@ -40,12 +40,10 @@ const page = () => {
                 </div>
                 <p>
                   Sahia Deluxe Sapanca, göz alıcı Sapanca Gölü manzarasıyla sizi
-                  karşılamaktan mutluluk duyuyor. Her odanın kendine ait
-                  havuzuyla, konforun ve lüksün tadını çıkarabileceğiniz en iyi
-                  otel deneyimini sunuyoruz.
+                  karşılamaktan mutluluk duyuyor.
                 </p>
                 <p>
-                  Konuklarımız için tasarlanmış odalarımız, modern mimarisi ve
+                  Konuklarımız için tasarlanmış 1&#43;1, 2&#43;1 ve 3&#43;1 odalarımız, modern mimarisi ve
                   zarif dekorasyonuyla size evinizdeki konforu aratmayacak.
                   Yıldızlı gökyüzünün altında, huzur dolu bir tatil için sizleri
                   bekliyoruz.
@@ -57,6 +55,7 @@ const page = () => {
                   <div className="text">
                     <p className="color-2">Bilgi için</p>
                     <a href="tel:855-100-4444">855 100 4444</a>
+                    <br /><a href="tel:05322775754">0532 277 5754</a>
                   </div>
                 </div>
               </div>
@@ -98,7 +97,7 @@ const page = () => {
                 <div className="content">
                   <div className="cont text-left">
                     <h6>Sapanca Manzarası</h6>
-                    <h4>Butik Otelimizin Hikayesi</h4>
+                    <h4>Otelimizin Hikayesi</h4>
                     <p>
                       Sahia Deluxe Sapanca, doğayla iç içe bir deneyim sunmak
                       amacıyla kurulmuştur. Otelimizin temel prensibi,
@@ -123,12 +122,16 @@ const page = () => {
                 <div className="content">
                   <div className="cont text-left">
                     <h6>Yiyecek &amp; İçecek</h6>
-                    <h4>Restoran &amp; Bar</h4>
+                    <h4>Restoran</h4>
                     <p>
                       Restoranımız, taze ve yerel malzemelerle hazırlanan zengin
-                      menüsü ile her damak zevkine hitap etmektedir. Göl
-                      manzarası eşliğinde lezzetli yemeklerin tadını
-                      çıkarabilirsiniz.
+                      menüsü ile her damak zevkine hitap etmektedir.
+                      <br />
+                      <br />
+                      Sahia Deluxe Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile öne çıkmaktadır.
+                      özenle hazırlanmış, her damak tadına hitap eden sabah kahvaltısı,
+                      açık büfe akşam yemeğine ek olarak seçkin lezzetlerden oluşan beş çayı
+                      ile büfemizde kaliteli içeriklerin tadını çıkarabilirsiniz.
                     </p>
                     <p>
                       Özel etkinlikler ve kutlamalar için de ideal bir mekan
@@ -143,7 +146,7 @@ const page = () => {
                 data-animate-effect="fadeInRight"
               >
                 <div className="img">
-                  <img src="img/about4.jpg" alt="Restoran & Bar" />
+                  <img src="img/restaurant/3.jpg" alt="Restoran & Bar" />
                 </div>
               </div>
             </div>
@@ -169,11 +172,7 @@ const page = () => {
                 >
                   <span className="flaticon-world" />
                   <h5>Karşılama &amp; Ulaşım</h5>
-                  <p>
-                    Misafirlerimize sunduğumuz karşılama hizmeti ile otelimize
-                    adım attığınız andan itibaren kendinizi özel
-                    hissedeceksiniz.
-                  </p>
+
                   <div className="facility-shape">
                     <span className="flaticon-world" />
                   </div>
@@ -186,10 +185,7 @@ const page = () => {
                 >
                   <span className="flaticon-car" />
                   <h5>Otopark Hizmeti</h5>
-                  <p>
-                    Geniş otopark alanımızla araçlarınızı güvenle park
-                    edebilirsiniz. Konfor ve güvenliği bir arada sunuyoruz.
-                  </p>
+
                   <div className="facility-shape">
                     <span className="flaticon-car" />
                   </div>
@@ -202,10 +198,7 @@ const page = () => {
                 >
                   <span className="flaticon-bed" />
                   <h5>Oda Servisi</h5>
-                  <p>
-                    Odanızın konforunda yemek ve içeceklerinizi sipariş
-                    edebilirsiniz. Rahatlığınız bizim için öncelikli!
-                  </p>
+
                   <div className="facility-shape">
                     <span className="flaticon-bed" />
                   </div>
@@ -217,12 +210,8 @@ const page = () => {
                   data-animate-effect="fadeInUp"
                 >
                   <span className="flaticon-swimming" />
-                  <h5>Açık Yüzme Havuzu</h5>
-                  <p>
-                    Güneşin ve göl manzasının tadını çıkarırken serinlemek için
-                    havuzumuza davetlisiniz. Dinlendirici bir gün için ideal bir
-                    alan!
-                  </p>
+                  <h5>Isıtmalı Özel Havuz</h5>
+
                   <div className="facility-shape">
                     <span className="flaticon-swimming" />
                   </div>
@@ -235,11 +224,7 @@ const page = () => {
                 >
                   <span className="flaticon-wifi" />
                   <h5>Fiber İnternet</h5>
-                  <p>
-                    Hızlı ve kesintisiz internet bağlantımızla her zaman
-                    bağlantıda kalın. İşlerinizi ve iletişiminizi aksatmadan
-                    sürdürebilirsiniz.
-                  </p>
+
                   <div className="facility-shape">
                     <span className="flaticon-wifi" />
                   </div>
@@ -250,57 +235,50 @@ const page = () => {
                   className="single-facility animate-box"
                   data-animate-effect="fadeInUp"
                 >
+                  <span className="flaticon-swimming" />
+                  <h5>Jakuzili Odalar</h5>
+
+                  <div className="facility-shape">
+                    <span className="flaticon-swimming" />
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6">
+                <div
+                  className="single-facility animate-box"
+                  data-animate-effect="fadeInUp"
+                >
                   <span className="flaticon-breakfast" />
                   <h5>Kahvaltı</h5>
-                  <p>
-                    Güne enerjik başlamak için zengin kahvaltı menümüzden
-                    faydalanın. Taze ve lezzetli seçeneklerle dolu bir sofraya
-                    davetlisiniz!
-                  </p>
+
                   <div className="facility-shape">
                     <span className="flaticon-breakfast" />
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </section>
+              <div className="col-lg-4 col-md-6">
+                <div
+                  className="single-facility animate-box"
+                  data-animate-effect="fadeInUp"
+                >
+                  <span className="flaticon-coffee-cup" />
+                  <h5>5 Çayı</h5>
 
-        {/* Clients */}
-        <section className="clients">
-          <div className="container">
-            <div className="row">
-              <div className="col-md-12">
-                <div className="owl-carousel owl-theme">
-                  <div className="clients-logo">
-                    <a href="#0">
-                      <img src="img/clients/1.png" alt="" />
-                    </a>
+                  <div className="facility-shape">
+                    <span className="flaticon-breakfast" />
                   </div>
-                  <div className="clients-logo">
-                    <a href="#0">
-                      <img src="img/clients/2.png" alt="" />
-                    </a>
-                  </div>
-                  <div className="clients-logo">
-                    <a href="#0">
-                      <img src="img/clients/3.png" alt="" />
-                    </a>
-                  </div>
-                  <div className="clients-logo">
-                    <a href="#0">
-                      <img src="img/clients/4.png" alt="" />
-                    </a>
-                  </div>
-                  <div className="clients-logo">
-                    <a href="#0">
-                      <img src="img/clients/5.png" alt="" />
-                    </a>
-                  </div>
-                  <div className="clients-logo">
-                    <a href="#0">
-                      <img src="img/clients/6.png" alt="" />
-                    </a>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6">
+                <div
+                  className="single-facility animate-box"
+                  data-animate-effect="fadeInUp"
+                >
+                  <span className="flaticon-kitchen" />
+                  <h5>Akşam Yemeği</h5>
+
+                  <div className="facility-shape">
+                    <span className="flaticon-kitchen" />
                   </div>
                 </div>
               </div>

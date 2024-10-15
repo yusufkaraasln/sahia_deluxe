@@ -69,21 +69,10 @@ const restaurant = () => {
                   <i className="star-rating" />
                 </span>
                 <div className="section-subtitle">Duyular için Bir Deneyim</div>
-                <div className="section-title">Restoran ve Bar</div>
+                <div className="section-title">Restoran</div>
                 <p className="mb-30">
-                  Sahia Deluxe Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile
-                  öne çıkmaktadır. Geniş yemek odası, mutfak sanatlarının
-                  sergilendiği açık stüdyo mutfağı ile donatılmıştır; bu sayede
-                  hem görsel hem de işitsel bir deneyim yaşarsınız. Menü, klasik
-                  Türk lezzetlerinin yanı sıra, Asya ve Avrupa mutfaklarından
-                  esinlenerek hazırlanmış yaratıcı yemekleri de içermektedir.
+                Sahia Deluxe Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile öne çıkmaktadır. özenle hazırlanmış, her damak tadına hitap eden sabah kahvaltısı, açık büfe akşam yemeğine ek olarak seçkin lezzetlerden oluşan beş çayı ile büfemizde kaliteli içeriklerin tadını çıkarabilirsiniz.
                 </p>
-                <h6>Açılış Saatleri</h6>
-                <div className="text-center">
-                  <p>Kahvaltı: 07.00 - 11.00 (her gün)</p>
-                  <p>Öğle: 12.00 - 14.00 (her gün)</p>
-                  <p>Akşam: 18.30&apos;dan itibaren, son sipariş 22.00 (her gün)</p>
-                </div>
               </div>
             </div>
           </div>
