@@ -44,6 +44,27 @@ export default function RootLayout({ children }) {
       <Script src="/js/smooth-scroll.min.js"></Script>
       <Script src="/js/vegas.slider.min.js"></Script>
       <Script src="/js/custom.js"></Script>
+
+
+      <Script id="reservation_sc">
+       {
+        ` var grouphotels = false;
+        var widgeturl = "https://sahia-deluxe.rezervasyonal.com/";
+        var defaultadultcount = 2; // Default Yetişkin Sayısı
+        var maxchild = 3; // Maximum Çocuk Sayısı
+        var maxchildage = [0, 12]; //yaş aralığı. var maxchildage = 8; yaş aralığı 0 - 8 yaş arası olacaktır.
+        var maxadult = 4; // Maximum Yetişkin Sayısı
+        var mainWidget = true;
+        var exitWidget = false;
+        var currency = "TRY"; // Para Birimi
+        var lang = "tr"; // "tr" veya "en"`
+       }
+      </Script>
+      <Script id="reservation_src" src="https://www.rezervasyonal.com/widget/widgetbar/assets/widget.js"></Script>
+
+
+
+
       <Script id="slider_Container">
         {`  
         $(document).ready(function() {

@@ -64,6 +64,7 @@ const SideBar = () => {
             </li>
           </ul>
         </nav>
+      
         {/* Sidebar Footer */}
         <div className="cappa-footer">
           <div className="text">Bize Ulaşın</div>

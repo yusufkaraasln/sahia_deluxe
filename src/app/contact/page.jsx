@@ -25,6 +25,8 @@ const page = () => {
             </div>
           </div>
         </div>
+
+        
         
         {/* İletişim */}
         <section className="contact section-padding">

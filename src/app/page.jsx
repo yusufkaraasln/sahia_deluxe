@@ -25,6 +25,9 @@ export default function Home() {
       <div id="cappa-main">
         {/* Kenburns Slider */}
         <MainSlider></MainSlider>
+        {/* <div style={{
+        background: "#fff"
+      }} id="elektraweb-widget-area"></div> */}
         {/* About */}
         <About></About>
         {/* Rooms */}

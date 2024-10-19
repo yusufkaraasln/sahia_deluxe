@@ -131,7 +131,7 @@ const page = () => {
                   <li>
 
                     <div className="page-list-text">
-                      <p>Ücretsiz Fiber İnternet</p>
+                      <p>Ücretsiz Wifi</p>
                     </div>
                   </li>
 
