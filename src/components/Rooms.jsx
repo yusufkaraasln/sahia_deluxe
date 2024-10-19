@@ -7,7 +7,7 @@ const Rooms = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-12 mb-30">
-            <div className="section-subtitle">Odalar &amp; Süitler</div>
+            <div className="section-subtitle">Villalar</div>
             <div className="section-title">En İyi Deneyim İçin</div>
           </div>
         </div>
@@ -20,10 +20,10 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/1-plus-1">1&#43;1 Evler</Link>
+                    <Link target="_parent" href="/rooms/1-plus-1">1&#43;1 Bahçeli, Isıtmalı Havuzlu Villalar</Link>
                   </h4>
                   <p>
-                    Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
+                    Ferah, aydınlık misafir villaları, zarif mobilyalar ve ahşap zemin.
                   </p>
                   <div className="row room-facilities">
                     <div className="col-md-4">
@@ -49,7 +49,7 @@ const Rooms = () => {
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-clock-1" /> 200 sqft oda
+                          <i className="flaticon-clock-1" /> 60 m2
                         </li>
                         <li>
                           <i className="flaticon-swimming" /> Yüzme Havuzu
@@ -74,10 +74,10 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/2-plus-1">2&#43;1 Evler</Link>
+                    <Link target="_parent" href="/rooms/2-plus-1">2&#43;1 Bahçeli, Isıtmalı Havuzlu Villalar</Link>
                   </h4>
                   <p>
-                    Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
+                    Ferah, aydınlık misafir villaları, zarif mobilyalar ve ahşap zemin.
                   </p>
                   <div className="row room-facilities">
                     <div className="col-md-4">
@@ -103,7 +103,7 @@ const Rooms = () => {
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-clock-1" /> 200 sqft oda
+                          <i className="flaticon-clock-1" /> 85 m2
                         </li>
                         <li>
                           <i className="flaticon-swimming" /> Yüzme Havuzu
@@ -128,10 +128,10 @@ const Rooms = () => {
                 </figure>
                 <div className="caption">
                   <h4>
-                    <Link target="_parent" href="/rooms/3-plus-1">3&#43;1 Evler</Link>
+                    <Link target="_parent" href="/rooms/3-plus-1">3&#43;1 Bahçeli, Isıtmalı Havuzlu Villa</Link>
                   </h4>
                   <p>
-                    Ferah, aydınlık misafir odaları, zarif mobilyalar ve ahşap zemin.
+                    Ferah, aydınlık misafir villaları, zarif mobilyalar ve ahşap zemin.
                   </p>
                   <div className="row room-facilities">
                     <div className="col-md-4">
@@ -157,7 +157,7 @@ const Rooms = () => {
                     <div className="col-md-4">
                       <ul>
                         <li>
-                          <i className="flaticon-clock-1" /> 200 sqft oda
+                          <i className="flaticon-clock-1" /> 115 m2
                         </li>
                         <li>
                           <i className="flaticon-swimming" /> Yüzme Havuzu

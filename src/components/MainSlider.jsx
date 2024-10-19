@@ -18,7 +18,7 @@ const MainSlider = () => {
                 <div className="butn-dark">
                   {" "}
                   <Link target="_self" href="/rooms">
-                    <span>Odaları Keşfet</span>
+                    <span>villaları Keşfet</span>
                   </Link>{" "}
                 </div>
               </div>

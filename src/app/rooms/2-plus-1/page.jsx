@@ -63,12 +63,12 @@ const page = () => {
                   <i className="star-rating" />
                 </span>
                 <div className="section-subtitle">Sahia Deluxe Sapanca</div>
-                <div className="section-title">1&#43;2 Evler</div>
+                <div className="section-title">1&#43;2 Bahçeli, Isıtmalı Havuzlu Villalar</div>
               </div>
               <div className="col-lg-8 col-md-12">
                 <p className="mb-30">
                   Otel, konuklarına rahat bir deneyim sunmak amacıyla
-                  tasarlanmıştır. Ferah odalarımız ve güzel manzaramızla
+                  tasarlanmıştır. Ferah villalarımız ve güzel manzaramızla
                   misafirlerimizi ağırlamaktan mutluluk duyarız.
                 </p>
                 <p className="mb-30">
@@ -86,7 +86,7 @@ const page = () => {
                         </div>
                         <div className="page-list-text">
                           <p>
-                            Giriş işlemi 11.00
+                            Giriş saati 15.00
                           </p>
                         </div>
                       </li>
@@ -101,7 +101,7 @@ const page = () => {
                           <span className="ti-check" />
                         </div>
                         <div className="page-list-text">
-                          <p>Çıkış işlemi 14.00</p>
+                          <p>Çıkış saati 11.00</p>
                         </div>
                       </li>
                     
@@ -126,13 +126,13 @@ const page = () => {
                   <li>
 
                     <div className="page-list-text">
-                      <p>1-2 Kişi</p>
+                      <p>4-5 Kişi</p>
                     </div>
                   </li>
                   <li>
 
                     <div className="page-list-text">
-                      <p>Ücretsiz Wifi</p>
+                      <p>Ücretsiz Fiber İnternet</p>
                     </div>
                   </li>
 
@@ -148,12 +148,7 @@ const page = () => {
                       <p>Havlular</p>
                     </div>
                   </li>
-                  <li>
-
-                    <div className="page-list-text">
-                      <p>Yüzme Havuzu</p>
-                    </div>
-                  </li>
+               
                   <li>
                     <div className="page-list-text">
                       <p>85 m2 kapalı alan, yarı korumalı 50-100 m2 bahçe alanı  </p>

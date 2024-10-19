@@ -29,7 +29,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link target="_parent" href="rooms">
-                      Odalar &amp; Süitler
+                      Villalar  
                     </Link>
                   </li>
                   <li>
@@ -55,7 +55,7 @@ const Footer = () => {
               <div className="footer-column footer-contact">
                 <h3 className="footer-title">İletişim</h3>
                 <p className="footer-contact-text">
-                Sahia Deluxe Sapanca
+                Sahia Deluxe Sapanca Otel <br />
                 Kahraman 1 sokak No:57/1  İlmiye/Sapanca SAKARYA
                 </p>
                 <div className="footer-contact-info">

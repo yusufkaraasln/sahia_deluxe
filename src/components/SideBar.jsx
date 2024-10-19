@@ -25,7 +25,7 @@ const SideBar = () => {
 
             <li>
               <Link target="_parent" href="/rooms">
-                Odalar
+                Villalar
               </Link>
             </li>
             <li>
@@ -69,6 +69,9 @@ const SideBar = () => {
           <div className="text">Bize Ulaşın</div>
           <div className="social-list">
             {" "}
+            <a href="tel:05322775754">
+              <span className="flaticon-call" />
+            </a>{" "}
             <a href="tel:08554509654">
               <span className="flaticon-call" />
             </a>{" "}

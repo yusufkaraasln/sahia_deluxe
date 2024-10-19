@@ -16,7 +16,7 @@ const About = () => {
             </div>
             <p>
               Sahia Deluxe Sapanca&apos;ya hoş geldiniz! Sapanca&apos;nın doğal
-              güzellikleriyle çevrili bu 5 yıldızlı hizmet, huzurlu bir tatil
+              güzellikleriyle çevrili bu tesis, 5 yıldızlı hizmet eşliğinde huzurlu bir tatil
               deneyimi sunmak için tasarlandı.
             </p>
             <p>

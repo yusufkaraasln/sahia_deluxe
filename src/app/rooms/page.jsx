@@ -30,12 +30,12 @@ const page = () => {
                   <i className="star-rating" />
                 </span>
                 <h5>Sahia Deluxe Sapanca</h5>
-                <h1>Odalar &amp; Süitler</h1>
+                <h1>Villalar</h1>
               </div>
             </div>
           </div>
         </div>
-        {/* Odalar */}
+        {/* Villalar */}
         <section className="room section-padding">
           <div className="container">
             <div className="row">
@@ -47,41 +47,41 @@ const page = () => {
                   <div className="caption">
                     <h4>
                       <Link target="_parent" href="/rooms/1-plus-1">
-                        1&#43;1 Evler
+                        1&#43;1 Bahçeli, Isıtmalı Havuzlu Villalar
                       </Link>
                     </h4>
                     <p>
-                      Geniş, ferah odalar, şık dekorasyon ve ahşap zemin ile
+                      Geniş, ferah villalar, şık dekorasyon ve ahşap zemin ile
                       konforlu bir konaklama.
                     </p>
                     <div className="row room-facilities">
                       <div className="col-md-4">
                         <ul>
                           <li>
-                            <i className="flaticon-group" />  1&#43;1
+                            <i className="flaticon-group" />  2-3 Kişi
                           </li>
                           <li>
-                            <i className="flaticon-wifi" /> Ücretsiz Wifi
-                          </li>
-                        </ul>
-                      </div>
-                      <div className="col-md-4">
-                        <ul>
-                          <li>
-                            <i className="flaticon-bed" /> İkiz Yatak
-                          </li>
-                          <li>
-                            <i className="flaticon-breakfast" /> Kahvaltı
+                            <i className="flaticon-wifi" /> Fiber İnternet
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-4">
                         <ul>
                           <li>
-                            <i className="flaticon-clock-1" /> 200 sqft Oda
+                            <i className="flaticon-bed" /> Bahçe Alanı
                           </li>
                           <li>
-                            <i className="flaticon-swimming" /> Özel Havuz
+                            <i className="flaticon-swimming" /> Jakuzi
+                          </li>
+                        </ul>
+                      </div>
+                      <div className="col-md-4">
+                        <ul>
+                          <li>
+                            <i className="flaticon-clock-1" /> 60 m2 alan
+                          </li>
+                          <li>
+                            <i className="flaticon-swimming" /> Isıtmalı Havuz
                           </li>
                         </ul>
                       </div>
@@ -107,42 +107,51 @@ const page = () => {
                   <div className="caption">
                     <h4>
                       <Link target="_parent" href="/rooms/2-plus-1">
-                      2&#43;1 Evler
+                      2&#43;1 Bahçeli, Isıtmalı Havuzlu Villalar
                       </Link>
                     </h4>
                     <p>
                       Ailenizle keyifli vakit geçirebileceğiniz, geniş ve ferah
-                      odalar.
+                      villalar.
                     </p>
                     <div className="row room-facilities">
                       <div className="col-md-4">
                         <ul>
                           <li>
-                            <i className="flaticon-group" />2&#43;1
+                            <i className="flaticon-group" /> 4-5 Kişi
                           </li>
                           <li>
-                            <i className="flaticon-wifi" /> Ücretsiz Wifi
+                            <i className="flaticon-wifi" /> Fiber İnternet
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-4">
                         <ul>
                           <li>
-                            <i className="flaticon-bed" /> İkiz Yatak
+                            <i className="flaticon-bed" />Bahçe Alanı
                           </li>
                           <li>
-                            <i className="flaticon-breakfast" /> Kahvaltı
+                            <i className="flaticon-swimming" /> Jakuzi
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-4">
                         <ul>
                           <li>
-                            <i className="flaticon-clock-1" /> 200 sqft Oda
+                            <i className="flaticon-clock-1" /> 85 m2 alan
                           </li>
                           <li>
-                            <i className="flaticon-swimming" /> Özel Havuz
+                            <i className="flaticon-swimming" /> Isıtmalı Havuz
                           </li>
+                        </ul>
+                      </div>
+                      <div className="col-md-4">
+                        <ul>
+                       
+                          <li>
+                            <i className="flaticon-clock-1" /> Şömine
+                          </li>
+                          
                         </ul>
                       </div>
                     </div>
@@ -167,7 +176,7 @@ const page = () => {
                   <div className="caption">
                     <h4>
                       <Link target="_parent" href="/rooms/3-plus-1">
-                      3&#43;1 Evler
+                      3&#43;1 Bahçeli, Isıtmalı Havuzlu Villalar
                       </Link>
                     </h4>
                     <p>
@@ -178,33 +187,44 @@ const page = () => {
                       <div className="col-md-4">
                         <ul>
                           <li>
-                            <i className="flaticon-group" />3&#43;1
+                            <i className="flaticon-group" /> 6-7 Kişi
                           </li>
                           <li>
-                            <i className="flaticon-wifi" /> Ücretsiz Wifi
+                            <i className="flaticon-wifi" /> Fiber İnternet
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-4">
                         <ul>
                           <li>
-                            <i className="flaticon-bed" /> İkiz Yatak
+                            <i className="flaticon-bed" /> Bahçe Alan
                           </li>
                           <li>
-                            <i className="flaticon-breakfast" /> Kahvaltı
+                            <i className="flaticon-swimming" /> Jakuzi
                           </li>
                         </ul>
                       </div>
                       <div className="col-md-4">
                         <ul>
                           <li>
-                            <i className="flaticon-clock-1" /> 200 sqft Oda
+                            <i className="flaticon-clock-1" /> 115 m2 alan
                           </li>
                           <li>
-                            <i className="flaticon-swimming" /> Özel Havuz
+                            <i className="flaticon-swimming" /> Isıtmalı Havuz
                           </li>
                         </ul>
                       </div>
+                      <div>
+
+                      <ul>
+                       
+                       <li>
+                         <i className="flaticon-clock-1" /> Şömine
+                       </li>
+                       
+                     </ul>
+                   </div>
+                      
                     </div>
                     <hr className="border-2" />
                     <div className="info-wrapper">

@@ -37,7 +37,7 @@ const page = () => {
                   </div>
                   <div className="text">
                     <p>Rezervasyon</p>{" "}
-                    <a href="tel:855-100-4444">855 100 4444</a>
+                    <a href="tel:08504509654">0850 450 96 54</a>
                     <br /><a href="tel:05322775754">0532 277 5754</a>
                   </div>
                 </div>
@@ -61,7 +61,7 @@ const page = () => {
                     <span className="flaticon-location-pin" />
                   </div>
                   <div className="text">
-                    <p>Adres</p> Sahia Deluxe Sapanca
+                    <p>Adres</p> Sahia Deluxe Sapanca Otel <br />
                     Kahraman 1 sokak No:57/1  İlmiye/Sapanca SAKARYA
                   </div>
                 </div>

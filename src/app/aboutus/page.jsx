@@ -39,11 +39,11 @@ const page = () => {
                   Sapanca Gölü Manzaralı Lüks Otel
                 </div>
                 <p>
-                  Sahia Deluxe Sapanca, göz alıcı Sapanca Gölü manzarasıyla sizi
+                  Sahia Deluxe Sapanca, göz alıcı Sapanca Gölü ve harika doğa manzarasıyla sizi
                   karşılamaktan mutluluk duyuyor.
                 </p>
                 <p>
-                  Konuklarımız için tasarlanmış 1&#43;1, 2&#43;1 ve 3&#43;1 odalarımız, modern mimarisi ve
+                  Konuklarımız için tasarlanmış 1&#43;1, 2&#43;1 ve 3&#43;1 villalarımız, modern mimarisi ve
                   zarif dekorasyonuyla size evinizdeki konforu aratmayacak.
                   Yıldızlı gökyüzünün altında, huzur dolu bir tatil için sizleri
                   bekliyoruz.
@@ -54,7 +54,7 @@ const page = () => {
                   </div>
                   <div className="text">
                     <p className="color-2">Bilgi için</p>
-                    <a href="tel:855-100-4444">855 100 4444</a>
+                    <a href="tel:0850x4509654">0850 450 96 54</a>
                     <br /><a href="tel:05322775754">0532 277 5754</a>
                   </div>
                 </div>
@@ -102,7 +102,7 @@ const page = () => {
                       Sahia Deluxe Sapanca, doğayla iç içe bir deneyim sunmak
                       amacıyla kurulmuştur. Otelimizin temel prensibi,
                       konuklarımızın rahatlığı ve memnuniyetidir. Her ayrıntıyı
-                      düşünerek tasarladığımız odalarımızla, sizlere unutulmaz
+                      düşünerek tasarladığımız villalarımızla, sizlere unutulmaz
                       bir tatil deneyimi yaşatmayı hedefliyoruz.
                     </p>
                     <p>
@@ -129,7 +129,7 @@ const page = () => {
                       <br />
                       <br />
                       Sahia Deluxe Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile öne çıkmaktadır.
-                      özenle hazırlanmış, her damak tadına hitap eden sabah kahvaltısı,
+                      Özenle hazırlanmış, her damak tadına hitap eden sabah kahvaltısı,
                       açık büfe akşam yemeğine ek olarak seçkin lezzetlerden oluşan beş çayı
                       ile büfemizde kaliteli içeriklerin tadını çıkarabilirsiniz.
                     </p>
@@ -171,7 +171,7 @@ const page = () => {
                   data-animate-effect="fadeInUp"
                 >
                   <span className="flaticon-world" />
-                  <h5>Karşılama &amp; Ulaşım</h5>
+                  <h5>Karşılama &amp; 24 Saat Resepsiyon</h5>
 
                   <div className="facility-shape">
                     <span className="flaticon-world" />
@@ -197,7 +197,7 @@ const page = () => {
                   data-animate-effect="fadeInUp"
                 >
                   <span className="flaticon-bed" />
-                  <h5>Oda Servisi</h5>
+                  <h5>Toplantı salonu</h5>
 
                   <div className="facility-shape">
                     <span className="flaticon-bed" />
@@ -236,7 +236,7 @@ const page = () => {
                   data-animate-effect="fadeInUp"
                 >
                   <span className="flaticon-swimming" />
-                  <h5>Jakuzili Odalar</h5>
+                  <h5>Jakuzili Villalar</h5>
 
                   <div className="facility-shape">
                     <span className="flaticon-swimming" />
