@@ -5,6 +5,7 @@ import PreLoader from "@/components/PreLoader";
 import ScrollToTop from "@/components/ScrollToTop";
 import React from "react";
 import SimiliarRoom from "@/components/SimiliarRoom";
+import Link from "next/link";
 
 const page = () => {
   return (
@@ -21,32 +22,143 @@ const page = () => {
               className="text-center item bg-img"
               data-overlay-dark={3}
               data-background="/img/rooms/6.jpg"
-            />
+            >
+              
+              <div className="kenburns-inner h-100">
+        <div className="v-middle caption text-center">
+          <div className="container">
+            <div className="row h-100 justify-content-center">
+              <div className="col-lg-10 col-md-12">
+                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
+                <div className="butn-dark">
+                  {" "}
+                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                    <span>ONLINE REZERVASYON</span>
+                  </Link>{" "}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+              
+              </div>
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
               data-background="/img/rooms/5.jpg"
-            />
+            >
+                <div className="kenburns-inner h-100">
+        <div className="v-middle caption text-center">
+          <div className="container">
+            <div className="row h-100 justify-content-center">
+              <div className="col-lg-10 col-md-12">
+                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
+                <div className="butn-dark">
+                  {" "}
+                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                    <span>ONLINE REZERVASYON</span>
+                  </Link>{" "}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div></div>
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
               data-background="/img/rooms/4.jpg"
-            />
+            >
+                <div className="kenburns-inner h-100">
+        <div className="v-middle caption text-center">
+          <div className="container">
+            <div className="row h-100 justify-content-center">
+              <div className="col-lg-10 col-md-12">
+                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
+                <div className="butn-dark">
+                  {" "}
+                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                    <span>ONLINE REZERVASYON</span>
+                  </Link>{" "}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div></div>
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
               data-background="/img/rooms/1.jpg"
-            />
+            >
+                <div className="kenburns-inner h-100">
+        <div className="v-middle caption text-center">
+          <div className="container">
+            <div className="row h-100 justify-content-center">
+              <div className="col-lg-10 col-md-12">
+                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
+                <div className="butn-dark">
+                  {" "}
+                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                    <span>ONLINE REZERVASYON</span>
+                  </Link>{" "}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div></div>
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
               data-background="/img/rooms/2.jpg"
-            />
+            >
+                <div className="kenburns-inner h-100">
+        <div className="v-middle caption text-center">
+          <div className="container">
+            <div className="row h-100 justify-content-center">
+              <div className="col-lg-10 col-md-12">
+                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
+                <div className="butn-dark">
+                  {" "}
+                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                    <span>ONLINE REZERVASYON</span>
+                  </Link>{" "}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div></div>
             <div
               className="text-center item bg-img"
               data-overlay-dark={3}
               data-background="/img/rooms/3.jpg"
-            />
+            >
+                <div className="kenburns-inner h-100">
+        <div className="v-middle caption text-center">
+          <div className="container">
+            <div className="row h-100 justify-content-center">
+              <div className="col-lg-10 col-md-12">
+                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
+                <div className="butn-dark">
+                  {" "}
+                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                    <span>ONLINE REZERVASYON</span>
+                  </Link>{" "}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div></div>
           </div>
         </header>
         {/* Oda İçeriği */}
@@ -63,7 +175,7 @@ const page = () => {
                   <i className="star-rating" />
                 </span>
                 <div className="section-subtitle">Sahia Deluxe Sapanca</div>
-                <div className="section-title">1&#43;3 Bahçeli, Isıtmalı Havuzlu Villa</div>
+                <div className="section-title">3&#43;1 Bahçeli, Isıtmalı Havuzlu Villa</div>
               </div>
               <div className="col-lg-8 col-md-12">
                 <p className="mb-30">

@@ -55,6 +55,21 @@ const SideBar = () => {
                     İK Kariyer
                   </Link>
                 </li>
+                <li>
+                  <Link target="_parent" href="/kvkk">
+                    Kişisel Verilerin İşlenmesi
+                  </Link>
+                </li>
+                <li>
+                  <Link target="_parent" href="/vsbf">
+                    Veri Sahibi Başvuru Formu
+                  </Link>
+                </li>
+                <li>
+                  <Link target="_parent" href="/bgys">
+                    BGYS Politikası
+                  </Link>
+                </li>
               </ul>
             </li>
             <li>
@@ -62,9 +77,19 @@ const SideBar = () => {
                 İletişim
               </Link>
             </li>
+            <li>
+
+            </li>
           </ul>
+          <div className="butn-dark d-flex align-items-center justify-content-center pt-5">
+            {" "}
+            <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+              <span className="text-center">ONLINE REZERVASYON</span>
+            </Link>{" "}
+          </div>
         </nav>
-      
+
+
         {/* Sidebar Footer */}
         <div className="cappa-footer">
           <div className="text">Bize Ulaşın</div>

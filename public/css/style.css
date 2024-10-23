@@ -4057,7 +4057,9 @@ button.mfp-arrow {
 .butn-dark {
     position: relative;
     line-height: 1.2em;
+    animation: pulse 1s infinite ease-in-out;
 }
+
 .butn-dark a {
     font-weight: 400;
     font-family: 'Barlow Condensed', sans-serif;
@@ -4069,33 +4071,31 @@ button.mfp-arrow {
     position: relative;
     font-size: 15px;
     letter-spacing: 3px;
+    box-shadow: 0 0 15px rgba(170, 132, 83, 0.5);
+    animation: glowing 500ms infinite alternate ease-in-out;
 }
-.butn-dark a:after {
-    content: '';
-    width: 0;
-    height: 100%;
-    position: absolute;
-    bottom: 0;
-    left: 100%;
-    z-index: 1;
-    background: #fff;
-    color: #333;
-    -webkit-transition: all 0.3s ease;
-    transition: all 0.3s ease;
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
 }
-.butn-dark a span {
-    position: relative;
-    z-index: 2;
+
+@keyframes glowing {
+    0% {
+        box-shadow: 0 0 5px rgba(170, 132, 83, 0.3);
+    }
+    100% {
+        box-shadow: 0 0 20px rgba(170, 132, 83, 0.8), 0 0 30px rgba(170, 132, 83, 0.5);
+    }
 }
-.butn-dark a:hover:after {
-    width: 100%;
-    left: 0;
-    -webkit-transition: width 0.3s ease;
-    transition: width 0.3s ease;
-}
-.butn-dark a:hover span {
-    color: #333;
-}
+
 
 /* light */
 .butn-light {
