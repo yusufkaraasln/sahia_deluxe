@@ -34,7 +34,7 @@ const page = () => {
                    <h6>Salatalar</h6>
                  </div>
                  <div id="tab-5" class="item">
-                   <h6>Sıcaklar</h6>
+                   <h6>Makarnalar</h6>
                  </div>
                  <div id="tab-6" class="item">
                    <h6>Pizzalar</h6>
@@ -93,42 +93,42 @@ const page = () => {
                {/* <!-- Atıştırmalıklar --> */}
                <div id="tab-3-content" class="cont">
                  <div class="menu-info">
-                   <h5>Kaşarlı Tost <span class="price">160 TL</span></h5>
+                   <h5>Kaşarlı Tost <span class="price">170 TL</span></h5>
                    <p>Yeşillik ve Patates kızartması ile servis edilir</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Karışık Tost <span class="price">180 TL</span></h5>
+                   <h5>Karışık Tost <span class="price">190 TL</span></h5>
                    <p>Yeşillik ve Patates kızartması ile servis edilir</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Club Sandviç <span class="price">160 TL</span></h5>
+                   <h5>Club Sandviç <span class="price">190 TL</span></h5>
                    <p>Yeşillik ve Patates kızartması ile servis edilir</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Çıtır Sepeti <span class="price">180 TL</span></h5>
+                   <h5>Çıtır Sepeti <span class="price">240 TL</span></h5>
                    <p>Soğan Halkası, Sosis, Mozzarella Stick, Parmak Patates</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Patates Tava <span class="price">100 TL</span></h5>
+                   <h5>Patates Tava <span class="price">110 TL</span></h5>
                  </div>
                </div>
    
                {/* <!-- Salatalar --> */}
                <div id="tab-4-content" class="cont">
                  <div class="menu-info">
-                   <h5>Çoban Salata <span class="price">150 TL</span></h5>
+                   <h5>Çoban Salata <span class="price">220 TL</span></h5>
                    <p>Domates, Salatalık, Biber, Maydanoz, Soğan</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Yeşil Salata <span class="price">170 TL</span></h5>
+                   <h5>Yeşil Salata <span class="price">220 TL</span></h5>
                    <p>Akdeniz yeşillikleri</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Sezar Salata <span class="price">250 TL</span></h5>
+                   <h5>Sezar Salata <span class="price">300 TL</span></h5>
                    <p>Ice berg marul, Tavuk göğüs, Çeri domates, Parmesan peyniri, Kroton ekmek ile servis edilir</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Ilık Dana Bonfile Salatası <span class="price">310 TL</span></h5>
+                   <h5>Ilık Dana Bonfile Salatası <span class="price">390 TL</span></h5>
                    <p>Izgara bonfile parçaları, Yeşillik, Çeri domates, Salatalık, Köz kapya biber, Baby mısır, Parmesan peyniri</p>
                  </div>
                  <div class="menu-info">
@@ -137,22 +137,22 @@ const page = () => {
                  </div>
                </div>
    
-               {/* <!-- Sıcaklar --> */}
+               {/* <!-- Makarnalar --> */}
                <div id="tab-5-content" class="cont">
                  <div class="menu-info">
-                   <h5>Fettucini Alfredo <span class="price">310 TL</span></h5>
+                   <h5>Fettucini Alfredo <span class="price">350 TL</span></h5>
                    <p>Krema, mantar, tavuk parçaları, parmesan peyniri</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Linguine Al Pesto <span class="price">280 TL</span></h5>
+                   <h5>Linguine Al Pesto <span class="price">290 TL</span></h5>
                    <p>Taze pesto sos, çeri domates, slice parmesan</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Penne Arabiata <span class="price">250 TL</span></h5>
+                   <h5>Penne Arabiata <span class="price">290 TL</span></h5>
                    <p>File zeytin, acı sos</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Linguine Di Mare <span class="price">310 TL</span></h5>
+                   <h5>Linguine Di Mare <span class="price">370 TL</span></h5>
                    <p>Domates sos, deniz mahsulleri</p>
                  </div>
                </div>
@@ -160,19 +160,19 @@ const page = () => {
                {/* <!-- Pizzalar --> */}
                <div id="tab-6-content" class="cont">
                  <div class="menu-info">
-                   <h5>Margarita Pizza <span class="price">290 TL</span></h5>
+                   <h5>Margarita Pizza <span class="price">310 TL</span></h5>
                    <p>Mozarella, Domates, Fesleğen, Zeytinyağı</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Di Mare Pizza <span class="price">350 TL</span></h5>
+                   <h5>Di Mare Pizza <span class="price">390 TL</span></h5>
                    <p>Mozarella, Deniz mahsulleri, Roka yaprakları</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Diavola Pizza <span class="price">320 TL</span></h5>
+                   <h5>Diavola Pizza <span class="price">350 TL</span></h5>
                    <p>Mozarella, Izgara sucuk, File zeytin, Cheddar sos</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Special Pizza <span class="price">320 TL</span></h5>
+                   <h5>Special Pizza <span class="price">390 TL</span></h5>
                    <p>Mozarella , Sucuk, Salam, Sosis, Mısır, Mantar, Kapya biber, File zeytin, Roka yaprakları</p>
                  </div>
                </div>
@@ -180,15 +180,15 @@ const page = () => {
                {/* <!-- Burgerler --> */}
                <div id="tab-7-content" class="cont">
                  <div class="menu-info">
-                   <h5>Sahi Burger <span class="price">330 TL</span></h5>
+                   <h5>Sahi Burger <span class="price">350 TL</span></h5>
                    <p>Burger köftesi, yeşillik, turşu, domates, patates kızartması</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Sahi Chees Burger <span class="price">350 TL</span></h5>
+                   <h5>Sahi Chees Burger <span class="price">370 TL</span></h5>
                    <p>Burger sos, cheddar peyniri, yeşillik</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Çıtır Tavuk Burger <span class="price">290 TL</span></h5>
+                   <h5>Çıtır Tavuk Burger <span class="price">320 TL</span></h5>
                    <p>Çıtır tavuk, mayonez, burger sos, karamelize soğan</p>
                  </div>
                </div>
@@ -196,19 +196,19 @@ const page = () => {
                {/* <!-- Beyaz Etler --> */}
                <div id="tab-8-content" class="cont">
                  <div class="menu-info">
-                   <h5>Mantar Soslu Körpe Piliç <span class="price">350 TL</span></h5>
+                   <h5>Mantar Soslu Körpe Piliç <span class="price">390 TL</span></h5>
                    <p>Baby sebze ve fırın patates ile</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Tavuk Schnitzel <span class="price">350 TL</span></h5>
+                   <h5>Tavuk Schnitzel <span class="price">390 TL</span></h5>
                    <p>Parmak patates, roka, guacamole, dip salsa</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Izgara Piliç <span class="price">350 TL</span></h5>
+                   <h5>Izgara Piliç <span class="price">390 TL</span></h5>
                    <p>Baby sebze ve fırın patates ile</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Köri Soslu Tavuk <span class="price">350 TL</span></h5>
+                   <h5>Köri Soslu Tavuk <span class="price">390 TL</span></h5>
                    <p>Patates kızartması ile</p>
                  </div>
                </div>
@@ -216,15 +216,15 @@ const page = () => {
                {/* <!-- Kırmızı Etler --> */}
                <div id="tab-9-content" class="cont">
                  <div class="menu-info">
-                   <h5>Islama Köfte <span class="price">280 TL</span></h5>
+                   <h5>Islama Köfte <span class="price">300 TL</span></h5>
                    <p>Izgara biber ve domates eşliğinde</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Izgara Bonfile <span class="price">520 TL</span></h5>
+                   <h5>Izgara Bonfile <span class="price">670 TL</span></h5>
                    <p>Baby sebze, Patates tart demi glace sos</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Izgara Antirikot <span class="price">490 TL</span></h5>
+                   <h5>Izgara Antirikot <span class="price">620 TL</span></h5>
                    <p>Baby sebze, Patates tart</p>
                  </div>
                </div>
@@ -232,11 +232,11 @@ const page = () => {
                {/* <!-- Balıklar --> */}
                <div id="tab-10-content" class="cont">
                  <div class="menu-info">
-                   <h5>Somon <span class="price">520 TL</span></h5>
+                   <h5>Somon <span class="price">650 TL</span></h5>
                    <p>Fırın patates, baby sebze, narenciye sos</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Çipura Izgara <span class="price">490 TL</span></h5>
+                   <h5>Çipura Izgara <span class="price">570 TL</span></h5>
                    <p>Fırın patates, baby sebze, narenciye sos</p>
                  </div>
                </div>
@@ -334,7 +334,7 @@ const page = () => {
                    <h5>Americano <span class="price">110 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Espresso <span class="price">90 TL</span></h5>
+                   <h5>Espresso <span class="price">70 TL</span></h5>
                  </div>
                  <div class="menu-info">
                    <h5>Latte  <span class="price">110 TL</span></h5>
