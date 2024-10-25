@@ -11,7 +11,7 @@ import { sendContactForm } from "@/services";
 import 'react-toastify/dist/ReactToastify.css';
 
 
-const page = () => {
+const ContactPage = () => {
 
 
   const [isSubmitted, setIsSubmitted] = React.useState(false);
@@ -251,4 +251,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default ContactPage;
