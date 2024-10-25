@@ -1,17 +1,67 @@
+"use client";
 import React from "react";
 import SideBar from "../../components/SideBar";
 import Footer from "../../components/Footer";
 import PreLoader from "@/components/PreLoader";
 import ScrollToTop from "@/components/ScrollToTop";
+import { useFormik } from "formik";
+import { ToastContainer, toast } from 'react-toastify';
+import * as Yup from "yup";
+import { sendContactForm } from "@/services";
+import 'react-toastify/dist/ReactToastify.css';
 
-const page = () => {
+
+const CareerPage = () => {
+  const [isSubmitted, setIsSubmitted] = React.useState(false);
+
+  const formik = useFormik({
+    initialValues: {
+      name: '',
+      email: '',
+      phone: '',
+      position: '',
+      coverLetter: '',
+      experience: '',
+      education: '',
+      skills: ''
+    },
+    validationSchema: Yup.object({
+      name: Yup.string().required('Ad Soyad alanı zorunludur.'),
+      email: Yup.string().email('Geçersiz e-posta adresi.').required('E-posta zorunludur.'),
+      phone: Yup.string()
+        .required('Telefon numarası zorunludur.')
+        .matches(/^[+0-9]+$/, 'Geçerli bir telefon numarası giriniz.'),
+      position: Yup.string().required('Pozisyon alanı zorunludur.'),
+      coverLetter: Yup.string(),
+      experience: Yup.string().required('Tecrübe alanı zorunludur.'),
+      education: Yup.string().required('Eğitim alanı zorunludur.'),
+      skills: Yup.string()
+    }),
+    onSubmit: async (values) => {
+      setIsSubmitted(true);
+
+      try {
+        await sendContactForm({
+          ...values,
+          type: 'career'
+        });
+        setIsSubmitted(false);
+        toast.success('Başvurunuz başarıyla gönderildi.');
+        formik.resetForm();
+      } catch (error) {
+        toast.error('Bir hata oluştu. Lütfen tekrar deneyiniz.');
+        setIsSubmitted(false);
+        formik.resetForm();
+      }
+    }
+  });
+
   return (
     <>
-      <PreLoader></PreLoader>
-      <ScrollToTop></ScrollToTop>
-      <SideBar></SideBar>
+      <PreLoader />
+      <ScrollToTop />
+      <SideBar />
       <div id="cappa-main">
-        {/* Header Banner */}
         <div
           className="banner-header section-padding valign bg-img bg-fixed bg-position-bottom"
           data-overlay-dark={6}
@@ -20,146 +70,139 @@ const page = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center mt-20">
-                <h1>İK Kariyer</h1>
+                <h1>Kariyer Başvurusu</h1>
               </div>
             </div>
           </div>
         </div>
-        {/* İletişim */}
+
         <section className="contact section-padding">
           <div className="container">
             <div className="row mb-90">
-              <div className="col-lg-5 col-md-12 mb-60">
-              
-                <div className="reservations mb-30">
-                  <div className="icon">
-                    <span className="flaticon-call" />
-                  </div>
-                  <div className="text">
-                    <p>Rezervasyon</p>{" "}
-                    <a href="tel:08504509654">0850 450 96 54</a>
-                    <br /><a href="tel:05322775754">0532 277 5754</a>
-                  </div>
-                </div>
-                <div className="reservations mb-30">
-                  <div className="icon">
-                    <span className="flaticon-envelope" />
-                  </div>
-                  <div className="text">
-                    <p>Email Bilgisi</p>{" "}
-                    <a href="mailto:info@sahiadeluxe.com">
-                      info@sahiadeluxe.com
-                    </a>
-                    <br />
-                    <a href="mailto:info@sahiadeluxe.com">
-                      rezervasyon@sahiadeluxe.com
-                    </a>
-                  </div>
-                </div>
-                <div className="reservations">
-                  <div className="icon">
-                    <span className="flaticon-location-pin" />
-                  </div>
-                  <div className="text">
-                    <p>Adres</p> Sahia Deluxe Sapanca Otel <br />
-                    Kahraman 1 sokak No:57/1  İlmiye/Sapanca SAKARYA
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-6 offset-lg-1 col-md-12 mb-30">
-                <h3>İletişime Geçin</h3>
-                <form method="post" className="contact__form" action="mail.php">
-                  {/* form message */}
-                  <div className="row">
-                    <div className="col-12">
-                      <div
-                        className="alert alert-success contact__msg"
-                        style={{ display: "none" }}
-                        role="alert"
-                      >
-                        {" "}
-                        Mesajınız başarıyla gönderildi.{" "}
-                      </div>
-                    </div>
-                  </div>
-                  {/* form elements */}
+              <div className="col-lg-6 offset-lg-3 col-md-12 mb-30">
+                <h3>Başvuru Formu</h3>
+                <form className="contact__form" onSubmit={formik.handleSubmit}>
                   <div className="row">
                     <div className="col-md-6 form-group">
                       <input
+                        onChange={formik.handleChange}
+                        onBlur={formik.handleBlur}
+                        value={formik.values.name}
                         name="name"
                         type="text"
-                        placeholder="Adınız *"
-                        required=""
+                        placeholder="Ad Soyad *"
                       />
+                      {formik.touched.name && formik.errors.name ? (
+                        <p style={{ color: 'red' }}>{formik.errors.name}</p>
+                      ) : null}
                     </div>
                     <div className="col-md-6 form-group">
                       <input
                         name="email"
                         type="email"
+                        onChange={formik.handleChange}
+                        onBlur={formik.handleBlur}
+                        value={formik.values.email}
                         placeholder="E-posta Adresiniz *"
-                        required=""
                       />
+                      {formik.touched.email && formik.errors.email ? (
+                        <p style={{ color: 'red' }}>{formik.errors.email}</p>
+                      ) : null}
                     </div>
                     <div className="col-md-6 form-group">
                       <input
                         name="phone"
+                        onChange={formik.handleChange}
+                        onBlur={formik.handleBlur}
+                        value={formik.values.phone}
                         type="text"
                         placeholder="Telefon Numaranız *"
-                        required=""
                       />
+                      {formik.touched.phone && formik.errors.phone ? (
+                        <p style={{ color: 'red' }}>{formik.errors.phone}</p>
+                      ) : null}
                     </div>
                     <div className="col-md-6 form-group">
                       <input
-                        name="subject"
+                        name="position"
                         type="text"
-                        placeholder="Konu *"
-                        required=""
+                        onChange={formik.handleChange}
+                        onBlur={formik.handleBlur}
+                        value={formik.values.position}
+                        placeholder="Başvurulan Pozisyon *"
                       />
+                      {formik.touched.position && formik.errors.position ? (
+                        <p style={{ color: 'red' }}>{formik.errors.position}</p>
+                      ) : null}
                     </div>
                     <div className="col-md-12 form-group">
                       <textarea
-                        name="message"
-                        id="message"
+                        name="coverLetter"
                         cols={30}
                         rows={4}
-                        placeholder="Mesajınız *"
-                        required=""
-                        defaultValue={""}
+                        onChange={formik.handleChange}
+                        onBlur={formik.handleBlur}
+                        value={formik.values.coverLetter}
+                        placeholder="Ön Yazı"
                       />
+                     
+                    </div>
+                    <div className="col-md-12 form-group">
+                      <textarea
+                        name="experience"
+                        cols={30}
+                        rows={2}
+                        onChange={formik.handleChange}
+                        onBlur={formik.handleBlur}
+                        value={formik.values.experience}
+                        placeholder="İş Tecrübesi (Özet) *"
+                      />
+                      {formik.touched.experience && formik.errors.experience ? (
+                        <p style={{ color: 'red' }}>{formik.errors.experience}</p>
+                      ) : null}
+                    </div>
+                    <div className="col-md-12 form-group">
+                      <input
+                        name="education"
+                        type="text"
+                        onChange={formik.handleChange}
+                        onBlur={formik.handleBlur}
+                        value={formik.values.education}
+                        placeholder="Eğitim Durumu *"
+                      />
+                      {formik.touched.education && formik.errors.education ? (
+                        <p style={{ color: 'red' }}>{formik.errors.education}</p>
+                      ) : null}
+                    </div>
+                  
+                    <div className="col-md-12 form-group">
+                      <textarea
+                        name="skills"
+                        cols={30}
+                        rows={2}
+                        onChange={formik.handleChange}
+                        onBlur={formik.handleBlur}
+                        value={formik.values.skills}
+                        placeholder="Yetenekleriniz"
+                      />
+                     
                     </div>
                     <div className="col-md-12">
                       <button type="submit" className="butn-dark2">
-                        <span>Mesaj Gönder</span>
+                        <span>Başvuruyu Gönder</span>
                       </button>
                     </div>
                   </div>
                 </form>
               </div>
             </div>
-            {/* Harita Bölümü */}
-            <div className="row">
-              <div
-                className="col-md-12 map animate-box"
-                data-animate-effect="fadeInUp"
-              >
-                <iframe
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3025.9442155612537!2d30.28352487578933!3d40.67519807139914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ccaf5aa9e78523%3A0xc9690426f5529184!2sSahia%20Deluxe%20Sapanca!5e0!3m2!1str!2str!4v1728231079743!5m2!1str!2str"
-  width="100%"
-  height={450}
-  style={{ border: 0 }}
-  allowFullScreen=""
-  loading="lazy"
-  referrerPolicy="no-referrer-when-downgrade"
-/>
-
-              </div>
-            </div>
           </div>
         </section>
-        <Footer></Footer>
+        <ToastContainer />
+        <Footer />
       </div>
     </>
   );
 };
 
-export default page;
+export default CareerPage;
