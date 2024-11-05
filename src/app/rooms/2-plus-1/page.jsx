@@ -315,7 +315,7 @@ const page = () => {
           </div>
         </section>
 
-        <PromoVideo></PromoVideo>
+        {/* <PromoVideo></PromoVideo> */}
         {/* Similiar Room */}
         <SimiliarRoom></SimiliarRoom>
 

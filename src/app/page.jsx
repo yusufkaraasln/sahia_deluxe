@@ -34,7 +34,7 @@ export default function Home() {
         {/* Rooms */}
         <Rooms></Rooms>
         {/* Promo Video */}
-        <PromoVideo></PromoVideo>
+        {/* <PromoVideo></PromoVideo> */}
         {/* Services */}
         {/* <Services></Services> */}
         {/* Testiominals */}

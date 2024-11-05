@@ -153,7 +153,7 @@ const page = () => {
           </div>
         </section>
 
-        <PromoVideo></PromoVideo>
+        {/* <PromoVideo></PromoVideo> */}
 
         {/* Facilties */}
         <section className="facilties section-padding">
