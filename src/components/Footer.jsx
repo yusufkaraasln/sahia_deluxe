@@ -60,12 +60,8 @@ const Footer = () => {
                 </p>
                 <div className="footer-contact-info">
                   <p className="footer-contact-phone">
-                    <span className="flaticon-call" /> 0850 450 9654
+                    <span className="flaticon-call" /> 0264 299 0144
                   </p>
-                  <p className="footer-contact-phone">
-                    <span className="flaticon-call" /> 0532 277 5754
-                  </p>
-             
                   <p className="footer-contact-mail">
                     info@sahiadeluxe.com
                   </p>

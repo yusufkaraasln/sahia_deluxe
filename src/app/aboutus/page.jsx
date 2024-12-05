@@ -54,8 +54,8 @@ const page = () => {
                   </div>
                   <div className="text">
                     <p className="color-2">Bilgi için</p>
-                    <a href="tel:0850x4509654">0850 450 96 54</a>
-                    <br /><a href="tel:05322775754">0532 277 5754</a>
+                    <a href="tel:02642990144">0264 299 0144</a>
+                  
                   </div>
                 </div>
               </div>

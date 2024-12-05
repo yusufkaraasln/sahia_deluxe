@@ -83,7 +83,7 @@ const SideBar = () => {
           </ul>
           <div className="butn-dark d-flex align-items-center justify-content-center pt-5">
             {" "}
-            <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+            <Link target="_blank" href="/reservation">
               <span className="text-center">ONLINE REZERVASYON</span>
             </Link>{" "}
           </div>
@@ -95,9 +95,6 @@ const SideBar = () => {
           <div className="text">Bize Ulaşın</div>
           <div className="social-list">
             {" "}
-            <a href="tel:05322775754">
-              <span className="flaticon-call" />
-            </a>{" "}
             <a href="tel:08554509654">
               <span className="flaticon-call" />
             </a>{" "}

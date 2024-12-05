@@ -1,5 +1,6 @@
 import Script from "next/script";
 var $ = require("jquery");
+import "../style/index.css"
 
 export default function RootLayout({ children }) {
   return (
@@ -20,7 +21,22 @@ export default function RootLayout({ children }) {
         <link rel="stylesheet" href="/css/plugins.css" />
         <link rel="stylesheet" href="/css/style.css" />
       </head>
-      <body>{children}</body>
+      <body>
+        <div className="iletisim-m home">
+          <ul>
+            <li>
+              <a href="tel:+908504509654" className="changePhone">
+                0850 450 96 54
+              </a>{" "}
+            </li>
+            <li>
+              <a href="/reservation" target="_blank">
+                Online Rezervasyon
+              </a>
+            </li>
+          </ul>
+        </div>
+        {children}</body>
 
       <Script
         strategy="beforeInteractive"
@@ -46,22 +62,45 @@ export default function RootLayout({ children }) {
       <Script src="/js/custom.js"></Script>
 
 
-      <Script id="reservation_sc">
-       {
-        ` var grouphotels = false;
-        var widgeturl = "https://sahia-deluxe.rezervasyonal.com/";
-        var defaultadultcount = 2; // Default Yetişkin Sayısı
-        var maxchild = 3; // Maximum Çocuk Sayısı
-        var maxchildage = [0, 12]; //yaş aralığı. var maxchildage = 8; yaş aralığı 0 - 8 yaş arası olacaktır.
-        var maxadult = 4; // Maximum Yetişkin Sayısı
-        var mainWidget = true;
-        var exitWidget = false;
-        var currency = "TRY"; // Para Birimi
-        var lang = "tr"; // "tr" veya "en"`
-       }
-      </Script>
-      <Script id="reservation_src" src="https://www.rezervasyonal.com/widget/widgetbar/assets/widget.js"></Script>
 
+
+      <Script id="gtm">{`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MXGWFQ6S');`}</Script>
+
+
+      <noscript id="no_sc_gtm" dangerouslySetInnerHTML={{
+        __html: `<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MXGWFQ6S"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe>`
+      }}></noscript>
+
+      <Script id="reservation_sc" type="text/javascript">{` var TB = {
+        data : {
+            adult : 2,
+            child : 0,
+            childAge : [],
+            hotelId : '5052008052204c389e01fe07e3f661c2',
+            agencyId: '1b726c72af8341529e103ee924cfd5c4',
+            subsidiaryId:0,
+            agentId: '9627',
+            productType : 'hotel',
+            version: Math.random(),
+            hotelPhone:''
+        },
+        error: function(){
+            alert('Hata oluştu! Lütfen daha sonra tekrar deneyiniz.');
+        }
+    };
+    (function(d, s, id) {
+        var js, tbjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "//www.tatilbudur.com/themes/tbnew/assets/widgets/reservation/tatilbudur-widgets.js?ver="+TB.data.version;
+        tbjs.parentNode.insertBefore(js, tbjs);
+    }(document, 'script', 'tb-jssdk'));`}</Script>
 
 
 

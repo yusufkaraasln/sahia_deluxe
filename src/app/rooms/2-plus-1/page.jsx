@@ -34,7 +34,7 @@ const page = () => {
                 <h1>2+1 Bahçeli, Isıtmalı Havuzlu Villalar</h1>
                 <div className="butn-dark">
                   {" "}
-                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                  <Link target="_blank" href="/reservation">
                     <span>ONLINE REZERVASYON</span>
                   </Link>{" "}
                 </div>
@@ -60,7 +60,7 @@ const page = () => {
                 <h1>2+1 Bahçeli, Isıtmalı Havuzlu Villalar</h1>
                 <div className="butn-dark">
                   {" "}
-                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                  <Link target="_blank" href="/reservation">
                     <span>ONLINE REZERVASYON</span>
                   </Link>{" "}
                 </div>
@@ -83,7 +83,7 @@ const page = () => {
                 <h1>2+1 Bahçeli, Isıtmalı Havuzlu Villalar</h1>
                 <div className="butn-dark">
                   {" "}
-                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                  <Link target="_blank" href="/reservation">
                     <span>ONLINE REZERVASYON</span>
                   </Link>{" "}
                 </div>
@@ -106,7 +106,7 @@ const page = () => {
                 <h1>2+1 Bahçeli, Isıtmalı Havuzlu Villalar</h1>
                 <div className="butn-dark">
                   {" "}
-                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                  <Link target="_blank" href="/reservation">
                     <span>ONLINE REZERVASYON</span>
                   </Link>{" "}
                 </div>
@@ -129,7 +129,7 @@ const page = () => {
                 <h1>2+1 Bahçeli, Isıtmalı Havuzlu Villalar</h1>
                 <div className="butn-dark">
                   {" "}
-                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                  <Link target="_blank" href="/reservation">
                     <span>ONLINE REZERVASYON</span>
                   </Link>{" "}
                 </div>
@@ -153,7 +153,7 @@ const page = () => {
                 <h1>2+1 Bahçeli, Isıtmalı Havuzlu Villalar</h1>
                 <div className="butn-dark">
                   {" "}
-                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                  <Link target="_blank" href="/reservation">
                     <span>ONLINE REZERVASYON</span>
                   </Link>{" "}
                 </div>

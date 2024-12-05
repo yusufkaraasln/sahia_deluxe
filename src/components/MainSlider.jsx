@@ -17,7 +17,7 @@ const MainSlider = () => {
                 <h1>Sapanca&apos;nın Doğal Güzellikleriyle Parlayan Yıldız</h1>
                 <div className="butn-dark">
                   {" "}
-                  <Link target="_self" href="https://sahia-deluxe.rezervasyonal.com/">
+                  <Link target="_blank" href="/reservation">
                     <span>ONLINE REZERVASYON</span>
                   </Link>{" "}
                 </div>
