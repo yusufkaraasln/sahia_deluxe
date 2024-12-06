@@ -25,8 +25,8 @@ export default function RootLayout({ children }) {
         <div className="iletisim-m home">
           <ul>
             <li>
-              <a href="tel:+908504509654" className="changePhone">
-                0850 450 96 54
+              <a href="tel:02642990144" className="changePhone">
+              0264 299 0144
               </a>{" "}
             </li>
             <li>
