@@ -13,7 +13,9 @@ export default function RootLayout({ children }) {
           content="width=device-width, initial-scale=1, maximum-scale=1"
         />
         <title>The Green Park Sapanca</title>
-        <link rel="shortcut icon" href="img/favicon.ico" />
+        <link rel="icon" sizes="192x192" href="img/logo/icon.jpg" type="image/jpeg" />
+        <link rel="shortcut icon" href="img/logo/icon.jpg" type="image/jpeg" />
+        <link rel="apple-touch-icon" href="img/logo/icon.jpg" type="image/jpeg" />
         <link
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed&family=Gilda+Display&display=swap"
