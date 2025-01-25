@@ -12,7 +12,7 @@ export default function RootLayout({ children }) {
           name="viewport"
           content="width=device-width, initial-scale=1, maximum-scale=1"
         />
-        <title>Sahia Deluxe Sapanca</title>
+        <title>The Green Park Sapanca</title>
         <link rel="shortcut icon" href="img/favicon.ico" />
         <link
           rel="stylesheet"

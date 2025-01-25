@@ -11,7 +11,7 @@ const Footer = () => {
               <div className="footer-column footer-about">
                 <h3 className="footer-title">Hakkında</h3>
                 <p className="footer-about-text">
-                Sahia Deluxe Sapanca&apos;ya hoş geldiniz! Sapanca&apos;nın doğal güzellikleriyle çevrili bu 5 yıldızlı hizmet, huzurlu bir tatil deneyimi sunmak için tasarlandı.
+                The Green Park Sapanca&apos;ya hoş geldiniz! Sapanca&apos;nın doğal güzellikleriyle çevrili bu 5 yıldızlı hizmet, huzurlu bir tatil deneyimi sunmak için tasarlandı.
                 <br />
                 <br />
                 Bahçenizde kendinize ait, özel ısıtmalı havuzunuz ile göl ve doğa manzarası eşliğinde konforu ve lüksü bir arada yaşayacaksınız. Misafirlerimize sunduğumuz kaliteli hizmetle, unutulmaz anılar biriktirmenizi sağlamak için buradayız.
@@ -55,7 +55,7 @@ const Footer = () => {
               <div className="footer-column footer-contact">
                 <h3 className="footer-title">İletişim</h3>
                 <p className="footer-contact-text">
-                Sahia Deluxe Sapanca Otel <br />
+                The Green Park Sapanca Otel <br />
                 Kahraman 1 sokak No:57/1  İlmiye/Sapanca SAKARYA
                 </p>
                 <div className="footer-contact-info">

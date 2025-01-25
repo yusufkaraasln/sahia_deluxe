@@ -49,7 +49,7 @@ bu Anayasal hakkın kullanılması kapsamında, kişisel verilerin işlenmesinde
 kişilerin temel hak ve özgürlüklerinin korunması ve kişisel verileri işleyen
 gerçek ve tüzel kişilerin yükümlülükleri ile uyacakları usul ve esasları
 düzenleyen temel yasal dayanak olarak 6698 Sayılı Kişisel Verilerin Korunması
-Kanunu yayımlanmıştır.</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca<span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"> KVK Kanunu’na uyum konusunda gerekli
+Kanunu yayımlanmıştır.</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca<span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"> KVK Kanunu’na uyum konusunda gerekli
 özeni göstermekte ve bunu Kişisel Verilerin İşlenmesi, Saklanması ve İmha
 Politikası ile bir şirket politikası haline getirmektedir.&nbsp; </span>Bu nedenle veri sorumlusu sıfatıyla
 firmamızda tüm kişisel veriler 6698 Sayılı Kişisel Verilerin Korunması Kanuna
@@ -58,14 +58,14 @@ tarihinde yayınlanan Kişisel Verilerin Silinmesi, Yok Edilmesi veya Anonim Hal
 Getirilmesi Hakkında Yönetmelik 5. Ve. 6. Maddeleri gereği kişisel verilerin
 saklanması ve imhasına ilişkin yükümlülüklerin ve sair mevzuatı uyarınca
 kişisel verilerin silinmesi, yok edilmesi veya anonim hale getirilmesine
-ilişkin Sahia Deluxe Sapanca tarafından uygulanacak usul ve esasların
+ilişkin The Green Park Sapanca tarafından uygulanacak usul ve esasların
 belirlenmesi amacıyla hazırlanmıştır. Kanuni kapsam dışında olan firmamızda
 KVKK Yönetim Sisteminin uygulanması, iletişim halinde olduğumuz tüm gerçek
 kişilere duyduğumuz saygı ve verdiğimiz önemden kaynaklanmaktadır.<o:p></o:p></span></p><ol style="margin-top:0cm" start="2" type="1">
  <li class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%;
      mso-list:l13 level1 lfo15"><b><span style="font-size:11.0pt;line-height:115%">AMAÇ VE KAPSAM<o:p></o:p></span></b></li>
 </ol><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Hukukun
-üstünlüğüne olan inancı ile Sahia Deluxe Sapanca, 6698 Sayılı KVK Kanuna
+üstünlüğüne olan inancı ile The Green Park Sapanca, 6698 Sayılı KVK Kanuna
 göre uygun olarak yürütülen Kişisel Veri işleme faaliyetleri ve Kişisel
 Verilerin Korunmasına yönelik olarak benimsenen ilkeler konusunda
 yükümlülüklere uyumun sağlanması, otelimiz gerçekleştirdiği faaliyetler
@@ -83,7 +83,7 @@ kamu kurum ve kuruluşları ile özel hukuk tüzel kişilerinin çalışanları,
 kişiler ve otomatik olan ya da herhangi bir veri kayıt sisteminin parçası olmak
 kaydıyla otomatik olmayan yollarla işlenen tüm kişisel verilerine ilişkindir
 olarak iş ilişkisi içerisinde bulunduğumuz yurt içi – yurt dışı gerçek kişileri
-kapsamaktadır.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, nezdinde kişisel verisi bulunan tüm gerçek kişilerin
+kapsamaktadır.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, nezdinde kişisel verisi bulunan tüm gerçek kişilerin
 kişisel verilerini işleme, saklama, koruma ve imha etme çerçevesinde kanunlara
 uygun olarak Kişisel Verilerin İşlenmesi, Saklanması ve İmha Politikasında
 belirtildiği gibi yönetilmektedir. Bu politika, KVKK ile ilgili mevzuatın
@@ -92,26 +92,26 @@ Veri Sorumlusu tarafından değiştirilebilir.</span></p><ol style="margin-top:0
  <li class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%;
      mso-list:l13 level1 lfo15"><b><span style="font-size:11.0pt;line-height:115%">POLİTİKA ESASLARI TEMEL VE GENEL
      İLKELER<o:p></o:p></span></b></li>
-</ol><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca tarafından, kişisel verilerin korunması mevzuatına uyum
+</ol><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca tarafından, kişisel verilerin korunması mevzuatına uyum
 sağlanması ve uyumun sürdürülebilirliği için KVK Kanunu’nun 4. Maddesi
 uyarınca, kişisel verilerin işlenmesinde aşağıdaki ilkelere uyulması
 zorunludur.</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><u><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Hukuka ve dürüstlük kurallarına
-     uygun olma,</span></u>&nbsp;</li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, Türkiye Cumhuriyeti Anayasası başta olmak üzere, kişisel
+     uygun olma,</span></u>&nbsp;</li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, Türkiye Cumhuriyeti Anayasası başta olmak üzere, kişisel
 verileri işleme faaliyetlerinde mevzuata uygun olarak hukuka ve dürüstlük
 kurallarına uygun olarak yürütür.</span><span style="font-size: 11pt;">&nbsp;</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><u><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Doğru ve gerektiğinde güncel
-     olma,</span></u>&nbsp;</li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, işlenen kişisel verilerin doğruluğunu ve güncelliğini
+     olma,</span></u>&nbsp;</li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, işlenen kişisel verilerin doğruluğunu ve güncelliğini
 sağlamasına yönelik idari ve teknik tedbirleri alarak, gerekli süreçleri
 yönetir. Veri sahiplerinin temel haklarını ve kendi meşru menfaatlerini dikkate
 alarak işlendiği kişisel verilerin doğru ve güncel olmasını sağlar.</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><u><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Belirli, açık ve meşru amaçlar
-     için işlenme,</span></u></li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, kişisel veri işleme amacının açık ve kesin olarak
+     için işlenme,</span></u></li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, kişisel veri işleme amacının açık ve kesin olarak
 belirlenmesine, işlenen kişisel verilerin yapılan iş veya sunulan hizmetle
 bağlantılı ve bu amaçlar için gerekli olmasına özen gösterir.</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><u><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İşlendikleri amaçla bağlantılı,
      sınırlı ve ölçülü olma,</span></u>&nbsp;</li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kişisel
-veriler, Sahia Deluxe Sapanca tarafından ilgili amaç ile bağlantılı olarak
+veriler, The Green Park Sapanca tarafından ilgili amaç ile bağlantılı olarak
 gerektiği kadar işlenmektedir. Daha sonra kullanabileceği varsayımı ile veri
 işleme faaliyeti yürütülmemektedir. Amacın gerçekleştirilmesiyle ilgili olmayan
 veya ihtiyaç duyulmayan kişisel verilerin işlenmesinden kaçınmaktadır. Veri
@@ -119,7 +119,7 @@ işleme faaliyeti ile gerçekleştirilmesi istenen amaç arasında makul bir
 dengenin kurulması sağlanmakta böylelikle veri sahiplerinin temel haklarını ve
 kendi meşru menfaatlerini göz önünde bulundurmaktadır.</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><u><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İlgili mevzuatta öngörülen veya
-     işlendikleri amaç için gerekli olan süre kadar muhafaza edilme,</span></u>&nbsp;</li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, tarafından kişisel veriler KVK Kanunu ve ilgili mevzuatta
+     işlendikleri amaç için gerekli olan süre kadar muhafaza edilme,</span></u>&nbsp;</li></ul><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, tarafından kişisel veriler KVK Kanunu ve ilgili mevzuatta
 öngörülen veya veri işleme faaliyetine ilişkin amaçların gerektirdiği süre ile
 sınırlı olarak saklanmaktadır. &nbsp;Türk Ceza
 Kanunun 138. Maddesi ve KVK Kanunu’nun 4. Ve 7. Maddelerinden kaynaklanan süre
@@ -141,7 +141,7 @@ olarak işlenmesini önlemek, Kişisel verilerin hukuka aykırı olarak erişilm
 düzeyini temin etmeye yönelik gerekli her türlü teknik ve idari tedbirleri
 almak zorundadır. “</span></i></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal" style="line-height: 115%;"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kişisel verilerin silinmesi, yok edilmesi, anonim
-     hale getirilmesiyle ilgili yapılan tüm işlemler Sahia Deluxe Sapanca
+     hale getirilmesiyle ilgili yapılan tüm işlemler The Green Park Sapanca
      tarafından kayıt altına alınmakta ve söz konusu kayıtlar, hukuki
      yükümlülük ve belirtilen sürelere göre saklanmaktadır. <o:p></o:p></span></li>
  <li class="MsoNormal" style="line-height: 115%;"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kurul tarafından aksi bir karar alınmadıkça,
@@ -150,13 +150,13 @@ almak zorundadır. “</span></i></p><ul style="margin-top:0cm" type="disc">
      talebi halinde uygun yöntem gerekçesi açıklanarak seçilecektir. <o:p></o:p></span></li>
  <li class="MsoNormal" style="line-height: 115%;"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kanunun 5. Ve 6. Maddelerinde yer alan kişisel
      verilerin işlenme şartlarının tamamının ortadan kalkması halinde, kişisel
-     veriler Sahia Deluxe Sapanca tarafından re’ sen veya ilgili kişini
+     veriler The Green Park Sapanca tarafından re’ sen veya ilgili kişini
      talebi üzerine silinmekte, yok edilmekte veya anonim hale getirilmektedir.
-     Bu hususta ilgili kişi tarafından Sahia Deluxe Sapanca’ ya
+     Bu hususta ilgili kişi tarafından The Green Park Sapanca’ ya
      başvurulması halinde; iletilen talepler en geç 30 (otuz) gün içerisinde
      sonuçlandırılmakta ve ilgili kişiye bilgi verilmektedir,</span></li></ul><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><b><span style="font-size:11.0pt;line-height:
 115%">SAKLAMA VE İMHAYA İLİŞKİN AÇIKLAMALAR<o:p></o:p></span></b></p><p class="MsoNormal"><span style="font-size:11.0pt">Veri sahiplerine ait kişisel
-veriler, <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span>
+veriler, <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span>
 tarafından özellikle (i) ticari faaliyetlerin sürdürülebilmesi, (ii) hukuki
 yükümlülüklerin yerine getirilebilmesi, (iii) çalışan haklarının ve yan
 haklarının planlanması ve ifası ile (iv) müşteri ilişkilerinin yönetilebilmesi
@@ -172,10 +172,10 @@ aşağıdaki gibidir:</span></p><ul style="margin-top:0cm" type="disc">
      amacıyla saklanması, <o:p></o:p></span></li>
  <li class="MsoNormal"><span style="font-size:
      11.0pt">Kişisel verilerin kişilerin temel hak ve özgürlüklerine zarar
-     vermemek kaydıyla <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span>’ nın meşru menfaatleri için saklanmasının zorunlu
+     vermemek kaydıyla <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span>’ nın meşru menfaatleri için saklanmasının zorunlu
      olması, <o:p></o:p></span></li>
  <li class="MsoNormal"><span style="font-size:
-     11.0pt">Kişisel verilerin <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span>’ nın herhangi bir hukuki yükümlülüğünü yerine
+     11.0pt">Kişisel verilerin <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span>’ nın herhangi bir hukuki yükümlülüğünü yerine
      getirmesi amacıyla saklanması,<o:p></o:p></span></li>
  <li class="MsoNormal"><span style="font-size:
      11.0pt">Mevzuatta kişisel verilerin saklanmasının açıkça öngörülmesi,<o:p></o:p></span></li>
@@ -183,7 +183,7 @@ aşağıdaki gibidir:</span></p><ul style="margin-top:0cm" type="disc">
      11.0pt">Veri sahiplerinin açık rızasının alınmasını gerektiren saklama
      faaliyetleri açısından veri sahiplerinin açık rızasının bulunması,<o:p></o:p></span></li>
 </ul><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Yönetmelik
-uyarınca, aşağıda sayılan hallerde veri sahiplerine ait kişisel veriler, Sahia Deluxe Sapanca tarafından re’ sen yahut talep üzerine silinir, yok edilir
+uyarınca, aşağıda sayılan hallerde veri sahiplerine ait kişisel veriler, The Green Park Sapanca tarafından re’ sen yahut talep üzerine silinir, yok edilir
 veya anonim hale getirilir. <o:p></o:p></span></p><p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo8"><!--[if !supportLists]--><span style="font-size:11.0pt">a)<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size:11.0pt">Kişisel verilerin işlenmesine veya saklanmasına esas
 teşkil eden ilgili mevzuat hükümlerinin değiştirilmesi veya ilgası, <o:p></o:p></span></p><p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo8"><!--[if !supportLists]--><span style="font-size:11.0pt">b)<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size:11.0pt">Kişisel verilerin işlenmesini veya saklanmasını
 gerektiren amacın ortadan kalkması, <o:p></o:p></span></p><p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:l2 level1 lfo8"><!--[if !supportLists]--><span style="font-size:11.0pt">c)<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><!--[endif]--><span style="font-size:11.0pt">Kanun’un 5. ve 6. maddelerindeki kişisel verilerin
@@ -211,9 +211,9 @@ verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyl
 kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme, ğ) Kişisel
 verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde
 zararın giderilmesini talep etme.</span></i></p><p class="MsoNormal">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="text-indent: -54pt; font-size: 0.875rem;"><span style="font-size: 11pt; line-height: 115%;">4.&nbsp;<b>İŞLENME ŞARTLARI, AMAÇLARI, SAKLAMA
-VE İMHA SÜRELERİ</b></span></span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, kişisel verileri ve özel nitelikli kişisel verileri KVK
+VE İMHA SÜRELERİ</b></span></span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, kişisel verileri ve özel nitelikli kişisel verileri KVK
 Kanunun 5. Ve 6. Maddelerinde ortaya konulan veri işleme şartlarına uygun
-olarak yürütülmektedir. Sahia Deluxe Sapanca, ilgili kişilerin kişisel
+olarak yürütülmektedir. The Green Park Sapanca, ilgili kişilerin kişisel
 verilerini KVK Kanunun 5. maddesinde öngörülen aşağıda belirtilen hukuki
 sebeplerden en az birine dayandırılarak işlenmektedir.<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:18.0pt"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&nbsp;</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kanunlarda açıkça öngörülmesi,<o:p></o:p></span></li>
@@ -235,7 +235,7 @@ sebeplerden en az birine dayandırılarak işlenmektedir.<o:p></o:p></span></p><
      bütünlüğünün korunması için zorunlu olması,<o:p></o:p></span></li>
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İlgili kişini açık rızası
      olması,</span></li></ul><p class="MsoNormal" style="margin-left:18.0pt;text-indent:18.0pt"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Özel Nitelikli Kişisel
-Verilerin İşlenmesi</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, öğrenilmesi halinde ayrımcılık yaratma riski taşıyan özel
+Verilerin İşlenmesi</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, öğrenilmesi halinde ayrımcılık yaratma riski taşıyan özel
 nitelikli kişisel verilerin işlenmesini, KVK Kanunun 6. Maddesinde ortaya
 konulan veri işleme şartlarına uygun olarak gerçekleştirilmektedir. Özel
 Nitelikli Kişisel Verilerin, ilgili kişilerin açık rızası olmaksızın işlenmesi
@@ -246,9 +246,9 @@ hizmetlerinin yürütülmesi, sağlık hizmetleri ve finansmanın planlanması v
 yönetimi amacıyla, sır saklama yükümlülüğü altında bulunan kişiler veya yetkili
 kurum ve kuruluşlar tarafından ilgili kişinin açık rızası aranmaksızın
 işlenebilir. Özel nitelikli kişisel veri işleme faaliyetleri için KVK Kurulu
-tarafından belirlenen tedbirler Sahia Deluxe Sapanca tarafından etkin bir
+tarafından belirlenen tedbirler The Green Park Sapanca tarafından etkin bir
 şekilde uygulanmaktadır. Kişisel veri / Özel nitelikli kişisel veri
-Prosedüründe içerik, saklama ve yok etme süreleri ile birlikte belirtilmiştir.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, tarafından kişisel sağlık verileri, aşağıdaki şartın
+Prosedüründe içerik, saklama ve yok etme süreleri ile birlikte belirtilmiştir.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, tarafından kişisel sağlık verileri, aşağıdaki şartın
 varlığı halinde işlenebilmektedir.</span><span style="font-size: 11pt;">&nbsp;&nbsp;</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">6331 sayılı İş Sağlığı ve
      Güvenliği Kanunu gereği; Kamu sağlığının korunması, koruyucu hekimlik,
@@ -261,7 +261,7 @@ varlığı halinde işlenebilmektedir.</span><span style="font-size: 11pt;">&nbs
      kuruluşlar tarafından veya kişisel veri sahibinin açık rızasının varlığı
      ile işlenmektedir.</span>&nbsp;</li></ul><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Özel nitelikli kişisel verilerin
-     işlenmesi ve kaydedilmesi yönünde Sahia Deluxe Sapanca olarak en üst
+     işlenmesi ve kaydedilmesi yönünde The Green Park Sapanca olarak en üst
      seviyede önlemler almış olup elektronik ortamlara özel nitelikli kişisel
      veriler taşınmamakla birlikte elektronik olmayan ortamlarda tutulmaktadır.
      Elektronik ortamlara taşınması durumunda BGYS sisteminde yer alan
@@ -271,8 +271,8 @@ varlığı halinde işlenebilmektedir.</span><span style="font-size: 11pt;">&nbs
 bir konuya ilişkin, bilgilendirmeye dayanan ve özgür iradeyle açıklanan
 rızadır. Yani veri sahibinin kendisiyle ilgili yeterli bilgi sahibi olarak,
 tereddüde yer bırakmayacak açıklıkta ve sadece o işlemle sınırlı olarak onay
-vermesi halinde Sahia Deluxe Sapanca tarafından kişisel veri işleme
-faaliyeti yürütülür. <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca bünyesinde kişisel veriler aşağıdaki amaçlar sebebi ile
+vermesi halinde The Green Park Sapanca tarafından kişisel veri işleme
+faaliyeti yürütülür. <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca bünyesinde kişisel veriler aşağıdaki amaçlar sebebi ile
 işlenmektedir.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Otelimiz
 tarafından yürütülen ticari faaliyetlerin gerçekleştirilmesi için ilgili iş
 birimlerimiz tarafından gerekli çalışmaların yapılması ve buna bağlı iş
@@ -355,7 +355,7 @@ detayları belirtilmiştir.</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Erişim Yetkileri, Yönetim ve tüm
      faaliyetlerinin mevzuata uygun yürütülmesi,<o:p></o:p></span></li>
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Saklama, düzeltme, arşivleme,
-     silme, yok etme, anonimleştirme faaliyetlerinin yürütülmesi,</span>&nbsp;</li></ul><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span><span style="font-size:11.0pt;line-height:115%">,
+     silme, yok etme, anonimleştirme faaliyetlerinin yürütülmesi,</span>&nbsp;</li></ul><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span><span style="font-size:11.0pt;line-height:115%">,
 tarafından KVKK ve diğer ilgili mevzuat hükümlerine uygun olarak elde edilen
 kişisel verilerinizin saklanma ve imha sürelerinin tespitinde aşağıda sırasıyla
 belirtilen ölçülerden yararlanılmaktadır.</span><span style="font-size: 11pt;">&nbsp;</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Mevzuatta söz konusu kişisel verinin
@@ -371,11 +371,11 @@ olması durumunda sırasıyla;<o:p></o:p></span></p><ul style="margin-top:0cm" t
      veriler ve özel nitelikli kişisel veriler olarak sınıflandırmaya tabi
      tutulur. Özel nitelikte olduğu tespit edilen tüm kişisel veriler imha
      edilir. Söz konusu verilerin imhasında uygulanacak yöntem verinin niteliği
-     ve saklanmasının <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span> nezdindeki önem derecesine göre belirlenir. <o:p></o:p></span></li>
+     ve saklanmasının <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span> nezdindeki önem derecesine göre belirlenir. <o:p></o:p></span></li>
  <li class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%;
      mso-list:l4 level1 lfo2"><span style="font-size:11.0pt;line-height:115%">Verinin
      saklanmasının KVKK’nın 4. Maddesinde belirtilen ilkelere uygunluğu
-     örneğin; verinin saklanmasında <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span>’ nın meşru bir amacının olup olmadığı
+     örneğin; verinin saklanmasında <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span>’ nın meşru bir amacının olup olmadığı
      sorgulanır. Saklanmasının KVKK’nın 4. Maddesinde yer alan ilkelere
      aykırılık teşkil edebileceği tespit edilen veriler silinir, yok edilir
      veya anonim hale getirilir. <o:p></o:p></span></li>
@@ -565,18 +565,18 @@ süreler boyunca saklanacak, süre sonunda ise imha edilecektir.</span></p><ol s
      mso-list:l13 level1 lfo15"><b><span style="font-size:11.0pt;line-height:115%">KİŞİSEL VERİLERİN AKTARIM AMACI<o:p></o:p></span></b></li>
 </ol><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kişisel
 veri aktarımlarında uygulanacak usul ve esaslar KVK Kanunu’nun 8. Ve 9.
-Maddelerinde belirtilmiştir.</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Yurt İçi Aktarım; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca
+Maddelerinde belirtilmiştir.</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Yurt İçi Aktarım; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca
 tarafından KVK Kanununun 8. Maddesi gereğince, yurtiçinde yürütülecek veri
 aktarımı faaliyetlerinde veri işleme şartlarına uygun olarak hareket
 edilmektedir. Kişisel verilerin KVKK veya ilgili mevzuat gereği idari ve adli
-kurum ve kuruluşlara aktarımını zorunlu kıldığı durumlar saklı kalmak üzere, Sahia Deluxe Sapanca tarafından ilgili kişilere ait kişisel veriler ilgili
+kurum ve kuruluşlara aktarımını zorunlu kıldığı durumlar saklı kalmak üzere, The Green Park Sapanca tarafından ilgili kişilere ait kişisel veriler ilgili
 kişinin açık rızası olmaksızın başka kişilere aktarılmaktadır. KVKK’ nın 5.
 Ve/veya 6. Maddesinde sayılı huşuların söz konusu olduğu durumlarda hukuka
 uygunluk sebebi varlığından dolayı açık rıza aranmaksızın kişisel verileriniz
 yasal çerçevede ilgili kurum ve kuruluşlara aktarılacaktır. <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İş
 bu aktarım ile ilgili veri sahibini aydınlatma yükümlülüğünü yerine getirmekte
 olup buna göre aktarım yapılabilecek kurum, kuruluş ve/veya kişiler aşağıda
-belirtilmiştir.</span><b style="font-size: 0.875rem;"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&nbsp;</span></b></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Yurt Dışına Aktarım; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca
+belirtilmiştir.</span><b style="font-size: 0.875rem;"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">&nbsp;</span></b></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Yurt Dışına Aktarım; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca
 tarafından KVK Kanunun 9. Maddesi gereğince, veriler kişisel veri işleme
 şartlarına uygun olarak ve aktarım yapılacak ülkenin KVK Kurulu tarafından ilan
 edilen yeterli korumaya sahip ülkelerden olması veya ilgili yabancı ülkede
@@ -585,7 +585,7 @@ veri sorumlularının yeterli bir korumayı yazılı olarak taahhüt etmeleri ve
 Kurulunun izninin bulunması ile yurtdışına aktarılabilir. KVKK ve ilgili
 mevzuatta öngörülen şartlara uygun ve gerekli güvenlik tedbirlerini alarak ve
 ilgili kişinin açık rızasını alarak kişisel verileri yurt dışına aktarılabilir.</span><span style="font-size: 11pt;">&nbsp;</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Aktarım Yapılan Kurum,
-Kuruluşlar ve Kişiler</span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">; Sahia Deluxe Sapanca, kişisel verileri İş Hukuku,
+Kuruluşlar ve Kişiler</span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">; The Green Park Sapanca, kişisel verileri İş Hukuku,
 Borçlar Hukuku, Gelir Vergisi Kanunu, Ticaret Kanunu, Özel istihdam büroları
 yönetmeliği, ve ürün / hizmetlerimiz ile ilgili diğer tüm mevzuat çerçevesinde
 sayılı mevzuat gereği ilgili kamu kurum ve kuruluşlarla, yetkili
@@ -594,7 +594,7 @@ müfettişleri, İş-Kur, Bölge Çalışma ve SGK başta olmak üzere idari kur
 kuruluşlarla, talep olması halinde mahkemelerle ve diğer resmi – adli
 mercilerle paylaşılabilir.&nbsp; Bunlar dışında
 kişisel verilerinizi KVKK 8. Ve 9. Maddesine aykırı olmamak ve ilgili mevzuatta
-belirtilen tüm güvenlik önlemlerini almak kaydıyla, Sahia Deluxe Sapanca
+belirtilen tüm güvenlik önlemlerini almak kaydıyla, The Green Park Sapanca
 Yönetim Kurulu üyelerinin ortak olduğu diğer tüm şirketler, yurt içindeki
 ve/veya yurt dışındaki iş birliği içerisinde olduğumuz iş ortaklarına,
 tedarikçilere, iştiraklerine, dışarıdan destek alınan hukuk bürosu, talep
@@ -612,14 +612,14 @@ rızası alınmak suretiyle üçüncü kişilere aktarılabilir.<o:p></o:p></spa
 Grupları</span></b></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kişisel
 veriler, politikada yer alan “Kişisel Verilerin İşleme Amaçları” doğrultusunda
 faaliyetin niteliğiyle bağlantılı olarak ticari ve iş faaliyetlerinin sebebiyle
-tüm iş akışları için;</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İş Ortakları: </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca
-ticari faaliyetlerini yürütülmesi gibi amaçlarla iş ortaklığı kurduğu taraflar,</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Tedarikçiler; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca’
+tüm iş akışları için;</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İş Ortakları: </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca
+ticari faaliyetlerini yürütülmesi gibi amaçlarla iş ortaklığı kurduğu taraflar,</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Tedarikçiler; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca’
 nın ticari faaliyetlerinin yürütülmesi kapsamında emir ve talimatlara uygun
-temelli olarak Sahia Deluxe Sapanca’ ya ürün ve hizmet sunan taraflardır. Otelin
+temelli olarak The Green Park Sapanca’ ya ürün ve hizmet sunan taraflardır. Otelin
 tedarikçiden dış kaynaklı olarak temin ettiği ve ticari faaliyetlerini yerine
 getirmek için gerekli hizmetlerin şirkete sunulmasını sağlamak amacıyla sınırlı
 olmak,</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Vekalet İçerisinde
-Olduğumuz Gerçek ve Tüzel Kişiler; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, ticari ve iş akış
+Olduğumuz Gerçek ve Tüzel Kişiler; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, ticari ve iş akış
 faaliyetleri sebebi ile kamu, kurum ve kuruluşlarında hizmetin devamlılığı için
 alınan vekaletnamelerle faaliyetlerin yerine getirilmesi,</span></p><p class="MsoNormal"><b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Hukuken Yetkili Kamu
 Kurum ve Kuruluşlar; </span></b><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İlgili mevzuat hükümlerine göre şirketin bilgi ve belge
@@ -660,7 +660,7 @@ disiplin soruşturma veya kovuşturması için gerekli olması,<o:p></o:p></span
 olarak devletin ekonomik ve mali çıkarlarının korunması için gerekli olması,</span><span style="font-size: 11pt;">&nbsp;</span></p><ol style="margin-top:0cm" start="6" type="1">
  <li class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%;
      mso-list:l13 level1 lfo15"><b><span style="font-size:11.0pt;line-height:115%">AYDINLATMA YÜKÜMLÜLÜĞÜ<o:p></o:p></span></b></li>
-</ol><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, KVK Kanunu’nun 10. Maddesine ve Aydınlatma Yükümlülüğünün
+</ol><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, KVK Kanunu’nun 10. Maddesine ve Aydınlatma Yükümlülüğünün
 Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ’e uygun olarak,
 kişisel verilerin elde edilmesi sırasında veri sahiplerinin (ilgili kişi)
 bilgilendirilmesini sağlamak için gerekli aydınlatma yükümlülüğünü yerine
@@ -702,7 +702,7 @@ restoranından yeme / içme, ödeme,<o:p></o:p></span></p><p class="MsoNormal" s
 </span></span><!--[endif]--><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">E-posta üzerinden teklif, promosyon vb. bilgilendirmeler, <o:p></o:p></span></p><p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:l9 level1 lfo14"><!--[if !supportLists]--><span style="font-size: 11pt;">-<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><!--[endif]--><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Tur ve seyahat acenteleri rezervasyon sistemleri ve diğerleri
 üzerinden yapılan rezervasyon bilgilerinin tarafımıza aktarılması,<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:l9 level1 lfo14"><!--[if !supportLists]--><span style="font-size: 11pt;">-<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><!--[endif]--><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Online Formlar (toplantı teklif formu vb. Sahia Deluxe Sapanca’ ya ait sayfalar üzerinden)<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:l9 level1 lfo14"><!--[if !supportLists]--><span style="font-size: 11pt;">-<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Online Formlar (toplantı teklif formu vb. The Green Park Sapanca’ ya ait sayfalar üzerinden)<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:l9 level1 lfo14"><!--[if !supportLists]--><span style="font-size: 11pt;">-<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><!--[endif]--><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Öneri</span><span style="font-size: 11pt;">&nbsp;</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">KVK
 Kanunu’nun 11. Maddesi gereğince Otelimize başvurarak aşağıda yer alan
 konularda talepte bulunulabilir.</span><span style="font-size: 11pt; text-indent: 18pt;">&nbsp;</span></p><ul style="margin-top:0cm" type="disc">
@@ -758,7 +758,7 @@ Kişi / Veri Sahiplerinin kişisel verilerine ilişkin taleplerini KVK Kanunu’
 13. Maddesine uygun olarak, KVK Kanunu’nun 11. Maddesinde sayılan haklarına
 ilişkin taleplerini bu amaçla hazırlanan “Veri Sahibi (İlgili Kişi) Başvuru
 Formu” nda belirtilen yöntemler veya Veri sorumlusuna Başvuru Usul ve Esasları
-Hakkında Tebliğin 5. Maddesi kapsamındaki diğer başvuru yöntemleriyle Sahia Deluxe Sapanca ’ya iletmeleri durumunda söz konusu talep en geç 30 (otuz) gün
+Hakkında Tebliğin 5. Maddesi kapsamındaki diğer başvuru yöntemleriyle The Green Park Sapanca ’ya iletmeleri durumunda söz konusu talep en geç 30 (otuz) gün
 içinde sonuçlandırılmaktadır.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kişisel
 veri işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme,
 işlenme amacını ve bunların amacına uygun kullanıp kullanılmadığını öğrenme,
@@ -772,7 +772,7 @@ yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildir
 isteme, işlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz
 edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz
 etme, kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara
-uğraması halinde zararın giderilmesini talep etme, haklarına sahiptir.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, başvuruda bulunan kişinin ilgili kişi olup olmadığını
+uğraması halinde zararın giderilmesini talep etme, haklarına sahiptir.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, başvuruda bulunan kişinin ilgili kişi olup olmadığını
 tespit etmek adına ilgili kişiden bilgi talep edebilir ve ilgili kişinin
 başvurusunda yer alan hususları netleştirmek adına, ilgili kişiye başvurusu ile
 ilgili soru yöneltebilir. Başvuru ve cevap verme usulüne ilişkin detaylar “Veri
@@ -780,13 +780,13 @@ Sahibi (İlgili Kişi) Başvuru Formu” nda yer almaktadır. <a href="http://ww
 sitemizde Başvuru Formuna erişilebilir.</span><span style="font-size: 11pt;">&nbsp;</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İlgili
 kişi başvurusunun; diğer kişilerin hak ve özgürlüklerini engelleme ihtimali
 olması, orantısız çaba gerektirmesi, bilginin kamuya açık bir bilgi olması
-durumlarında, Sahia Deluxe Sapanca tarafından gerekçesi açıklanarak talep
+durumlarında, The Green Park Sapanca tarafından gerekçesi açıklanarak talep
 reddedilecektir.</span></p><ol style="margin-top:0cm" start="8" type="1">
  <li class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%;
      mso-list:l13 level1 lfo15"><b><span style="font-size:11.0pt;line-height:115%">KİŞİSEL VERİ VE VERİ GÜVENLİĞİ
      İÇİN ALINAN TEDBİRLER<o:p></o:p></span></b></li>
 </ol><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><b><span style="font-size:11.0pt;line-height:
-115%">KAYIT ORTAMLARI<o:p></o:p></span></b></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Kişisel veriler, <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span>
+115%">KAYIT ORTAMLARI<o:p></o:p></span></b></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Kişisel veriler, <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span>
 tarafından aşağıda listelenen ortamlarda kanunlara uygun olarak idari ve teknik
 tedbirlere uygun güvenli bir şekilde saklanır. <o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Elektronik Ortamlar; Sunucular,
 Yazılımlar, Cihazlar, Donanımlar, Taşınabilir Bellekler, Fotokopi Makinesi,
@@ -795,7 +795,7 @@ Arşiv vb. <o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-a
 115%">TEKNİK VE İDARİ TEDBİRLER<o:p></o:p></span></b></p><p class="MsoNormal"><span style="font-size:11.0pt">Kişisel verilerinizin güvenli
 bir şekilde saklanması, hukuka aykırı olarak işlenmesi, erişilmesinin önlenmesi
 ve verilerin hukuka uygun olarak imha edilmesi amacıyla KVKK’nın 12.
-maddesindeki ilkeler çerçevesinde, <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span> tarafından alınmış olan tüm idari ve teknik tedbirler
+maddesindeki ilkeler çerçevesinde, <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span> tarafından alınmış olan tüm idari ve teknik tedbirler
 aşağıda sayılmıştır.</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İş bu politikanın takibinin
      gerçekleştirilmesi ve gereken durumlarda güncellemesi kapsamında Yönetim
@@ -818,7 +818,7 @@ aşağıda sayılmıştır.</span></p><ul style="margin-top:0cm" type="disc">
      uyumun sağlanması için yapılması gereken hususların tespiti ve uygulamanın
      takibinin yapılması,<o:p></o:p></span></li>
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">KVK Kurumu ile olan ilişkilerin
-     yönetilmesi, kapsamında yetkili ve sorumludur.</span></li></ul><p class="MsoNormal"><b><span style="font-size:11.0pt">İDARİ TEDBİRLER</span></b></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span><span style="font-size:11.0pt">, İdari Tedbirler
+     yönetilmesi, kapsamında yetkili ve sorumludur.</span></li></ul><p class="MsoNormal"><b><span style="font-size:11.0pt">İDARİ TEDBİRLER</span></b></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span><span style="font-size:11.0pt">, İdari Tedbirler
 kapsamında;</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kişisel verilerin korunması
      kurumsal bir şirket politikası haline getirilmiştir. Veri işleme
@@ -832,7 +832,7 @@ kapsamında;</span></p><ul style="margin-top:0cm" type="disc">
      edilen gerekliliklerin sağlanması için iş birimleri bazında uygulama
      kuralları belirlenmekte, bunların sürekliliğinin sağlanması için gerekli
      idari tedbirleri şirket içi eğitimler ile verilmektedir.<o:p></o:p></span></li>
- <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca,
+ <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca,
      çalışanlarına kişisel verilerin korunması ve veri güvenliği kapsamında
      eğitimlerini vermiş olup gerekli aydınlatmayı sözlü ve yazılı olarak
      sunmuştur. <o:p></o:p></span></li>
@@ -850,7 +850,7 @@ kapsamında;</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kişisel Veri / Özel Nitelikli
      Kişisel Verilerin güvenliği BGYS kapsamında prosedürler ile belirlenmiş ve
      alınmıştır. <o:p></o:p></span></li>
- <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca,
+ <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca,
      şirket içi görevlendirdiği kişi/kişiler tarafından Kişisel Veri Envanteri
      ve Varlık Envanteri işlenmekte ve güncel tutulmaktadır. <o:p></o:p></span></li>
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Kişisel veri içeren fiziksel
@@ -862,7 +862,7 @@ kapsamında;</span></p><ul style="margin-top:0cm" type="disc">
      İlgili kişilere yönelik aydınlatma yükümlülüğü yerine getirilmektedir.<o:p></o:p></span></li>
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Ticari gerekliliklerle kişisel
      verilerin korunması arasındaki dengenin varlığı gözetilmektedir.
-     Böylelikle süreç bazında riskler değerlendirilmektedir.</span><b style="font-size: 0.875rem;"><span style="font-size:11.0pt">&nbsp;</span></b></li></ul><p class="MsoNormal"><b><span style="font-size:11.0pt">TEKNİK TEDBİRLER</span></b></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span><span style="font-size:11.0pt">, teknik tedbirler
+     Böylelikle süreç bazında riskler değerlendirilmektedir.</span><b style="font-size: 0.875rem;"><span style="font-size:11.0pt">&nbsp;</span></b></li></ul><p class="MsoNormal"><b><span style="font-size:11.0pt">TEKNİK TEDBİRLER</span></b></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span><span style="font-size:11.0pt">, teknik tedbirler
 kapsamında;</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Teknik konularda yeterli
      uzmanlık düzeyinde personel istihdam edilebilir ya da yeterliliği ve
@@ -892,12 +892,12 @@ kapsamında;</span></p><ul style="margin-top:0cm" type="disc">
  <li class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%;
      mso-list:l13 level1 lfo15"><b><span style="font-size:11.0pt;line-height:115%">KİŞİSEL VERİLERİN İMHA
      TEKNİKLERİ<o:p></o:p></span></b></li>
-</ol><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span><span style="font-size:11.0pt;line-height:115%">,
+</ol><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span><span style="font-size:11.0pt;line-height:115%">,
 tarafından KVKK ve diğer ilgili mevzuata uygun olarak elde edilen kişisel
 veriler Kanun ve Yönetmelikte sayılan kişisel veri işleme amaçlarının ortadan
-kalkması halinde <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span> tarafından re’ sen yahut ilgili kişinin başvurusu üzerine yine
+kalkması halinde <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span> tarafından re’ sen yahut ilgili kişinin başvurusu üzerine yine
 Kanun ve ilgili mevzuat hükümlerine uygun olarak aşağıda belirtilen teknikler
-ile imha edilir. <o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span><span style="font-size:11.0pt;line-height:115%">
+ile imha edilir. <o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size: 11pt; line-height: 115%; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span><span style="font-size:11.0pt;line-height:115%">
 bünyesinde kişisel veriler gerekli olan işleme amaçları ve saklama süreleri
 sona ermeden ilgili kişisel veri silinmez, yok edilmez veya anonim hale
 getirilmez. <o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;margin-left:18.0pt;
@@ -917,7 +917,7 @@ getirilerek arşivlenmesi halinde de kişisel veriler silinmiş sayılacaktır. 
 bir Kişi / Kurum / Kuruluşun erişimine kapalı olması,<o:p></o:p></span></p><p class="MsoNormal" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:l8 level1 lfo11"><!--[if !supportLists]--><span style="font-size:11.0pt">-<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><!--[endif]--><span style="font-size:11.0pt">Kişisel verilere
 yalnızca yetkili kişiler tarafından erişilebilmesi sağlayacak şekilde gerekli
-her türlü idari ve teknik tedbirlerin alınması,</span></p><p class="MsoNormal"><span style="font-size:11.0pt">Not: <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span>, Bazı durumlarda kendisi
+her türlü idari ve teknik tedbirlerin alınması,</span></p><p class="MsoNormal"><span style="font-size:11.0pt">Not: <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span>, Bazı durumlarda kendisi
 adına kişisel verilerin silinmesi için bir uzman ile anlaşabilir. Bu durumda,
 kişisel veriler bu konuda uzman olan kişi tarafından ilgili kullanıcılar için
 hiçbir şekilde erişilemez ve tekrar kullanılmaz hale getirilecek biçimde
@@ -965,13 +965,13 @@ edilme işlemi yapılır. <o:p></o:p></span></p><p style="margin-left:54.0pt;tex
 </span></span></b><!--[endif]--><b><span style="font-size:11.0pt">Optik Diskler<o:p></o:p></span></b></p><p style="margin-left:54.0pt"><span style="font-size:11.0pt">CD, DVD gibi veri
 saklama ortamlarıdır. Yakma, küçük parçalara ayırma, eritme, parçalama gibi
 fiziksel yok etme yöntemleriyle yok edilir. <o:p></o:p></span></p><p class="MsoNormal"><span style="font-size:11.0pt">Yukarıda sayılan durumlar
-gerçekleşmesi sırasında <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span>; KVKK, Yönetmelik ve ilgili diğer mevzuat hükümlerine
+gerçekleşmesi sırasında <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span>; KVKK, Yönetmelik ve ilgili diğer mevzuat hükümlerine
 veri güvenliğinin sağlanması amacıyla tam uyum sağlamakta ve gerekli tüm idari
 ve teknik tedbirleri almaktadır.</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;margin-left:18.0pt;
 text-indent:-18.0pt;line-height:115%;mso-list:l0 level2 lfo16"><!--[if !supportLists]--><span style="font-size: 11pt; line-height: 115%;">9.3.</span><!--[endif]--><span style="font-size: 11pt; line-height: 115%;">KİŞİSEL VERİLERİN ANONİM HALE GETİRİLMESİ<b><o:p></o:p></b></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Kişisel verilerin anonim hale
 getirilmesi, kişisel verilerin başka verilerle eşleştirilse dahi hiçbir surette
 kimliği belirli veya belirlenebilir bir gerçek kişiyle ilişkilendirilemeyecek
-hale getirilmesidir. <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca</span> tarafından kişisel verilerin anonim hale getirilmesi
+hale getirilmesidir. <span style="background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca</span> tarafından kişisel verilerin anonim hale getirilmesi
 aşağıdaki gibidir. <o:p></o:p></span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><b><span style="font-size:11.0pt;line-height:
 115%">Değer Düzensizliği Sağlamayan Anonim Hale Getirme Yöntemleri<o:p></o:p></span></b></p><p><span style="font-size:11.0pt">Değer düzensizliği sağlamayan anonim hale
 getirme yöntemleri, saklanmakta olan kişisel verilerde bir değişiklik veya
@@ -1068,23 +1068,23 @@ birbiri ile yer değiştirme veya gruptan belirli bir veri veya alt veri grubunu
 line-height:115%"><b><span style="font-size:11.0pt;line-height:115%">&nbsp;</span></b></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;margin-left:18.0pt;
 text-indent:-18.0pt;line-height:115%;mso-list:l0 level1 lfo16"><!--[if !supportLists]--><b><span style="font-size:11.0pt;line-height:
 115%">10.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;
-</span></span></b><!--[endif]--><b><span style="font-size:11.0pt;line-height:115%">VERBİS KAYIT YÜKÜMLÜLÜĞÜ<o:p></o:p></span></b></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Sahia Deluxe Sapanca, veri sorumlusu olarak kayıt olmak zorunda olduğu ve veri
+</span></span></b><!--[endif]--><b><span style="font-size:11.0pt;line-height:115%">VERBİS KAYIT YÜKÜMLÜLÜĞÜ<o:p></o:p></span></b></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">The Green Park Sapanca, veri sorumlusu olarak kayıt olmak zorunda olduğu ve veri
 işleme faaliyetleri ile ilgili tüm bilgileri beyan ederek kayıt sistemine Veri
 Sorumluları Sicili (VERBİS) kayıt detaylarında belirtildiği şekilde kayıt olur
 ve bu kayıtları güncel tutar.</span></p><p class="MsoNormal" style="mso-margin-bottom-alt:auto;margin-left:18.0pt;
 text-indent:-18.0pt;line-height:115%;mso-list:l0 level1 lfo16"><!--[if !supportLists]--><b><span style="font-size:11.0pt;line-height:
 115%">11.<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: normal; font-stretch: normal; font-size: 7pt; line-height: normal; font-family: &quot;Times New Roman&quot;;">&nbsp;
 </span></span></b><!--[endif]--><b><span style="font-size:11.0pt;line-height:115%">KAPANIŞ <o:p></o:p></span></b></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">Bu
-Politika dokümanı, Sahia Deluxe Sapanca Yönetim Kurulu Üyeleri tarafından
+Politika dokümanı, The Green Park Sapanca Yönetim Kurulu Üyeleri tarafından
 onaylandığı andan itibaren yürürlüğe girer. İş bu Politikanın yürürlükten
 kaldırılması hususu hariç olmak üzere Politika içerisinde yapılacak
-değişiklikler ve ne şekilde yürürlüğe konacağı konusunda da “Sahia Deluxe Sapanca Yönetim Kurulu Üyeleri onayıyla iş bu Politika içerisindeki değişiklik
+değişiklikler ve ne şekilde yürürlüğe konacağı konusunda da “The Green Park Sapanca Yönetim Kurulu Üyeleri onayıyla iş bu Politika içerisindeki değişiklik
 yapılabilecek ve yürürlüğe konabilecektir.</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İş
 bu Politika her halükârda yılda bir kez gözden geçirilir, gerekli değişiklik
 varsa Yönetim Kurulu Üyelerinin onayına sunularak güncellenir. Kişisel
 Verilerin İşlenmesi, Saklanması ve İmha edilmesine ilişkin yürürlükte bulunan
-mevzuat ile Sahia Deluxe Sapanca KVK Politikası arasında çelişki bulunması
-halinde Sahia Deluxe Sapanca yürürlükte bulunan mevzuatın uygulama alanı
+mevzuat ile The Green Park Sapanca KVK Politikası arasında çelişki bulunması
+halinde The Green Park Sapanca yürürlükte bulunan mevzuatın uygulama alanı
 bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-align: center; "><b><span style="font-size:11.0pt">EK- TANIM ve TARİFLER</span></b></p><div align="center">
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="width: 516.4pt; border: none;">
@@ -1302,7 +1302,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:35.25pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Veri sorumlusu olan Sahia Deluxe Sapanca’ nın verdiği yetkiye dayanarak onun adına kişisel verileri
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Veri sorumlusu olan The Green Park Sapanca’ nın verdiği yetkiye dayanarak onun adına kişisel verileri
   işleyen gerçek veya tüzel kişiyi,<o:p></o:p></span></p>
   </td>
  </tr>
@@ -1333,7 +1333,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.5pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca Kişisel
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca Kişisel
   verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri kayıt sisteminin
   kurulmasından ve yönetilmesinden sorumlu olan ve ilgili veri sahibine gerekli
   bilgiyi sağlayan gerçek veya tüzel kişiyi ifade eder.<o:p></o:p></span></p>
@@ -1372,7 +1372,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.5pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca’ nın iş
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca’ nın iş
   süreçlerine bağlı olarak gerçekleştirmekte olduğu kişisel veri işleme
   faaliyetlerini; kişisel verileri işleme amaçları ve hukuki sebebi, veri
   kategorisi, aktarılan alıcı grubu ve veri konusu kişi grubuyla
@@ -1396,7 +1396,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Kişisel verilerin elektronik
   aygıtlar ile oluşturulabildiği, okunabildiği, değiştirilebildiği ve
   yazılabildiği ortamlar<o:p></o:p></span></p>
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca bünyesinde
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca bünyesinde
   yer alan sunucular, sabit ya da taşınabilir diskler, server gibi diğer
   dijital ortamlar<o:p></o:p></span></p>
   </td>
@@ -1414,7 +1414,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.5pt">
   <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Elektronik ortamların dışında kalan
   tüm yazılı, basılı, görsel vb. diğer ortamlar<o:p></o:p></span></p>
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca
   bünyesindeki kâğıt vb. üzerinde tutulduğu ortamlar<o:p></o:p></span></p>
   </td>
  </tr>
@@ -1429,7 +1429,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.5pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca’ nın
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca’ nın
   yönetim kurulu üyesi ve diğer yetkili gerçek kişiler<o:p></o:p></span></p>
   </td>
  </tr>
@@ -1444,7 +1444,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:23.5pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca’ ya
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca’ ya
   bağımlı olarak belirli veya belirsiz süreli iş gören tüm gerçek kişiler<o:p></o:p></span></p>
   </td>
  </tr>
@@ -1459,7 +1459,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:28.05pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca’ ya iş
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca’ ya iş
   başvurusunda bulunarak veya herhangi bir yolla özgeçmişini ve ilgili
   bilgilerini paylaşan gerçek kişiler<o:p></o:p></span></p>
   </td>
@@ -1475,7 +1475,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:19.4pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca’ da
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca’ da
   belirli sürelerde staj yapan tüm gerçek kişiler<o:p></o:p></span></p>
   </td>
  </tr>
@@ -1490,7 +1490,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.1pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca<o:p></o:p></span></p>
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca<o:p></o:p></span></p>
   </td>
  </tr>
  <tr style="mso-yfti-irow:25;height:17.4pt">
@@ -1504,7 +1504,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:17.4pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca’ nın
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca’ nın
   hizmet binalarını çeşitli amaçlarla ziyaret eden gerçek kişiler<o:p></o:p></span></p>
   </td>
  </tr>
@@ -1537,7 +1537,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.5pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca ile iş
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca ile iş
   ortağı çalışanları, bu şirket/kurum/kuruluş hissedarlar ve yetkilileri dahil
   olmak üzere tüm gerçek kişiler<o:p></o:p></span></p>
   </td>
@@ -1556,7 +1556,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.5pt">
   <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Herhangi bir sözleşme ilişkisi olup
-  olmadığına bakılmaksızın Sahia Deluxe Sapanca’ nın sunmuş olduğu
+  olmadığına bakılmaksızın The Green Park Sapanca’ nın sunmuş olduğu
   hizmetleri kullanmış, kullanan veya kullanacak olan tüm gerçek kişiler<o:p></o:p></span></p>
   </td>
  </tr>
@@ -1573,7 +1573,7 @@ bulacağını kabul eder.<o:p></o:p></span></p><p class="MsoNormal" style="text-
   border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:47.5pt">
-  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">Sahia Deluxe Sapanca
+  <p class="MsoNormal" style="mso-margin-bottom-alt:auto;line-height:115%"><span style="font-size:11.0pt;line-height:115%">The Green Park Sapanca
   bünyesinde kişisel verileri işlenen ilgili kişilerin KVK Kanunun 11.
   Maddesinde açıklanan haklarına ilişkin başvurularını kullanırken
   yararlanacakları başvuru formu<o:p></o:p></span></p>

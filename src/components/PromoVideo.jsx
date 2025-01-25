@@ -18,7 +18,7 @@ const PromoVideo = () => {
               <i className="star-rating" />
             </span>
             <div className="section-subtitle">
-              <span>Sahia Deluxe Sapanca</span>
+              <span>The Green Park Sapanca</span>
             </div>
             <div className="section-title">
               <span>Tanıtım Videosu</span>

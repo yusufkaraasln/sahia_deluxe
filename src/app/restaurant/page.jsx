@@ -71,7 +71,7 @@ const restaurant = () => {
                 <div className="section-subtitle">Duyular için Bir Deneyim</div>
                 <div className="section-title">Restoran</div>
                 <p className="mb-30">
-                Sahia Deluxe Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile öne çıkmaktadır. Özenle hazırlanmış, her damak tadına hitap eden sabah kahvaltısı, açık büfe akşam yemeğine ek olarak seçkin lezzetlerden oluşan beş çayı ile büfemizde kaliteli içeriklerin tadını çıkarabilirsiniz.
+                The Green Park Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile öne çıkmaktadır. Özenle hazırlanmış, her damak tadına hitap eden sabah kahvaltısı, akşam yemeğine ek olarak seçkin lezzetlerden oluşan beş çayı ile büfemizde kaliteli içeriklerin tadını çıkarabilirsiniz.
                 </p>
               </div>
             </div>

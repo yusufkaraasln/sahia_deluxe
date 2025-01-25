@@ -19,7 +19,7 @@ const index = () => {
         <p class="lead styled text-justify" style="font-family: Tahoma; font-size: 11px;">
 
  </p><p class="MsoNormal" style="text-align: center;"><span style="font-size: 18px;">BİLGİ GÜVENLİĞİ YÖNETİM SİSTEMİ POLİTİKASI</span></p><p class="MsoNormal" style="margin-bottom:22.5pt"><span style="font-size: 10.5pt; font-family: Helvetica, sans-serif;">TS EN ISO 27001:2013 EK/A
-Maddeleri Bilgi Güvenliği Yönetim Sistemin ana teması; Sahia Deluxe Sapanca Şirketi ürün ve hizmetlerinde, insan, alt yapı, yazılım,
+Maddeleri Bilgi Güvenliği Yönetim Sistemin ana teması; The Green Park Sapanca Şirketi ürün ve hizmetlerinde, insan, alt yapı, yazılım,
 donanım, müşteri bilgileri, kuruluş bilgileri, üçüncü şahıslara ait bilgiler ve
 finansal kaynaklar içerisinde bilgi güvenliği yönetiminin sağlandığını
 göstermek, risk yönetimini güvence altına almak, bilgi güvenliği yönetimi süreç
@@ -27,7 +27,7 @@ performansını ölçmek ve bilgi güvenliği ile ilgili konularda üçüncü ta
 olan ilişkilerin düzenlenmesini sağlamaktır.<o:p></o:p></span></p><p class="MsoNormal" style="margin: 0cm 0cm 22.5pt 21.3pt; line-height: 15.75pt;"><span style="font-size: 10.5pt; font-family: Helvetica, sans-serif;">Bu doğrultuda&nbsp;<b><i><u>BGYS
 Politikamızın</u></i></b>&nbsp;amacı;<o:p></o:p></span></p><p class="MsoNormal" style="margin: 0cm 0cm 22.5pt 36pt; text-indent: -18pt; line-height: 15.75pt;"><span noto="" sans="" ";="" "noto="" "=""><span style="font-size: 10pt; font-family: Helvetica, sans-serif;">●<span times="" new="" "="" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal;"></span><span style="font-size: 7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style="font-size: 10.5pt; font-family: Helvetica, sans-serif;">İçeriden
 veya dışarıdan, bilerek ya da bilmeyerek meydana gelebilecek her türlü tehdide
-karşı&nbsp;<b>Sahia Deluxe Sapanca &nbsp;</b>Bilgi varlıklarını korumak, bilgiye erişilebilirliği iş
+karşı&nbsp;<b>The Green Park Sapanca &nbsp;</b>Bilgi varlıklarını korumak, bilgiye erişilebilirliği iş
 süreçleriyle gerektiği şekilde sağlamak, yasal mevzuat gereksinimlerini
 karşılamak, sürekli iyileştirmeye yönelik çalışmalar yapmak,<o:p></o:p></span><u1:p></u1:p></p><p class="MsoNormal" style="margin: 0cm 0cm 22.5pt 36pt; text-indent: -18pt; line-height: 15.75pt;"><span noto="" sans="" ";="" "noto="" "=""><span style="font-size: 10pt; font-family: Helvetica, sans-serif;">●<span times="" new="" "="" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal;"></span><span style="font-size: 7pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span><span style="font-size: 10.5pt; font-family: Helvetica, sans-serif;">Yürütülen
 tüm faaliyetlerde Bilgi Güvenliği Yönetim Sisteminin üç temel öğesinin

@@ -39,7 +39,7 @@ const page = () => {
                   Sapanca Gölü Manzaralı Lüks Otel
                 </div>
                 <p>
-                  Sahia Deluxe Sapanca, göz alıcı Sapanca Gölü ve harika doğa manzarasıyla sizi
+                  The Green Park Sapanca, göz alıcı Sapanca Gölü ve harika doğa manzarasıyla sizi
                   karşılamaktan mutluluk duyuyor.
                 </p>
                 <p>
@@ -99,7 +99,7 @@ const page = () => {
                     <h6>Sapanca Manzarası</h6>
                     <h4>Otelimizin Hikayesi</h4>
                     <p>
-                      Sahia Deluxe Sapanca, doğayla iç içe bir deneyim sunmak
+                      The Green Park Sapanca, doğayla iç içe bir deneyim sunmak
                       amacıyla kurulmuştur. Otelimizin temel prensibi,
                       konuklarımızın rahatlığı ve memnuniyetidir. Her ayrıntıyı
                       düşünerek tasarladığımız villalarımızla, sizlere unutulmaz
@@ -128,9 +128,9 @@ const page = () => {
                       menüsü ile her damak zevkine hitap etmektedir.
                       <br />
                       <br />
-                      Sahia Deluxe Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile öne çıkmaktadır.
+                      The Green Park Sapanca, mükemmel mutfağı ve eşsiz ambiyansı ile öne çıkmaktadır.
                       Özenle hazırlanmış, her damak tadına hitap eden sabah kahvaltısı,
-                      açık büfe akşam yemeğine ek olarak seçkin lezzetlerden oluşan beş çayı
+                      akşam yemeğine ek olarak seçkin lezzetlerden oluşan beş çayı
                       ile büfemizde kaliteli içeriklerin tadını çıkarabilirsiniz.
                     </p>
                     <p>

@@ -120,7 +120,7 @@ const ContactPage = () => {
                     <span className="flaticon-location-pin" />
                   </div>
                   <div className="text">
-                    <p>Adres</p> Sahia Deluxe Sapanca Otel<br />
+                    <p>Adres</p> The Green Park Sapanca Otel<br />
                     Kahraman 1 sokak No:57/1  İlmiye/Sapanca SAKARYA
                   </div>
                 </div>

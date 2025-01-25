@@ -29,7 +29,7 @@ const page = () => {
                   <i className="star-rating" />
                   <i className="star-rating" />
                 </span>
-                <h5>Sahia Deluxe Sapanca</h5>
+                <h5>The Green Park Sapanca</h5>
                 <h1>Villalar</h1>
               </div>
             </div>

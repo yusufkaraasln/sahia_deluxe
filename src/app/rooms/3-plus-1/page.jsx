@@ -29,7 +29,7 @@ const page = () => {
           <div className="container">
             <div className="row h-100 justify-content-center">
               <div className="col-lg-10 col-md-12">
-                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h4>The Green Park Sapanca&apos;ya Hoşgeldiniz</h4>
                 <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
                 <div className="butn-dark">
                   {" "}
@@ -54,7 +54,7 @@ const page = () => {
           <div className="container">
             <div className="row h-100 justify-content-center">
               <div className="col-lg-10 col-md-12">
-                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h4>The Green Park Sapanca&apos;ya Hoşgeldiniz</h4>
                 <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
                 <div className="butn-dark">
                   {" "}
@@ -77,7 +77,7 @@ const page = () => {
           <div className="container">
             <div className="row h-100 justify-content-center">
               <div className="col-lg-10 col-md-12">
-                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h4>The Green Park Sapanca&apos;ya Hoşgeldiniz</h4>
                 <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
                 <div className="butn-dark">
                   {" "}
@@ -100,7 +100,7 @@ const page = () => {
           <div className="container">
             <div className="row h-100 justify-content-center">
               <div className="col-lg-10 col-md-12">
-                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h4>The Green Park Sapanca&apos;ya Hoşgeldiniz</h4>
                 <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
                 <div className="butn-dark">
                   {" "}
@@ -123,7 +123,7 @@ const page = () => {
           <div className="container">
             <div className="row h-100 justify-content-center">
               <div className="col-lg-10 col-md-12">
-                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h4>The Green Park Sapanca&apos;ya Hoşgeldiniz</h4>
                 <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
                 <div className="butn-dark">
                   {" "}
@@ -146,7 +146,7 @@ const page = () => {
           <div className="container">
             <div className="row h-100 justify-content-center">
               <div className="col-lg-10 col-md-12">
-                <h4>Sahia Deluxe Sapanca&apos;ya Hoşgeldiniz</h4>
+                <h4>The Green Park Sapanca&apos;ya Hoşgeldiniz</h4>
                 <h1>3+1 Bahçeli, Isıtmalı Havuzlu Villa</h1>
                 <div className="butn-dark">
                   {" "}
@@ -174,7 +174,7 @@ const page = () => {
                   <i className="star-rating" />
                   <i className="star-rating" />
                 </span>
-                <div className="section-subtitle">Sahia Deluxe Sapanca</div>
+                <div className="section-subtitle">The Green Park Sapanca</div>
                 <div className="section-title">3&#43;1 Bahçeli, Isıtmalı Havuzlu Villa</div>
               </div>
               <div className="col-lg-8 col-md-12">

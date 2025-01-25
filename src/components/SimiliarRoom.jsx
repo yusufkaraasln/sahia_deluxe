@@ -7,7 +7,7 @@ const SimiliarRoom = () => {
       <div className="row">
         <div className="col-md-12 text-center">
           <div className="section-subtitle">
-            <span>Sahia Deluxe Sapanca</span>
+            <span>The Green Park Sapanca</span>
           </div>
         </div>
       </div>
