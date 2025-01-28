@@ -2,7 +2,7 @@
 
 import nodemailer from 'nodemailer';
 
-const email = 'mailer@sahiadeluxe.com';
+const email = 'mailer@thegreenparksapanca.com';
 const pass = 'verder123';
 
 export const transporter = nodemailer.createTransport({

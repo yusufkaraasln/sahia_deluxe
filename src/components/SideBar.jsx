@@ -98,7 +98,7 @@ const SideBar = () => {
             <a href="tel:08554509654">
               <span className="flaticon-call" />
             </a>{" "}
-            <a href="mailto:info@sahiadeluxe.com">
+            <a href="mailto:info@thegreenparksapanca.com">
               <span className="flaticon-envelope" />
             </a>{" "}
             <a href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x14ccaf5aa9e78523:0xc9690426f5529184?sa=X&ved=1t:8290&ictx=111" target="_blank">

@@ -98,8 +98,8 @@ export async function POST(req) {
         }
 
         await transporter.sendMail({
-            from: 'mailer@sahiadeluxe.com',
-            to: 'info@sahiadeluxe.com',
+            from: 'mailer@thegreenparksapanca.com',
+            to: 'info@thegreenparksapanca.com',
             ...generateEmailContent(data, data.type),
             subject: `Yeni ${data.type} Talebi!`
         });

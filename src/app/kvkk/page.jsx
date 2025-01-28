@@ -776,7 +776,7 @@ uğraması halinde zararın giderilmesini talep etme, haklarına sahiptir.</span
 tespit etmek adına ilgili kişiden bilgi talep edebilir ve ilgili kişinin
 başvurusunda yer alan hususları netleştirmek adına, ilgili kişiye başvurusu ile
 ilgili soru yöneltebilir. Başvuru ve cevap verme usulüne ilişkin detaylar “Veri
-Sahibi (İlgili Kişi) Başvuru Formu” nda yer almaktadır. <a href="http://www.sahiadeluxe.com/">www.sahiadeluxe.com</a> internet
+Sahibi (İlgili Kişi) Başvuru Formu” nda yer almaktadır. <a href="http://www.thegreenparksapanca.com/">www.thegreenparksapanca.com</a> internet
 sitemizde Başvuru Formuna erişilebilir.</span><span style="font-size: 11pt;">&nbsp;</span></p><p class="MsoNormal"><span style="font-size: 11pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;">İlgili
 kişi başvurusunun; diğer kişilerin hak ve özgürlüklerini engelleme ihtimali
 olması, orantısız çaba gerektirmesi, bilginin kamuya açık bir bilgi olması

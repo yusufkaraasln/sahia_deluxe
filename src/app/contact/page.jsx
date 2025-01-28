@@ -106,12 +106,12 @@ const ContactPage = () => {
                   </div>
                   <div className="text">
                     <p>Email Bilgisi</p>{" "}
-                    <a href="mailto:info@sahiadeluxe.com">
-                      info@sahiadeluxe.com
+                    <a href="mailto:info@thegreenparksapanca.com">
+                      info@thegreenparksapanca.com
                     </a>
                     <br />
-                    <a href="mailto:info@sahiadeluxe.com">
-                      rezervasyon@sahiadeluxe.com
+                    <a href="mailto:info@thegreenparksapanca.com">
+                      rezervasyon@thegreenparksapanca.com
                     </a>
                   </div>
                 </div>
