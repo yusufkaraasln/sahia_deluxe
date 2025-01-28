@@ -72,7 +72,7 @@ const Footer = () => {
                 
                 </div>
                 <div className="footer-about-social-list">
-                  <Link href="https://instagram.com/sahiadeluxesapanca">
+                  <Link href="https://instagram.com/thegreenparksapanca">
                     <i className="ti-instagram" />
                   </Link>
                   
