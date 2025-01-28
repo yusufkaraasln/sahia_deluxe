@@ -99,7 +99,7 @@ export async function POST(req) {
 
         await transporter.sendMail({
             from: 'mailer@thegreenparksapanca.com',
-            to: 'info@thegreenparksapanca.com',
+            to: 'sapanca@thegreenpark.com',
             ...generateEmailContent(data, data.type),
             subject: `Yeni ${data.type} Talebi!`
         });

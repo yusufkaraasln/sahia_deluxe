@@ -63,11 +63,11 @@ const Footer = () => {
                     <span className="flaticon-call" /> 0264 299 0144
                   </p>
                   <p className="footer-contact-mail">
-                    info@thegreenparksapanca.com
+                    sapanca@thegreenpark.com
                   </p>
                   <br />
                   <p className="footer-contact-mail">
-                  rezervasyon@thegreenparksapanca.com
+                  sapancarezervasyon@thegreenpark.com
                   </p>
                 
                 </div>
