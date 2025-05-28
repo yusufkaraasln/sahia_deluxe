@@ -226,7 +226,7 @@ const page = () => {
                   <div className="col-md-12">
                     <h6>Çocuk Misafir Politikamız</h6>
                     <p>
-                      0-12 yaş 1 çocuk ücretsiz konaklayabilir. 2. çocuk için ekstra ücretlendirme yapılacaktır. Detaylı bilgi için rezervasyon bölümü ile iletişim kurulmalıdır.
+                      0-6 yaş 1 çocuk ücretsiz konaklayabilir. 2. çocuk için ekstra ücretlendirme yapılacaktır. Detaylı bilgi için rezervasyon bölümü ile iletişim kurulmalıdır.
                     </p>
                   </div>
                 </div>
