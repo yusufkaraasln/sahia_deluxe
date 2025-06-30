@@ -65,11 +65,40 @@ const page = () => {
                    <p>Parmak patates ve pilav eşliğinde</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Dondurma <span class="price">150 TL</span></h5>
+                   <h5>Meyve Tabağı <span class="price">250 TL</span></h5>
+                   <p>2 kişilik</p>
+                 </div>
+                 <div class="menu-info">
+                   <h5>Dondurma <span class="price">120 TL</span></h5>
                    <p>1 porsiyon 3 top</p>
                  </div>
                  <div class="menu-info">
                    <h5>Pasta Çeşitleri <span class="price">160 TL</span></h5>
+                 </div>
+
+                 <div class="section-title mt-5">İçecekler</div>
+                 
+                 <div class="menu-info">
+                   <h5>Soğuk İçecekler <span class="price">90 TL</span></h5>
+                   <p>Coca cola, Fanta, Sprite, Meyve suyu çeşitleri</p>
+                 </div>
+                 <div class="menu-info">
+                   <h5>Maden Suyu <span class="price">40 TL</span></h5>
+                 </div>
+                 <div class="menu-info">
+                   <h5>Meyveli Maden Suyu <span class="price">60 TL</span></h5>
+                 </div>
+                 <div class="menu-info">
+                   <h5>Türk Kahvesi <span class="price">90 TL</span></h5>
+                 </div>
+                 <div class="menu-info">
+                   <h5>Filtre Kahve <span class="price">110 TL</span></h5>
+                 </div>
+                 <div class="menu-info">
+                   <h5>Çay <span class="price">40 TL</span></h5>
+                 </div>
+                 <div class="menu-info">
+                   <h5>Bitki Çayları <span class="price">70 TL</span></h5>
                  </div>
                </div>
              </div>
