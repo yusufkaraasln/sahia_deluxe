@@ -22,80 +22,80 @@ const page = () => {
              <div class="restaurant-menu-content col-md-12">
                <div id="menu-content" class="cont active">
                  <div class="menu-info">
-                   <h5>Günün Çorbası <span class="price">90 TL</span></h5>
+                   <h5>Günün Çorbası <span class="price">100 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Mantı <span class="price">270 TL</span></h5>
+                   <h5>Mantı <span class="price">320 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Lahmacun (porsiyon 2 adet) <span class="price">220 TL</span></h5>
+                   <h5>Lahmacun (porsiyon 2 adet) <span class="price">290 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Pizza (karışık) <span class="price">290 TL</span></h5>
+                   <h5>Pizza (karışık) <span class="price">320 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Hamburger <span class="price">370 TL</span></h5>
+                   <h5>Hamburger <span class="price">390 TL</span></h5>
                    <p>Parmak patates eşliğinde</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Cheeseburger <span class="price">400 TL</span></h5>
+                   <h5>Cheeseburger <span class="price">420 TL</span></h5>
                    <p>Parmak patates eşliğinde</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Kaşarlı Tost <span class="price">190 TL</span></h5>
+                   <h5>Kaşarlı Tost <span class="price">220 TL</span></h5>
                    <p>Parmak patates eşliğinde</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Sucuklu – Kaşarlı Tost <span class="price">210 TL</span></h5>
+                   <h5>Sucuklu – Kaşarlı Tost <span class="price">240 TL</span></h5>
                    <p>Parmak patates eşliğinde</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Patates Kızartması <span class="price">120 TL</span></h5>
+                   <h5>Patates Kızartması <span class="price">130 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Çıtır Sepeti <span class="price">250 TL</span></h5>
+                   <h5>Çıtır Sepeti <span class="price">290 TL</span></h5>
                    <p>Parmak patates, soğan halkası, çıtır tavuk, sosis</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Köfte Izgara <span class="price">480 TL</span></h5>
+                   <h5>Köfte Izgara <span class="price">520 TL</span></h5>
                    <p>Parmak patates ve pilav eşliğinde</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Tavuk Izgara <span class="price">450 TL</span></h5>
+                   <h5>Tavuk Izgara <span class="price">470 TL</span></h5>
                    <p>Parmak patates ve pilav eşliğinde</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Meyve Tabağı <span class="price">250 TL</span></h5>
+                   <h5>Meyve Tabağı <span class="price">270 TL</span></h5>
                    <p>2 kişilik</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Dondurma <span class="price">120 TL</span></h5>
+                   <h5>Dondurma <span class="price">150 TL</span></h5>
                    <p>1 porsiyon 3 top</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Pasta Çeşitleri <span class="price">160 TL</span></h5>
+                   <h5>Pasta Çeşitleri <span class="price">190 TL</span></h5>
                  </div>
 
                  <div class="section-title mt-5">İçecekler</div>
                  
                  <div class="menu-info">
-                   <h5>Soğuk İçecekler <span class="price">90 TL</span></h5>
+                   <h5>Soğuk İçecekler <span class="price">100 TL</span></h5>
                    <p>Coca cola, Fanta, Sprite, Meyve suyu çeşitleri</p>
                  </div>
                  <div class="menu-info">
-                   <h5>Maden Suyu <span class="price">40 TL</span></h5>
+                   <h5>Maden Suyu <span class="price">50 TL</span></h5>
                  </div>
                  <div class="menu-info">
                    <h5>Meyveli Maden Suyu <span class="price">60 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Türk Kahvesi <span class="price">90 TL</span></h5>
+                   <h5>Türk Kahvesi <span class="price">100 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Filtre Kahve <span class="price">110 TL</span></h5>
+                   <h5>Filtre Kahve <span class="price">140 TL</span></h5>
                  </div>
                  <div class="menu-info">
-                   <h5>Çay <span class="price">40 TL</span></h5>
+                   <h5>Çay <span class="price">50 TL</span></h5>
                  </div>
                  <div class="menu-info">
                    <h5>Bitki Çayları <span class="price">70 TL</span></h5>
